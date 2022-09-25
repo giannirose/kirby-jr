@@ -1,0 +1,27 @@
+@media screen and (min-width: 960px) {
+  .floatleft img {
+    width: 35vw;
+    border: 5px solid red;
+  }
+
+  .floatright img {
+    width: 35vw;
+    border: 5px solid red;
+  }
+
+  .center img {
+    border: 10px solid blue;
+  }
+
+  .floatleft {
+    float: left;
+  }
+
+  .floatright {
+    float: right;
+  }
+}
+
+/* The following are carried over from article.css for the parking article */
+
+/* End the carry-over from article.css */
