@@ -1,0 +1,35 @@
+
+Template: blocks/image
+----
+Title: Mosaics
+----
+Text: 
+
+Mosaics have always seemed like a companion art form to stained glass, whether because of their association with churches or because the first designer I worked with, Peter Van Rossum, was so accomplished at both.
+
+In 2008 I attended the wonderful <a href="https://mosaicschool.com/art/">Mosaic School of Luciano Notturni</a> in Ravenna, Italy. There we learned the basics of working in mosaic in the style of the work in the Byzantine monuments of the 5th and 6th centuries that are plentiful there. Ravenna was the capital of what is commonly called the western Roman empire, denoting a time when the empire, moved to Constantinople, successfully re-claimed much of Italy. Monuments were build by the emperor Justinian and also by Theodoric, who supplanted the Byzantines but carried on the art traditions.
+
+Pictured here is a piece made at the school, a dove or "columba." The original image is from Ravenna's Mausoleum of the empress Galla Placidia built in the 6th century.
+----
+
+Width: 1022
+
+----
+
+Height: 1024
+
+----
+
+Caption: Mosaic- a copy of a details from the 6th c. Mausoleum of Galla Placidia in Ravenna, Italy
+
+----
+
+Citation:
+
+----
+
+Alt: A dove perched on the edge of a birdbath in mosaic
+
+----
+
+Template: blocks/image 
