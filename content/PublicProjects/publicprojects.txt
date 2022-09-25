@@ -1,0 +1,54 @@
+Title: Public Projects
+
+----
+
+Text:
+
+Public art projects include, in Eugene, Oregon:
+
+* The ticket office at the Hult Center for the Performing Arts
+* Eugene Station- the central downtown bus station
+- Spencer View Housing at the University of Oregon
+- Eugene Public Library
+- With sculptor Ellen Tykeson, the Eugene Police Department
+- With Susan Price, artwork for Price Science Commons at the U of O
+
+And in Newport, Oregon
+
+- Newport Public Library
+- With metal-master Greg Wilbur, Newport City Hall
+
+Pictured here, the drawing for the Eugene Public Library 1st floor window
+
+----
+
+Imageclass: project-image
+
+----
+
+Template: blocks/image
+
+----
+
+alt: The spiral design in white and blue with random colored areas
+
+----
+
+Width: 1127
+
+----
+
+Height: 512
+
+----
+
+Caption: Drawing for the Eugene Public Library 1st floor window
+
+----
+
+Citation: Citation here
+
+----
+
+Link: https://johnrose-glass.com
+
