@@ -1,0 +1,35 @@
+Title: Repair & Restoration
+
+----
+
+Text:
+
+Repair projects include anything from small suncatchers to broken panels of glass where the basic structure of the panel is sound. It is usually necessary to bring panels and other items to the studio, though there are situations when the repairs can be done in place.
+
+Restoration is basically repair work, but these situations are where panels need to be re-worked in some way, whether because of "bowing" of the panel or extensive repairs that require separating the elements and then re-assembling them.
+
+Pictured here is the intriguing Hope Abbey Mausoleum. Over a period of fifteen years and working with Pete LaVelle, the original 80 windows were completely re-built using new materials that matched, quite faithfully, the old panels that, over time, were completely shattered and bent. Also at the site is a cemetery and scatter garden that has been lovingly restored and maintained.
+
+----
+
+Template: blocks/image
+
+----
+
+Width: 1600
+
+----
+
+Height: 1200
+
+----
+
+Caption: The Egyptian Revival Style Hope Abbey Mausoleum
+
+----
+
+Citation: 
+
+----
+
+Alt: The mausoleum featuring the wide wing design and papyrus flower motifs derived from ancient Egypt
