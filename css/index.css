@@ -1,4 +1,7 @@
 /* reset */
+:root {
+  --header-bg-color: hsla(195, 100%, 15%, 1);
+}
 
 ul,
 h1,
@@ -18,27 +21,43 @@ h6 {
 
 /* End reset */
 
-body {
+:root {
+  --header-bg-color: hsla(195, 100%, 15%, 1);
+  --header-text-color: hsla(54, 100%, 50%, 1);
+  --nav-text-color: hsla(54, 100%, 75%, 1);
+  --white: #fff;
+}
+
+html {
   font-size: 10px;
+}
+
+body {
+  margin: 0 auto;
   line-height: 1.5;
-  margin: 0 3%;
+  max-width: 1024px;
 }
 
 article p {
   max-width: 75ch;
+  margin: 0 auto;
+  margin-top: 1.85rem;
 }
 
-p,
 li {
-  font-size: 1.2rem;
+  font-size: clamp(1.4rem, .76vw + 1.13rem, 2.2rem);
 }
 
 h1 {
-  font-size: 2.4rem;
+  font-size: clamp(1.5rem, 1.81vw + .87rem, 3.4rem);
 }
 
 h2 {
-  font-size: 2.25rem;
+  font-size: clamp(1rem, 1.43vw + .5rem, 2.5rem);
+}
+
+h2.page-title {
+  font-size: clamp(1.5rem, 1.81vw + .87rem, 3.4rem);
 }
 
 h3 {
@@ -61,25 +80,40 @@ cite {
   color: var(--dk-grey);
   color: grey;
   display: block;
-  font-size: 1rem;
+  caption-side: bottom;
+  font-size: 1.4rem;
+}
+
+code {
+  font-size: 1.4rem;
+  background-color: antiquewhite;
 }
 
 figure {
   display: table;
   margin: 0 auto;
   text-align: center;
+  border: 1px solid silver;
+  padding: .85rem;
 }
 
 figcaption {
-  display: table-caption;
   caption-side: bottom;
-  font-size: 1.2rem;
+  font-size: 1.6rem;
   margin: .8rem .4rem .2rem .4rem;
 }
 
-figcaption p {
-  font-size: 1.2rem;
+figcaption p.caption {
+  font-size: 1.6rem;
   padding: 0;
+  margin: 0;
+}
+
+figcaption p.citation {
+  font-size: 1.4rem;
+  font-style: italic;
+  padding: 0;
+  margin: 0;
 }
 
 .figure {
@@ -98,12 +132,6 @@ figcaption p {
 
 .figure .figure-caption {
   display: inline-block;
-}
-
-@media screen and (min-width: 640px) {
-  figcaption {
-    display: table-caption;
-  }
 }
 
 .figure-lft {
@@ -170,23 +198,28 @@ li {
   }
 }
 
-
-
-
-
 p {
-  font-size: 1.2rem;
+  font-size: clamp(1.6rem, .76vw + 1.33rem, 2.4rem);
 }
 
 p.ch-width-60 {
   max-width: 60ch;
 }
 
-
 .page-header-nav a:hover {
   text-decoration: underline;
   background: #0083b3;
   font-weight: 800;
+}
+
+.page-subtitle {
+  font-size: clamp(1rem, 1.43vw + .5rem, 2.5rem);
+  font-weight: bold;
+  margin-block-start: 0;
+  margin-block-end: 0;
+  margin-inline-start: 0px;
+  margin-inline-end: 0px;
+  padding-inline-start: 0;
 }
 
 .page-header {
@@ -243,26 +276,24 @@ ul.projects {
 
 /* Set grid for header and nav */
 
-/*
 header {
-	background-color: hsla(195, 100%, 15%, 1);
-	margin-bottom: 3rem;
+  margin-left: -3%;
+  margin-right: -3%;
+  margin-bottom: 2vw;
 }
-*/
 
 .header-main {
   display: grid;
-  grid-template-columns: 24% 74%;
-  grid-template-rows: 30px auto 30px 1fr;
+  grid-template-columns: 25% 75%;
 }
 
-.header-logo {
+
+.header-logo-box {
   grid-column: 1;
   grid-row-start: 1;
   grid-row-end: 4;
-  padding-left: 4vw;
+  padding-left: 3vw;
   z-index: 2;
-  align-self: stretch;
 }
 
 .header-top {
@@ -274,23 +305,15 @@ header {
 .header-spacer {
   grid-column: 1;
   grid-row: 2;
-  background-color: hsla(195, 100%, 15%, 1);
+  background-color: var(--header-bg-color);
 }
 
 .header-text {
   grid-column: 2;
   grid-row: 2;
-  background-color: hsla(195, 100%, 15%, 1);
-  padding-top: 3vh;
-  padding-bottom: 4vh;
-}
-
-.header-main h1 {
-  font-size: 3.5vw;
-}
-
-.header-main h2 {
-  font-size: 2.5vw;
+  background-color: var(--header-bg-color);
+  padding-top: clamp(.7rem, 2.19vw - .07rem, 3rem);
+  padding-bottom: clamp(.7rem, 1.24vw + .27rem, 2rem)
 }
 
 .header-bottom {
@@ -303,51 +326,64 @@ header {
 .header-nav {
   grid-column: 1 / 3;
   grid-row: 4;
-
+  background-color: var(--header-bg-color);
+  border-top: 5px solid var(--white);
 }
 
 .nav-main {
   display: flex;
-  background-color: #fff;
+  flex: 0 1 auto;
+  justify-content: center;
 }
 
 .nav-main li {
   text-decoration: none;
   list-style: none;
   text-align: center;
-  border-bottom: 1px solid hsla(195, 100%, 15%, 1);
-  border-right: 1px solid hsla(195, 100%, 15%, 1);
+  border-right: 1px solid var(--header-text-color);
+  font-size: clamp(1rem, .95vw + .67rem, 2rem);
 }
 
 .nav-main li a {
-  color: hsla(195, 100%, 15%, 1);
+  color: var(--nav-text-color);
   font-family: "Helvetica Neue", Helvetica, Roboto, Arial, sans-serif;
   text-decoration: none;
   padding: .5rem 1rem;
-  font-size: 3vh;
-
-}
-
-.nav-main li:hover {
-  text-decoration: underline;
+  display: flex;
+  flex: 1;
+  align-content: center;
+  /* will vertically center multi-line text */
+  align-items: center;
+  /* will vertically center single-line text */
 }
 
 .nav-main li:last-child {
   border-right: none;
 }
 
+.nav-main li:hover {
+  text-decoration: underline;
+}
 
+/* End mobile header and nav elements */
+
+
+/* Set large screen header and nav elements */
 
 @media screen and (min-width: 960px) {
   .header-main {
-    display: grid;
-    grid-template-columns: 24% 74%;
-    grid-template-rows: 30px auto auto 30px 1fr;
+    grid-template-rows: 3rem auto auto 3rem;
   }
 
-  .header-logo {
+  .header-logo-box {
     grid-column: 1;
     grid-row: 1 / 5;
+    padding-left: 2vw;
+    align-self: center;
+  }
+
+  img .header-logo {
+    width: 100%;
   }
 
   .header-top {
@@ -358,16 +394,7 @@ header {
   .header-text {
     grid-column: 2;
     grid-row: 2;
-    padding-bottom: 2vh;
-  }
-
-  .header-main h1 {
-    font-size: 2.5vw;
-  }
-
-  .header-main h2 {
-    font-size: 1.85vw;
-    padding-top: 1vw;
+    background-color: hsla(195, 100%, 15%, 1);
   }
 
   .header-spacer {
@@ -385,38 +412,32 @@ header {
     grid-column: 2;
     grid-row: 3;
     background-color: hsla(195, 100%, 15%, 1);
-    padding-bottom: 2vh;
+    border-top: none;
   }
 
   .nav-main {
     background-color: hsla(195, 100%, 15%, 1);
     justify-content: center;
+    border-top: none;
   }
 
-  .nav-main li {
-    border-right: 1px solid hsl(54, 100%, 50%);
-  }
-
-  .nav-main li a {
-    color: hsl(54, 100%, 50%);
+  .header-nav li a {
     padding: 1rem 1.85rem;
-    font-size: 1.35rem;
   }
 }
+
+/* End large screen set header and nav elements */
 
 .page-title {
   margin: 0;
-  font-size: 1.15rem;
   text-align: center;
-  color: var(--main-header-color);
   font-weight: bold;
   letter-spacing: .2rem;
   font-family: "Helvetica Neue", Helvetica, Roboto, Arial, sans-serif;
-  color: hsla(54, 100%, 50%, 1);
+  color: var(--header-text-color);
 }
 
 .page-subtitle {
-  font-size: .85rem;
   color: var(--main-header-color);
   font-family: Georgia, serif;
   font-style: italic;
@@ -426,4 +447,18 @@ header {
 
 .floatright {
   float: right;
+  margin: 0 4rem;
+}
+
+ul {
+  margin-left: 1rem;
+}
+
+.red {
+  color: red;
+}
+
+/* Might want to put this in the blog.css */
+.clearboth {
+  clear: both
 }
