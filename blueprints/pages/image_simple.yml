@@ -1,0 +1,31 @@
+# Reference this kirby page https://getkirby.com/docs/reference/panel/samples/file
+
+title: Image
+
+accept:
+  extension: jpg, png, svg
+
+fields:
+  alt:
+    label: Alt Text
+    type: text
+    width: 1/2
+    required: true
+  align:
+    label: Align
+    type: select
+    options:
+      - left
+      - center
+      - right
+    width: 1/2
+  caption:
+    label: Caption in files > image.yml
+    type: textarea
+  citation:
+    label: Cite
+    type: text
+    help: This is an additional line below the caption for citing source or other info
+    width: 1/2
+
+
