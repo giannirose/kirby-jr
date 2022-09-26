@@ -1,0 +1,64 @@
+title: Article
+num: '{{ page.date.toDate("Ymd") }}'
+icon: 📖
+
+status:
+  draft:
+    label: Draft
+    text: The article is still in draft mode. It can only be seen by editors with panel access.
+  unlisted:
+    label: In Review
+    text: The article is online and can be visited with the direct URL. The team must still give the final go to publish it.
+  listed:
+    label: Published
+    text: The article is online and listed in the blog
+
+columns:
+  main:
+    width: 2/3
+    fields:
+      headline:
+        label: Headline
+        type: text
+      subheadline:
+        label: Sub-headline
+        type: text
+      Intro:
+        type: textarea
+        size: medium
+      text:
+        type: textarea
+        size: large
+        help: attributes are alt, caption, class, height, imgclass, link, linkclass, rel, target, title, width. Use format attribute name:enter
+      layout:
+        label: Layout
+        type: layout
+        layouts:
+          - "1/1"
+          - "1/2, 1/2"
+          - "1/3, 1/3, 1/3"
+          - "5/12, 7/12"
+          - "7/12, 5/12"
+
+
+  sidebar:
+    width: 1/3
+    sections:
+      meta:
+        type: fields
+        fields:
+          date:
+            type: date
+            time: true
+            default: now
+          author:
+            type: users
+          tags:
+            type: tags
+          files:
+            type: files
+            uploads: image
+          pdf:
+            label: PDF's
+            type: files
+
