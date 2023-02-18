@@ -1,0 +1,13 @@
+Title: Contact
+
+----
+
+Text: Thank you for your inquiry. I'll get back to you!
+
+----
+
+Uuid: MLbhDJZ3Vn5KwF5U
+
+----
+
+Navclass: contact
