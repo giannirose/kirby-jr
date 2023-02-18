@@ -1,0 +1,23 @@
+Title: John Rose&colon; Stained Glass
+
+----
+
+Strapline: Fabrication · Repair · Restoration
+
+----
+
+Description: Website for the stained glass and mosaic artist John Rose
+
+----
+
+Contacttext:
+
+<h3 class="text-left">Contact </h3>
+        <p><a href="mailto:giannitest@comcast.net?subject=Glass inquiry">Email me!</a></p>
+        <p>
+            Email is best if you're sending images for an estimate.
+        </p>
+        <p>You can also <a href="tel:5413426872">call or message me</a> at 541-342-6872.</p>
+
+----
+
