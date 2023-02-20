@@ -1,6 +1,10 @@
 <?php snippet('header') ?>
-<main class="main page-margin contact">
-  <h1><?= $page->title()->html() ?></h1>
+<main class="main page-margin">
+  <h2 class="center"><?= $page->title()->html() ?> Form</h2>
+  <p class="center">If sending photos or other attachments, I prefer email—there is a link following the Submit
+    button.</p>
+  </p>
+  <hr>
 
   <?php if($success): ?>
   <div class="alert success">
@@ -17,40 +21,33 @@
     </div>
     <div class="field">
       <label for="name">
-        Name
+        Name <abbr title="required">*</abbr>
       </label>
-      <abbr title="required">*</abbr>
       <input type="text" id="name" name="name" value="<?= esc($data['name'] ?? '', 'attr') ?>" required>
       <?= isset($alert['name']) ? '<span class="alert error">' . esc($alert['name']) . '</span>' : '' ?>
     </div>
     <div class="field">
       <label for="email">
-        Email
+        Email <abbr title="required">*</abbr>
       </label>
-      <abbr title="required">*</abbr>
       <input type="email" id="email" name="email" value="<?= esc($data['email'] ?? '', 'attr') ?>" required>
       <?= isset($alert['email']) ? '<span class="alert error">' . esc($alert['email']) . '</span>' : '' ?>
     </div>
     <div class="field">
       <label for="text">
-        Text
+        Text <abbr title="required">*</abbr>
       </label>
-      <abbr title="required">*</abbr>
       <textarea id="text" name="text" required>
                     <?= esc($data['text'] ?? '') ?>
                 </textarea>
       <?= isset($alert['text']) ? '<span class="alert error">' . esc($alert['text']) . '</span>' : '' ?>
     </div>
-
-    <div class="field submit">
-      <input type="submit" name="submit" value="Submit">
-    </div>
+    <input type="submit" name="submit" value="Submit">
   </form>
-  <p> <abbr title="required">*</abbr> = Required </p>
   <?php endif ?>
-
 </main>
+<hr>
+<!-- contact_direct offers a direct email and phone link -->
+<?php snippet('contact_direct') ?>
 
-</body>
-
-</html>
+<?php snippet('footer') ?>
