@@ -48,6 +48,7 @@ h6 {
 /* End reset */
 
 :root {
+  --box-shadow: hsla(220, 89%, 62%, 1);
   --header-bg-color: hsla(195, 100%, 15%, 1);
   --header-text-color: hsla(54, 100%, 50%, 1);
   --nav-text-color: hsla(54, 100%, 75%, 1);
@@ -206,7 +207,7 @@ figcaption p.citation {
 }
 
 hr {
-  margin: 0 5rem;
+  margin: 3rem 5rem;
 }
 
 img {
@@ -548,11 +549,6 @@ header {
 /* Might want to put this in the blog.css */
 .clearboth {
   clear: both
-}
-
-.honeypot {
-  position: absolute;
-  left: -9999px;
 }
 
 body.home li.home a,
