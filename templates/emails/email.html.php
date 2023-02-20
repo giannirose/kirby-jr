@@ -1,4 +1,4 @@
-Hello JR from email.html.php in templates > emails,
+JR, you received the following from your website contact form:
 
 <p><?= $text ?></p>
 
