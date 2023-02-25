@@ -1,6 +1,6 @@
 <?php snippet('header-home') ?>
 
-<main>
+<main class="page-margin">
   <?= $page->intro()->kt() ?>
   <?= $site->ContactText() ?>
   <ul class="projects">
