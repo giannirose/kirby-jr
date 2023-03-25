@@ -2,11 +2,15 @@
 
 /** @var \Kirby\Cms\Block $block */
 $alt     = $block->alt();
-$caption = $block->caption();
+
 $crop    = $block->crop()->isTrue();
 $link    = $block->link();
 $ratio   = $block->ratio()->or('auto');
 $src     = null;
+$width   = $block->width();
+$height  = $block->height();
+$citation = $block->citation();
+$figclass = $block->figclass();
 
 if ($block->location() == 'web') {
     $src = $block->src()->esc();
@@ -17,19 +21,24 @@ if ($block->location() == 'web') {
 
 ?>
 <?php if ($src): ?>
-<figure <?= Html::attr(['data-ratio' => $ratio, 'data-crop' => $crop], null, ' ') ?>>
+<figure <?= Html::attr(['data-ratio' => $ratio, 'data-crop' => $crop], null, ' ') ?>
+  class="imagephp center <?= $block->figclass() ?>">
+
   <?php if ($link->isNotEmpty()): ?>
   <a href="<?= $link->toUrl() ?>">
-    <img src="<?= $src ?>" alt="<?= $alt->esc() ?>">
-  </a>
-  <?php else: ?>
-  <img src="<?= $src ?>" alt="<?= $alt->esc() ?>">
-  <?php endif ?>
 
-  <?php if ($caption->isNotEmpty()): ?>
-  <figcaption>
-    <?= $caption ?>
-  </figcaption>
-  <?php endif ?>
+    <?php else: ?>
+    <a href="<?= $image->url() ?>">
+      <img class="imageinblocks <?= $block->imgclass() ?>" src="<?= $src ?>" alt="<?= $alt->esc() ?>"
+        width="<?= $block->width() ?>" height="<?= $block->height() ?>" data-attribute="odd" loading="lazy">
+    </a>
+    <?php endif ?>
+
+    <?php if ($block->caption()->isNotEmpty()): ?>
+    <figcaption>
+      <?= $block->caption() ?>
+    </figcaption>
+    <cite> <?= $block->citation() ?></cite>
+    <?php endif ?>
 </figure>
 <?php endif ?>
