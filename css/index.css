@@ -72,16 +72,46 @@ body {
   max-width: 1024px;
 }
 
+/* This group is the header for project and projects */
 
+.additional-info {
+  font-family: serif;
+  font-style: italic;
+  color: var(--color-grey);
+  margin-top: .8rem
+}
+
+header.projects {
+  margin-top: 2vw;
+  margin-bottom: 1.2vw;
+}
+
+.headline {
+  font-size: clamp(2rem, 1.81vw + .87rem, 3.4rem);
+}
+
+.subheadline {
+  font-size: clamp(1.4rem, .76vw + 1.13rem, 2.2rem);
+  margin-top: .8rem;
+}
+
+/* End project and projects header group */
 
 header {
   margin: 0 -3%;
 }
 
+
+
+@media screen and (min-width: 640px) {
+  article p {
+    max-width: 65ch;
+  }
+}
+
 article p {
-  max-width: 65ch;
   margin: 0 auto;
-  margin-top: 1.85rem;
+  max-width: 100%;
 }
 
 .bulleted {
@@ -90,6 +120,12 @@ article p {
 
 li {
   font-size: clamp(1.4rem, .76vw + 1.13rem, 2.2rem);
+}
+
+@media screen and (min-width: 640px) {
+  h3 {
+    font-size: 2.5rem;
+  }
 }
 
 h1 {
@@ -104,8 +140,16 @@ h2.page-title {
   font-size: clamp(1.5rem, 1.81vw + .87rem, 3.4rem);
 }
 
+h2.project-title {
+  margin-bottom: 2.5rem;
+}
+
 h3 {
-  font-size: 2.1rem;
+  font-size: 2rem;
+}
+
+.column h3 {
+  font-weight: 700;
 }
 
 h4 {
@@ -124,12 +168,26 @@ h6 {
   text-align: center;
 }
 
+@media screen and (min-width: 640px) {
+  cite p {
+    font-size: 1.6rem;
+  }
+}
+
+cite p {
+  color: var(--dk-grey);
+  color: grey;
+  display: block;
+  caption-side: bottom;
+  font-size: 1.6rem;
+}
+
 cite {
   color: var(--dk-grey);
   color: grey;
   display: block;
   caption-side: bottom;
-  font-size: 1.8rem;
+  font-size: 1.6rem;
 }
 
 code {
@@ -137,24 +195,44 @@ code {
   background-color: antiquewhite;
 }
 
+.coverintro {
+  margin: 2rem auto 0 auto;
+}
+
 figure {
   display: block;
-  margin: 0;
   text-align: center;
   padding: 0;
 }
 
+
+
 figcaption {
   caption-side: bottom;
-  font-size: 1.8rem;
+  font-size: 1.6rem;
   margin: .8rem .4rem .2rem .4rem;
   color: var(--color-text);
+  line-height: 1.25;
+}
+
+@media screen and (min-width: 640px) {
+  figcaption {
+    font-size: 1.6rem;
+  }
 }
 
 figcaption p.caption {
   font-size: 1.6rem;
   padding: 0;
   margin: 0;
+}
+
+figcaption p {
+  caption-side: bottom;
+  font-size: 1.6rem;
+  margin: .8rem 0 .2rem 0;
+  color: var(--color-text);
+  line-height: 1.25;
 }
 
 figcaption p.citation {
@@ -186,6 +264,16 @@ figcaption p.citation {
   margin: 1.6rem 40px 1.6rem 0;
 }
 
+
+.footer::before {
+
+  content: "";
+  display: block;
+  height: 2px;
+  background: var(--color-black);
+  margin-bottom: 1.5rem;
+}
+
 .floatleft {
   float: left;
   margin-left: 4rem;
@@ -213,6 +301,13 @@ hr {
 img {
   max-width: 100%;
   height: auto;
+}
+
+/* puts a dashed border around images lacking the alt tag */
+
+img[alt=""],
+img:not([alt]) {
+  border: 3px dashed #c00
 }
 
 li {
@@ -295,6 +390,7 @@ p.ch-width-60 {
   padding: 2rem 0 2.4rem 0;
 }
 
+/* check .project-list use in home page- perhaps change class */
 .project-list {
   display: grid;
   gap: 20px;
@@ -315,6 +411,7 @@ p.ch-width-60 {
   margin: 10px auto;
 }
 
+/* check .project-list use in home page- perhaps change class */
 @media screen and (min-width: 640px) {
   .project-list {
     display: grid;
@@ -332,6 +429,7 @@ p.ch-width-60 {
 
 ul.projects {
   padding-left: 0;
+  margin-top: 3.5rem;
 }
 
 .clearfix:after {
@@ -348,13 +446,10 @@ ul.projects {
 
 /* Set grid for header and nav */
 
-header {
-  margin-bottom: 2vw;
-}
-
 .header-main {
   display: grid;
   grid-template-columns: 25% 75%;
+  margin-bottom: 2vw;
 }
 
 .header-logo-box {
@@ -589,20 +684,145 @@ img:not([alt]) {
   border: 3px solid red;
 }
 
-.grid>.column {
-  margin-bottom: var(--gutter);
-  align-self: center;
+
+
+
+
+
+
+
+/* Moved here from starter.css- 10rem changed to 16rem */
+.autogrid {
+  --gutter: 1rem;
+  --min: 16rem;
+  display: grid;
+  grid-gap: var(--gutter);
+  grid-template-columns: repeat(auto-fit, minmax(var(--min), 1fr));
+  grid-auto-flow: dense;
+  align-items: center;
+}
+
+/* Gather the projects grid components */
+
+
+@media screen and (min-width: 640px) {
+  .grid-gallery {
+    display: grid;
+    --columns: 24;
+    --gutter: 3rem;
+    grid-column-gap: var(--gutter);
+    grid-template-columns: repeat(24, 1fr);
+    grid-row-gap: 1rem;
+  }
+}
+
+/* 
+@media screen and (min-width: 640px) {
+  .grid-gallery {
+    display: grid;
+    --columns: 24;
+    --gutter: 3rem;
+    grid-column-gap: var(--gutter);
+    grid-template-columns: 1fr;
+  }
+} */
+
+@media screen and (max-width: 639px) {
+  .grid-gallery {
+    display: block;
+    /* --columns: 24; */
+    --gutter: 3rem;
+    grid-column-gap: var(--gutter);
+    grid-template-columns: 1fr;
+  }
+}
+
+.grid {
+  --columns: 24;
+  --gutter: 3rem;
+  display: grid;
+  grid-gap: var(--gutter);
+  grid-template-columns: 1fr;
 }
 
 @media screen and (min-width: 640px) {
 
   .grid {
     grid-template-columns: repeat(12, 1fr);
+    align-items: center;
   }
 
+  /* Could be we need grid-column: span var(--span) */
   .grid>.column {
     grid-column: span var(--columns);
     padding-left: 1.5rem;
     padding-right: 1.5rem;
   }
+}
+
+
+@media screen and (min-width: 640px) {
+  .grid {
+    --columns: 12;
+    --gutter: 3rem;
+    display: grid;
+    grid-gap: var(--gutter);
+    /* grid-template-columns: 1fr; */
+  }
+}
+
+.grid>.column {
+  margin-bottom: var(--gutter);
+  align-self: center;
+}
+
+.gallery-image {
+  display: grid;
+  grid-gap: 1.2rem;
+}
+
+/* .grid-list {
+  grid-row: 1 / 4;
+  display: grid;
+} */
+@media screen and (min-width: 640px) {
+  .grid-figure {
+    margin: 0;
+  }
+}
+
+.grid-figure {
+  display: grid;
+  grid-row: 1 / 4;
+  grid-template-rows: subgrid;
+  margin-top: 1rem;
+}
+
+section.grid {
+  margin: 1.5rem 0 0 0;
+}
+
+@media screen and (min-width: 640px) {
+  section.grid {
+    margin: 2rem auto 0 auto;
+  }
+}
+
+
+/* End gather project grid components */
+
+.grid-figure a {
+  align-self: center;
+  /* margin-top: 3rem; */
+}
+
+@media screen and (min-width: 640px) {
+  .grid-figure a {
+    margin-top: 0;
+  }
+}
+
+
+.grid-figure figcaption {
+  margin: 0;
 }
