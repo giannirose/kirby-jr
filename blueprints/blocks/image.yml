@@ -1,5 +1,9 @@
 name: field.blocks.image.name
 icon: image
+
+accept:
+    mime:  image/jpeg, image/png, image/svg+xml
+
 preview: image
 fields:
   location:
@@ -10,6 +14,7 @@ fields:
     options:
       kirby: Kirby
       web: Web
+
   image:
     label: field.blocks.image.name
     type: files
@@ -30,15 +35,37 @@ fields:
     label: field.blocks.image.alt
     type: text
     icon: title
+  width:
+    label: width
+    type: number
+  height:
+    label: height
+    type: number
   caption:
     label: field.blocks.image.caption
     type: writer
     icon: text
     inline: true
+  citation:
+    label: citation
+    type: text
   link:
     label: field.blocks.image.link
     type: text
     icon: url
+  figclass:
+    label: Add a class on the figure element
+    type: select
+    options: 
+      smallsize: half-width
+      midsize: 3/4 width
+      fullsize:  full width
+  imgclass:
+    label: add a class on the image element
+    type: text
+  spanwidth:
+    type: number
+    label: add a percentage to the image for the gallery
   ratio:
     label: field.blocks.image.ratio
     type: select
