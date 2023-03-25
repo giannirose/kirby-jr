@@ -9,18 +9,22 @@
 
     <!-- Add cover image and text if exists -->
     <!-- Insert a cover image with caption, citation and additional explanatory text -->
-    <?php if ($page->cover()->toFile()->isNotEmpty()): ?>
+    <!-- Changed the following from $page->tcover->toFile()isNotEmpty()): -->
+    <?php if ($page->cover()->url()->isNotEmpty()): ?>
     <figure class="cover center <?= $page->cover()->toFile()->imgclass() ?>">
-      <?= $page->cover()->toFile() ?>
+      <!-- <?= $page->cover()->toFile() ?> -->
+      <img src="<?= $page->cover()->toFile()->url() ?>" alt="<?= $page->cover()->toFile()->alt() ?>"
+        width="<?= $page->cover()->toFile()->width() ?>" height="<?= $page->cover()->toFile()->height() ?>" />
       <?php if ($page->cover()->caption()->isNotEmpty()): ?>
 
       <figcaption>
         <?= $page->cover()->toFile()->caption() ?>
       </figcaption>
       <?php endif ?>
-      <cite><?= $page->cover()->toFile()->citation() ?></cite>
+      <cite><?= $page->cover()->toFile()->citation()->kirbytext() ?></cite>
 
     </figure>
+
     <!-- Add some explanatory text below the figure -->
     <?php if ($page->cover()->toFile()->coverintro()->isNotEmpty()): ?>
     <div class="coverintro">
@@ -50,8 +54,6 @@
     </section>
     <?php endforeach ?>
 
-    <!-- A default text block not currently used- commented out on the .yml page as well -->
-    <!-- <div><?= $page->text()->kirbytext() ?></div> -->
 
   </article>
 
