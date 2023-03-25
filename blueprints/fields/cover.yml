@@ -51,6 +51,19 @@ fields:
     type: text
     icon: text
     help: Photo credits or other citation for the image
+   width: 
+    label: set the width attribute
+    type: number
+    help: enter the actual width of the image- this will not resize the image
+    width: 1/2 
+  height:
+    label: set the height attribute
+    type: number
+    help: enter the actual height of the image- this will not resize the image
+    width: 1/2   
+  imheight:
+    label: imgheight
+    type: number
   link:
     label: field.blocks.image.link
     type: text
@@ -85,6 +98,7 @@ fields:
       floatright: Right
     width: 1/2
   imwidth:
+    label
     type: select
     options:
       Small: 100px
