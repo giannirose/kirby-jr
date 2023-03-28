@@ -22,7 +22,7 @@ if ($block->location() == 'web') {
 ?>
 <?php if ($src): ?>
 <figure <?= Html::attr(['data-ratio' => $ratio, 'data-crop' => $crop], null, ' ') ?>
-  class="imagephp center <?= $block->figclass() ?>">
+  class="imagephp center <?= $block->figclass() ?>" style="<?= $block->inlinefigurestyle()->html() ?>">
 
   <?php if ($link->isNotEmpty()): ?>
   <a href="<?= $link->toUrl() ?>">
@@ -30,7 +30,8 @@ if ($block->location() == 'web') {
     <?php else: ?>
     <a href="<?= $image->url() ?>">
       <img class="imageinblocks <?= $block->imgclass() ?>" src="<?= $src ?>" alt="<?= $alt->esc() ?>"
-        width="<?= $block->width() ?>" height="<?= $block->height() ?>" data-attribute="odd" loading="lazy">
+        width="<?= $block->width() ?>" height="<?= $block->height() ?>" data-attribute=""
+        style="<?= $block->imginlinestyle()->html() ?>" loading="lazy">
     </a>
     <?php endif ?>
 
