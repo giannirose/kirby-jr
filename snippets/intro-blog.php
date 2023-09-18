@@ -1,16 +1,3 @@
-<?php
-/*
-This snippet was copied from the kirby starter-kit
-Snippets are a great way to store code snippets for reuse
-or to keep your templates clean.
-This intro snippet is reused in multiple templates.
-While it does not contain much code, it helps to keep your
-code DRY and thus facilitate maintenance when you have
-to make changes.
-More about snippets:
-https://getkirby.com/docs/guide/templates/snippets
-*/
-?>
 <div class="h1">
   <header>
     <h1>
@@ -37,54 +24,39 @@ https://getkirby.com/docs/guide/templates/snippets
     <?= $page->intro()->kirbytext() ?>
   </div>
 
-  <p>
-    <?php $page->cover()->toFile() ?>
-  </p>
-
-
   <!-- Add a cover image in a div -->
-  <div class="blog-intro-cover">
-    <?php if ($page->cover()->isNotEmpty()): ?>
-      <figure class=" imintrophp <?= $page->cover()->figclass() ?>">
-        <?php if ($page->cover()->link()->isNotEmpty()): ?>
+  <div class="blog-intro-cover" style="display: <?= $page->stylediv() ?>;">
 
-          <a href="<?= $page->cover()->link() ?>">
-          <?php else: ?>
+    <figure class="imintroblogphp anotherclass <?= $page->cover()->figclass() ?>">
 
-            <a href="<?= $page->cover()->url() ?>">
-            <?php endif ?>
-            <img src="<?= $page->cover()->url() ?>" alt="<?= $page->cover()->alt() ?>"
-              class="<?= $page->cover()->imgclass() ?>" loading="lazy" width="<?= $page->cover()->width() ?>"
-              height="<?= $page->cover()->height() ?>">
+      <?php if ($page->cover()->link()->isNotEmpty()): ?>
+        <a href=" <?= $page->cover()->link() ?>">
+        <?php else: ?>
+          <a href="<?= $page->cover()->url() ?>">
+          <?php endif ?>
+          <img src="<?= $page->cover()->url() ?>" alt="<?= $page->cover()->alt() ?>"
+            class="<?= $page->cover()->imgclass() ?>" loading="lazy" width="<?= $page->cover()->width() ?>"
+            height="<?= $page->cover()->height() ?>" />
+        </a>
 
-          </a>
+        <figcaption>
+          <?= $page->cover()->caption() ?>
+        </figcaption>
 
-          <figcaption>
-            <?= $page->cover()->caption() ?>
-          </figcaption>
+        <cite>
+          <?= $page->cover()->citation() ?>
+        </cite>
+    </figure>
+    <div class="coverintro">
+      <!-- Add some explanatory text below the figure -->
+      <?php if ($page->coverintro()->isNotEmpty()): ?>
 
-          <cite>
-            <?= $page->cover()->citation() ?>
-          </cite>
+        <?= $page->coverintro()->kirbytext() ?>
 
-      </figure>
-
-    <?php endif ?>
+      <?php endif ?>
+    </div>
   </div>
   <!-- End cover image in a div-->
-
-  <div class="coverintro">
-    <!-- Add some explanatory text below the figure -->
-    <?php if ($page->cover()->coverintro()->isNotEmpty()): ?>
-
-      <?= $page->coverintro()->kirbytext() ?>
-
-    <?php endif ?>
-  </div>
-
-
-
-
 
 </div>
 <!--End intro-blog with cover image-->
