@@ -1,50 +1,62 @@
-<?php
-/*
-  Templates render the content of your pages.
+<?php snippet('header-blog') ?>
+<div class="container-wrapper">
+  <div class="wrapper">
+    <!-- List blogs by tags -->
+    <aside class="aside">
+      <h2 class="blogroll">Blog topics...</h2>
+      <?php snippet('tags-list') ?>
+    </aside>
+    <main class="main">
 
-  They contain the markup together with some control structures
-  like loops or if-statements. The `$page` variable always
-  refers to the currently active page.
+      <?php if (empty($tag) === false): ?>
+        <header class="h1">
+          <h1>
+            <small>Collection:</small>
+            <?= html($tag) ?>
+            <a href="<?= $page->url() ?>" aria-label="All Notes"></a>
+          </h1>
+        </header>
+      <?php else: ?>
 
-  To fetch the content from each field we call the field name as a
-  method on the `$page` object, e.g. `$page->title()`.
+        <?php snippet('intro-blogs') ?>
+      <?php endif ?>
+      <!-- container is declared in ul element -->
+      <!-- Remove grid-making blogs-grid from ul class, or not -->
+      <div class="blogs-cards">
+        <ul role="list" class="flexbox-grid card cardlist resize blogs-grid ">
+          <?php foreach ($blogs as $blog): ?>
+            <li class="column list-grid ">
+              <!-- Container query uses .card in added div -->
 
-  This template lists all the subpages of the `notes` page with
-  their title date sorted by date and links to each subpage.
+              <?php snippet('blog', ['blog' => $blog]) ?>
 
-  This template receives additional variables like $tag and $notes
-  from the `notes.php` controller in `/site/controllers/notes.php`
+            </li>
 
-  Snippets like the header and footer contain markup used in
-  multiple templates. They also help to keep templates clean.
+          <?php endforeach ?>
+        </ul>
+      </div>
 
-  More about templates: https://getkirby.com/docs/guide/templates/basics
-*/
-?>
-<?php snippet('header') ?>
+      <!-- from getkirby cookbook building a blog -->
+      <?php $articles = $page->children()
+        ->listed()
+        ->flip()
+        ->paginate(10);
+      ?>
 
-<div class="h1">
-  <header>
+      <div class="aside">
+        <h2 class="blogroll">Blog topics...</h2>
+        <?php snippet('tags-list') ?>
+      </div>
+      <!-- apply pagination -->
+      <?php $articles = $articles->paginate(10);
+      ?>
+      <?php snippet('pagination', ['pagination' => $blogs->pagination()]) ?>
+      <?php snippet('footer-no-closer') ?>
+      <!-- Close div .wrapper -->
+  </div>
 
-    <?php if (empty($tag) === false): ?>
-    <header class="h1">
-      <h1>
-        <small>Featured:</small> <?= html($tag) ?>
-        <a href="<?= $page->url() ?>" aria-label="All Notes"></a>
-      </h1>
-    </header>
-    <?php else: ?>
-    <?php snippet('intro') ?>
-    <?php endif ?>
+  <!-- Close div  .container-wrapper -->
+</div>
+</body>
 
-    <ul class="blogs-grid ">
-      <?php foreach ($blogs as $blog): ?>
-      <li class="column list-grid">
-        <?php snippet('blog', ['blog' => $blog]) ?>
-
-      </li>
-      <?php endforeach ?>
-    </ul>
-
-    <?php snippet('pagination', ['pagination' => $blogs->pagination()]) ?>
-    <?php snippet('footer') ?>
+</html>
