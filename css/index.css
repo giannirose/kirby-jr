@@ -3,7 +3,10 @@
   --header-bg-color: hsla(195, 100%, 15%, 1);
   --header-bg-color-light: rgb(5, 68, 91);
   --lightgreen: rgb(200, 245, 200);
+  --color-code-lightsalmon-darker: hsl(17, 100%, 49%);
   --lightsalmon: hsla(17, 100%, 74%, 1);
+  --color-code-lightsalmon-light: hsla(17, 100%, 74%, .2);
+  --color-code-lightsalmon-lighter: hsla(17, 100%, 74%, .1);
   --orange-very-light: hsl(24, 81%, 87%);
   --orange-very-very-light: hsl(24, 40%, 87%);
   /* --box-shadow: rgb(161, 213, 247); */
@@ -12,19 +15,43 @@
   --color-white: #fff;
   --color-grey: #777;
   --color-light: #efefef;
+  --color-light-grey: #f1f2f3;
   --color-text: var(--color-black);
   --color-text-grey: var(--color-grey);
   --color-background: var(--color-white);
-  --color-code-light-grey: #cacbd1;
+  --formula: #fff2e6;
+  --formula-background: var(--formula);
+
   --color-code-comment: #a9aaad;
   --color-code-white: #c5c9c6;
+  --color-code-red-darker: hsl(0, 54%, 36%);
   --color-code-red: #d16464;
+  --color-code-red-light: hsla(0, 54%, 61%, .15);
+  --color-code-red-lighter: hsla(0, 54%, 61%, .075);
+  --color-code-orange-darker: hsl(25, 66%, 37%);
   --color-code-orange: #de935f;
+  --color-code-orange-light: hsla(25, 66%, 62%, .2);
+  --color-code-orange-lighter: hsla(25, 66%, 62%, .1);
+  --color-code-yellow-darker: hsl(40, 81%, 35%);
   --color-code-yellow: #f0c674;
+  --color-code-yellow-light: hsla(40, 81%, 70%, .2);
+  --color-code-yellow-lighter: hsla(40, 81%, 70%, .1);
+  --color-code-green-darker: hsl(76, 39%, 32%);
   --color-code-green: #a7bd68;
+  --color-code-green-light: hsla(76, 39%, 57%, .2);
+  --color-code-green-lighter: hsla(76, 39%, 57%, .1);
+  --color-code-aqua-darker: hsl(172, 29%, 39%);
   --color-code-aqua: #8abeb7;
+  --color-code-aqua-light: hsla(172, 29%, 64%, .2);
+  --color-code-aqua-lighter: hsla(172, 29%, 64%, .1);
+  --color-code-blue--darker: hsla(214, 34%, 37%);
   --color-code-blue: #7e9abf;
+  --color-code-blue--light: hsla(214, 34%, 62%, .2);
+  --color-code-blue-lighter: hsla(214, 34%, 62%, .1);
+  --color-code-purple-darker: hsl(286, 22%, 41%);
   --color-code-purple: #b294bb;
+  --color-code-purple-light: hsla(286, 22%, 66%, .2);
+  --color-code-purple-lighter: hsla(286, 22%, 66%, .1);
   --font-family-sans: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol";
   --font-family-mono: "SFMono-Regular", Consolas, "Liberation Mono", Menlo, Courier, monospace;
 }
@@ -59,18 +86,17 @@ html {
   font-size: 10px;
 }
 
-@media screen and (min-width: 640px) {
-  body {
-    padding: 0 3%;
-  }
-}
-
 body {
   margin: 0 auto;
   line-height: 1.5;
-  padding: 0 6%;
+  padding: 0;
   max-width: 1024px;
 }
+
+body {
+  padding: 0;
+}
+
 
 /* This group is the header for project and projects */
 
@@ -81,8 +107,12 @@ body {
   margin-top: .8rem
 }
 
+.alignleft {
+  text-align: left;
+}
+
 header.projects {
-  margin-top: 2vw;
+  margin-top: 1.5rem;
   margin-bottom: 1.2vw;
 }
 
@@ -97,11 +127,6 @@ header.projects {
 
 /* End project and projects header group */
 
-header {
-  margin: 0 -3%;
-}
-
-
 
 @media screen and (min-width: 640px) {
   article p {
@@ -110,7 +135,11 @@ header {
 }
 
 article p {
-  margin: 0 auto;
+  margin: 0 auto .8rem auto;
+  margin-block-start: 0;
+  margin-inline-start: auto;
+  margin-block-end: .8rem;
+  margin-inline-end: auto;
   max-width: 100%;
 }
 
@@ -129,15 +158,15 @@ li {
 }
 
 h1 {
-  font-size: clamp(2rem, 1.81vw + .87rem, 3.4rem);
+  font-size: clamp(2.4rem, 1.81vw + .87rem, 3.4rem);
 }
 
 h2 {
-  font-size: clamp(1rem, 1.43vw + .5rem, 2.5rem);
+  font-size: clamp(1.8rem, 1.43vw + .5rem, 2.5rem);
 }
 
 h2.page-title {
-  font-size: clamp(1.5rem, 1.81vw + .87rem, 3.4rem);
+  font-size: clamp(2.4rem, 1.81vw + .87rem, 3.4rem);
 }
 
 h2.project-title {
@@ -145,7 +174,8 @@ h2.project-title {
 }
 
 h3 {
-  font-size: 2rem;
+  font-size: 2.5rem;
+  margin-block-end: 2rem;
 }
 
 .column h3 {
@@ -154,6 +184,11 @@ h3 {
 
 h4 {
   font-size: 1.95rem;
+  margin-block-start: 1rem;
+}
+
+h4+p {
+  margin-block-start: 1rem;
 }
 
 h5 {
@@ -171,6 +206,7 @@ h6 {
 @media screen and (min-width: 640px) {
   cite p {
     font-size: 1.6rem;
+    line-height: 1.4;
   }
 }
 
@@ -188,11 +224,12 @@ cite {
   display: block;
   caption-side: bottom;
   font-size: 1.6rem;
+  line-height: 1.4;
 }
 
 code {
-  font-size: 1.4rem;
-  background-color: antiquewhite;
+  font-size: 2rem;
+  padding: .8rem;
 }
 
 .coverintro {
@@ -203,6 +240,13 @@ figure {
   display: block;
   text-align: center;
   padding: 0;
+  margin-block-start: 0;
+  margin-block-end: 0;
+  margin-inline-start: 0;
+  margin-inline-end: 0;
+  padding-block-end: 1.4rem;
+  border: solid 4px transparent;
+  box-shadow: 0 0 0 1px rgba(10, 10, 10, 0.2);
 }
 
 
@@ -218,6 +262,7 @@ figcaption {
 @media screen and (min-width: 640px) {
   figcaption {
     font-size: 1.6rem;
+    line-height: 1.4;
   }
 }
 
@@ -230,9 +275,12 @@ figcaption p.caption {
 figcaption p {
   caption-side: bottom;
   font-size: 1.6rem;
-  margin: .8rem 0 .2rem 0;
   color: var(--color-text);
-  line-height: 1.25;
+  line-height: 1.4;
+  margin-block-start: 0;
+  margin-block-end: .8rem;
+  margin-inline-start: 2rem;
+  margin-inline-end: 2rem;
 }
 
 figcaption p.citation {
@@ -243,8 +291,6 @@ figcaption p.citation {
 }
 
 .figure {
-  border: solid 4px transparent;
-  box-shadow: 0 0 0 1px rgba(10, 10, 10, 0.2);
   max-width: 100%;
   transition: box-shadow 200ms ease-out;
   border-radius: 0;
@@ -281,7 +327,7 @@ figcaption p.citation {
 }
 
 .gradient-text {
-  background-image: linear-gradient(45deg, lightgreen, lightblue, var(--orange-very-light), lightgreen, lightblue);
+  background-image: linear-gradient(45deg, var(--color-code-purple), var(--color-code-aqua), var(--color-code-green), var(--color-code-yellow), var(--color-code-orange), var(--color-code-red));
   background-repeat: repeat;
   -webkit-background-clip: text;
   -webkit-text-fill-color: transparent;
@@ -301,6 +347,8 @@ hr {
 img {
   max-width: 100%;
   height: auto;
+  margin-block-end: 1.5rem;
+  font-size: 2.4rem;
 }
 
 /* puts a dashed border around images lacking the alt tag */
@@ -352,8 +400,10 @@ li {
 }
 
 p {
-  font-size: clamp(140%, .76vw + 1.33rem, 160%);
+  /*font-size: clamp(140%, .76vw + 1.33rem, 160%);*/
+  font-size: 1.8rem;
   line-height: 1.5;
+  margin-block-end: 1rem;
 }
 
 
@@ -375,7 +425,7 @@ p.ch-width-60 {
 }
 
 .page-subtitle {
-  font-size: clamp(1rem, 1.43vw + .5rem, 2.5rem);
+  font-size: clamp(1.8rem, 1.43vw + .5rem, 2.5rem);
   font-weight: bold;
   margin-block-start: 0;
   margin-block-end: 0;
@@ -429,7 +479,10 @@ p.ch-width-60 {
 
 ul.projects {
   padding-left: 0;
-  margin-top: 3.5rem;
+}
+
+ul.projects li:first-child {
+  margin-top: 2rem;
 }
 
 .clearfix:after {
@@ -448,15 +501,16 @@ ul.projects {
 
 .header-main {
   display: grid;
-  grid-template-columns: 25% 75%;
-  margin-bottom: 2vw;
+  grid-template-columns: 27.5% 72.5%;
+  margin-top: 1.5rem;
+  margin-bottom: 3rem;
 }
 
 .header-logo-box {
   grid-column: 1;
   grid-row-start: 1;
   grid-row-end: 4;
-  padding-left: 2vw;
+  padding-left: 1rem;
   position: relative;
   z-index: 2;
   padding-top: 2px;
@@ -472,13 +526,13 @@ ul.projects {
 .header-spacer {
   grid-column: 1;
   grid-row: 2;
-  background-color: var(--header-bg-color);
+  /* background-color: var(--header-bg-color); */
 }
 
 .header-text {
   grid-column: 2;
   grid-row: 2;
-  background-color: var(--header-bg-color);
+  /* background-color: var(--header-bg-color); */
   padding-top: clamp(.7rem, 2.19vw - .07rem, 3rem);
   padding-bottom: clamp(.7rem, 1.24vw + .27rem, 2rem)
 }
@@ -493,7 +547,7 @@ ul.projects {
 .header-nav {
   grid-column: 1 / 3;
   grid-row: 4;
-  background-color: var(--header-bg-color);
+  /* background-color: var(--header-bg-color); */
   border-top: 2px solid var(--white);
 }
 
@@ -516,11 +570,43 @@ ul.projects {
   list-style: none;
   text-align: center;
   border-right: 1px solid var(--box-shadow);
-  font-size: clamp(1rem, .95vw + .67rem, 2rem);
+  font-size: clamp(1.6rem, .95vw + .67rem, 2rem);
+}
+
+.nav-colors li:nth-child(8n+1) {
+  background-color: hsla(286, 22%, 66%, .2);
+}
+
+.nav-colors li:nth-child(8n+2) {
+  background-color: hsla(40, 81%, 70%, .2);
+}
+
+.nav-colors li:nth-child(8n + 3) {
+  background-color: hsla(172, 29%, 64%, .2);
+}
+
+.nav-colors li:nth-child(8n + 4) {
+  background-color: hsla(0, 54%, 61%, .15);
+}
+
+.nav-colors li:nth-child(8n + 5) {
+  background-color: hsla(214, 34%, 62%, .2);
+}
+
+.nav-main li:nth-child(8n + 6) {
+  background-color: hsla(25, 66%, 62%, .2);
+}
+
+.nav-colors li:nth-child(8n + 7) {
+  background-color: hsla(76, 39%, 57%, .2);
+}
+
+.nav-colors li:nth-child(8n + 8) {
+  background-color: hsla(17, 100%, 74%, .2);
 }
 
 .nav-main li a {
-  color: var(--nav-text-color);
+  color: var(--header-bg-color);
   font-family: "Helvetica Neue", Helvetica, Roboto, Arial, sans-serif;
   text-decoration: none;
   padding: .5rem 1rem;
@@ -553,7 +639,6 @@ ul.projects {
   .header-logo-box {
     grid-column: 1;
     grid-row: 1 / 5;
-    padding-left: 2vw;
     align-self: center;
   }
 
@@ -569,13 +654,13 @@ ul.projects {
   .header-text {
     grid-column: 2;
     grid-row: 2;
-    background-color: hsla(195, 100%, 15%, 1);
+    /* background-color: hsla(195, 100%, 15%, 1); */
   }
 
   .header-spacer {
     grid-column: 1;
     grid-row: 2 / 4;
-    background-color: hsla(195, 100%, 15%, 1);
+    /* background-color: hsla(195, 100%, 15%, 1); */
   }
 
   .header-bottom {
@@ -586,27 +671,28 @@ ul.projects {
   .header-nav {
     grid-column: 2;
     grid-row: 3;
-    background-color: hsla(195, 100%, 15%, 1);
+    /* background-color: hsla(195, 100%, 15%, 1); */
     border-top: none;
-    padding-bottom: 1.35rem;
   }
 
   .nav-main {
-    background-color: hsla(195, 100%, 15%, 1);
+    /* background-color: hsla(195, 100%, 15%, 1); */
     justify-content: center;
     border-top: none;
   }
 
   .header-nav li a {
     padding: 1rem 1.35rem;
+    margin-left: 1rem;
+    margin-right: 1rem;
   }
 }
 
 /* End large screen set header and nav elements */
 
 .page-margin {
-  margin-left: 0;
-  margin-right: 0;
+  margin-left: 2rem;
+  margin-right: 2rem;
 }
 
 .page-title {
@@ -615,7 +701,7 @@ ul.projects {
   font-weight: bold;
   letter-spacing: .2rem;
   font-family: "Helvetica Neue", Helvetica, Roboto, Arial, sans-serif;
-  color: var(--header-text-color);
+  color: var(--header-bg-color);
 }
 
 .page-subtitle {
@@ -626,16 +712,19 @@ ul.projects {
   letter-spacing: .15rem;
 }
 
+/*
 @media screen and (max-width: 640px) {
   .page-subtitle {
     display: none;
   }
 }
-
+*/
 .floatright {
   float: right;
-  margin: 0 4rem;
+  margin: 0 1rem;
 }
+
+
 
 .red {
   color: red;
@@ -650,14 +739,13 @@ body.home li.home a,
 body.articles li.articles a,
 body.blog li.blog a,
 body.contact li.contact a,
-body.panels-for-sale li.panels-for-sale a {
+body.panels-for-sale li.panels-for-sale a,
+body.publicprojects li.publicprojects a {
   box-shadow: 0 0 20px 0 var(--box-shadow);
   background-color: var(--header-bg-color);
   color: var(--orange-very-light);
   border-bottom: 1px solid var(--box-shadow);
 }
-
-
 
 @media screen and (min-width: 640px) {
   br.responsive {
@@ -683,13 +771,6 @@ hr.intro {
 img:not([alt]) {
   border: 3px solid red;
 }
-
-
-
-
-
-
-
 
 /* Moved here from starter.css- 10rem changed to 16rem */
 .autogrid {
@@ -755,8 +836,6 @@ img:not([alt]) {
   /* Could be we need grid-column: span var(--span) */
   .grid>.column {
     grid-column: span var(--columns);
-    padding-left: 1.5rem;
-    padding-right: 1.5rem;
   }
 }
 
@@ -772,7 +851,7 @@ img:not([alt]) {
 }
 
 .grid>.column {
-  margin-bottom: var(--gutter);
+  /* margin-bottom: var(--gutter); */
   align-self: center;
 }
 
@@ -799,12 +878,12 @@ img:not([alt]) {
 }
 
 section.grid {
-  margin: 1.5rem 0 0 0;
+  margin: 1rem 0 0 0;
 }
 
 @media screen and (min-width: 640px) {
   section.grid {
-    margin: 2rem auto 0 auto;
+    margin: 1rem auto 0 auto;
   }
 }
 
@@ -825,4 +904,127 @@ section.grid {
 
 .grid-figure figcaption {
   margin: 0;
+}
+
+.page-link a {
+  color: brown;
+  font-size: 1.6rem;
+  font-style: italic;
+}
+
+@media screen and (min-width: 640px) {
+  .page-link a {
+    font-size: 2.4rem;
+  }
+}
+
+.project-title a {
+  color: brown;
+}
+
+.text h1,
+.h1,
+.intro {
+  text-align: center;
+}
+
+li.projects:nth-of-type(8n+1) {
+  background-color: var(--color-code-purple-lighter);
+}
+
+li.projects:nth-of-type(8n+2) {
+  background-color: var(--color-code-yellow-lighter);
+}
+
+li.projects:nth-of-type(8n+3) {
+  background-color: var(--color-code-aqua-lighter);
+}
+
+li.projects:nth-of-type(8n+4) {
+  background-color: var(--color-code-red-lighter);
+}
+
+li.projects:nth-of-type(8n+5) {
+  background-color: var(--color-code-blue-lighter);
+}
+
+li.projects:nth-of-type(8n+6) {
+  background-color: var(--color-code-orange-lighter);
+}
+
+li.projects:nth-of-type(8n+7) {
+  background-color: var(--color-code-green-lighter);
+}
+
+li.projects:nth-of-type(8n+8) {
+  background-color: var(--color-code-lightsalmon-lighter);
+}
+
+.projects li {
+  padding-left: 2.5rem;
+  padding-right: 2.5rem;
+  margin-left: -2rem;
+  margin-right: -2rem;
+  padding-top: 1rem;
+}
+
+.blocks ul {
+  margin-top: 1.2rem;
+}
+
+.blocks li {
+  list-style-type: disc;
+  list-style-position: inside;
+  text-indent: -20px;
+  margin-left: 20px;
+}
+
+.blog-intro {
+  text-align: left;
+}
+
+.formula {
+  font-family: Calibri, 'Courier New', Courier, monospace;
+  background-color: #fff2e6;
+  font-size: 2rem;
+  margin-block-start: 1rem;
+}
+
+.h3 {
+  margin-inline-start: 0;
+  font-size: 2rem;
+  font-weight: 700;
+
+}
+
+pre {
+  text-align: center;
+  margin-block-start: 1.8rem;
+  margin-block-end: 1.8rem;
+  background: #f5f2f0;
+  background: oklch(94.71% 0.025 69.88);
+  border: .005rem solid black;
+  padding-block-start: .8rem;
+  padding-block-end: .8rem;
+}
+
+pre {
+  white-space: pre-wrap;
+  /* css-3 */
+  white-space: -moz-pre-wrap;
+  /* Mozilla, since 1999 */
+  white-space: -pre-wrap;
+  /* Opera 4-6 */
+  white-space: -o-pre-wrap;
+  /* Opera 7 */
+  word-wrap: break-word;
+  /* Internet Explorer 5.5+ */
+}
+
+code {
+  background: #f5f2f0;
+  background: oklch(94.71% 0.025 69.88);
+  /* border: .005rem solid black; */
+  padding-block-start: 0;
+  padding-block-end: 0;
 }
