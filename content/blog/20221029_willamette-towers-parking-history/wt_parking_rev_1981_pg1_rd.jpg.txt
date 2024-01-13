@@ -1,0 +1,13 @@
+Location: kirby
+
+----
+
+Crop: false
+
+----
+
+Uuid: 2ionmfJ8OP9vEaL9
+
+----
+
+Template: image

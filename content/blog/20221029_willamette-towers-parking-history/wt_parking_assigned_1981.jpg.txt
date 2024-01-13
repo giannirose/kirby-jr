@@ -1,0 +1,61 @@
+Src: 
+
+----
+
+Alt: A listing of residential units and their assigned spaces and a plan of the parking spaces with blotchy corresponding numbers entered
+
+----
+
+Width: 566
+
+----
+
+Height: 512
+
+----
+
+Caption: <p>The assignment of spaces as it appears around the time of Willamette Towers becoming a Home Owners Association</p>
+
+----
+
+Citation: Caption at image block
+
+----
+
+Testfield: 
+
+----
+
+Imgclass: 
+
+----
+
+Inlinefigurestyle: 
+
+----
+
+Imginlinestyle: 
+
+----
+
+Link: 
+
+----
+
+Ratio: 
+
+----
+
+Crop: false
+
+----
+
+Location: kirby
+
+----
+
+Uuid: x2uKzeLf4tYw2iys
+
+----
+
+Template: image
