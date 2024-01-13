@@ -1,0 +1,69 @@
+Src: 
+
+----
+
+Figurehead: 
+
+----
+
+Alt: A view across the centers of the three panels
+
+----
+
+Width: 1280
+
+----
+
+Height: 320
+
+----
+
+Caption: 
+
+----
+
+Citation: 
+
+----
+
+Figclass: fullsize
+
+----
+
+Testfield: 
+
+----
+
+Spanwidth: 
+
+----
+
+Imgclass: 
+
+----
+
+Inlinefigurestyle: 
+
+----
+
+Imginlinestyle: 
+
+----
+
+Link: 
+
+----
+
+Ratio: 
+
+----
+
+Crop: false
+
+----
+
+Uuid: XwY4SpSeQ5GL6REh
+
+----
+
+Template: image

@@ -1,0 +1,65 @@
+Src: 
+
+----
+
+Alt: Image of a person pointing to a book and other arm raised alongside someone in a bed with what appears to be an attending nurse-nun in the background
+
+----
+
+Width: 269
+
+----
+
+Height: 512
+
+----
+
+Caption: <p>The right-hand panel</p>
+
+----
+
+Citation: "Sick and Ye Visited Me"
+
+----
+
+Figclass: midsize
+
+----
+
+Testfield: 
+
+----
+
+Imgclass: 
+
+----
+
+Inlinefigurestyle: 
+
+----
+
+Imginlinestyle: 
+
+----
+
+Link: 
+
+----
+
+Ratio: 
+
+----
+
+Crop: false
+
+----
+
+Location: kirby
+
+----
+
+Uuid: 6xpFfkXZbpJEj7gs
+
+----
+
+Template: image

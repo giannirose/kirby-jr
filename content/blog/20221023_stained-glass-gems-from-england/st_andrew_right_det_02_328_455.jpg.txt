@@ -1,0 +1,65 @@
+Src: 
+
+----
+
+Alt: A close-up of the attendant wrapped in a white headpiece with a white person's flesh tones but with facial features weirdly white rather than the expected dark areas and shading.
+
+----
+
+Width: 328
+
+----
+
+Height: 455
+
+----
+
+Caption: <p>Detail of the attendant in the background of the "I was sick" panel</p>
+
+----
+
+Citation: 
+
+----
+
+Figclass: 
+
+----
+
+Testfield: 
+
+----
+
+Imgclass: 
+
+----
+
+Inlinefigurestyle: 
+
+----
+
+Imginlinestyle: 
+
+----
+
+Link: 
+
+----
+
+Ratio: 
+
+----
+
+Crop: false
+
+----
+
+Location: kirby
+
+----
+
+Uuid: wfGuH6fmfHHffMw0
+
+----
+
+Template: image

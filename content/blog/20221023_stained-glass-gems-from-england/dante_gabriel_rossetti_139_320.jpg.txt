@@ -1,0 +1,69 @@
+Src: 
+
+----
+
+Alt: A figure, mysterious and moody, turned toward the painter holding a red flower
+
+----
+
+Width: 139
+
+----
+
+Height: 320
+
+----
+
+Caption: <p>By Dante Gabriel Rossetti</p>
+
+----
+
+Citation: Title Unknown
+
+----
+
+Figclass: 
+
+----
+
+Testfield: 
+
+----
+
+Spanwidth: 5
+
+----
+
+Imgclass: 
+
+----
+
+Inlinefigurestyle: 
+
+----
+
+Imginlinestyle: 
+
+----
+
+Link: 
+
+----
+
+Ratio: 
+
+----
+
+Crop: false
+
+----
+
+Location: kirby
+
+----
+
+Uuid: DccrVombquyjYAM5
+
+----
+
+Template: image
