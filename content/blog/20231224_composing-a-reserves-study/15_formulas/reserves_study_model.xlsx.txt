@@ -1,0 +1,57 @@
+Src: 
+
+----
+
+Figurehead: 
+
+----
+
+Alt: A sample workbook for a 30-year reserves study
+
+----
+
+Caption: 
+
+----
+
+Citation: 
+
+----
+
+Figclass: 
+
+----
+
+Testfield: 
+
+----
+
+Imgclass: 
+
+----
+
+Inlinefigurestyle: 
+
+----
+
+Imginlinestyle: 
+
+----
+
+Link: 
+
+----
+
+Ratio: 
+
+----
+
+Crop: false
+
+----
+
+Uuid: 0Tj56EdKNfLYKfRx
+
+----
+
+Template: blocks/image

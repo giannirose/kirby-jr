@@ -1,0 +1,65 @@
+Src: 
+
+----
+
+Figurehead: 
+
+----
+
+Alt: A list of four unfunded components
+
+----
+
+Width: 1526
+
+----
+
+Height: 104
+
+----
+
+Caption: 
+
+----
+
+Citation: 
+
+----
+
+Figclass: 
+
+----
+
+Testfield: 
+
+----
+
+Imgclass: 
+
+----
+
+Inlinefigurestyle: 
+
+----
+
+Imginlinestyle: 
+
+----
+
+Link: 
+
+----
+
+Ratio: 
+
+----
+
+Crop: false
+
+----
+
+Uuid: xfHpNTBdVv7kCcdE
+
+----
+
+Template: blocks/image

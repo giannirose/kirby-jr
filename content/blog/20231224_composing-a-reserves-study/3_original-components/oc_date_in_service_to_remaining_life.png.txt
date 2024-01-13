@@ -1,0 +1,65 @@
+Src: 
+
+----
+
+Figurehead: Key time and cost attributes of components
+
+----
+
+Alt: The described items in spreadsheet format
+
+----
+
+Width: 616
+
+----
+
+Height: 710
+
+----
+
+Caption: 
+
+----
+
+Citation: 
+
+----
+
+Figclass: 
+
+----
+
+Testfield: 
+
+----
+
+Imgclass: 
+
+----
+
+Inlinefigurestyle: 
+
+----
+
+Imginlinestyle: 
+
+----
+
+Link: 
+
+----
+
+Ratio: 
+
+----
+
+Crop: false
+
+----
+
+Uuid: pJgjarkhTYBjquCv
+
+----
+
+Template: blocks/image

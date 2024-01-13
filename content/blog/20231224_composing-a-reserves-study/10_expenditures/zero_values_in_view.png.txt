@@ -1,0 +1,65 @@
+Src: 
+
+----
+
+Figurehead: 
+
+----
+
+Alt: The Preference options
+
+----
+
+Width: 1072
+
+----
+
+Height: 676
+
+----
+
+Caption: 
+
+----
+
+Citation: 
+
+----
+
+Figclass: 
+
+----
+
+Testfield: 
+
+----
+
+Imgclass: 
+
+----
+
+Inlinefigurestyle: 
+
+----
+
+Imginlinestyle: 
+
+----
+
+Link: 
+
+----
+
+Ratio: 
+
+----
+
+Crop: false
+
+----
+
+Uuid: ElnGUq0KSWLZbd9P
+
+----
+
+Template: blocks/image

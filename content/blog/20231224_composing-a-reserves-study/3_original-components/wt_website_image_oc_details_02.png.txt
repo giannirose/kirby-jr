@@ -1,0 +1,65 @@
+Src: 
+
+----
+
+Figurehead: Amounts used to determine the current cost
+
+----
+
+Alt: The columns of component costs and numbers and types of items
+
+----
+
+Width: 560
+
+----
+
+Height: 944
+
+----
+
+Caption: 
+
+----
+
+Citation: 
+
+----
+
+Figclass: 
+
+----
+
+Testfield: 
+
+----
+
+Imgclass: 
+
+----
+
+Inlinefigurestyle: 
+
+----
+
+Imginlinestyle: 
+
+----
+
+Link: 
+
+----
+
+Ratio: 
+
+----
+
+Crop: false
+
+----
+
+Uuid: iPsV4aVYCN03PkpR
+
+----
+
+Template: blocks/image
