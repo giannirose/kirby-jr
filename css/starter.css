@@ -32,10 +32,11 @@ html {
   background: var(--color-background);
 }
 
+/*
 img {
   width: 100%;
 }
-
+*/
 /*
 body {
   padding: var(--padding);
@@ -209,14 +210,14 @@ h6 {
   margin-bottom: 0;
 }
 
-.text h1,
+/* .text h1,
 .h1,
 .intro {
   font-size: 2rem;
   margin-bottom: 3rem;
   line-height: 1.25em;
   text-align: center;
-}
+} */
 
 .text h2,
 .h2 {
@@ -329,6 +330,7 @@ hr {
   outline: 2px solid var(--color-light);
 }
 
+/* Interfering with trying to get my img right 2023_12 
 .video,
 .img {
   position: relative;
@@ -338,7 +340,8 @@ hr {
   padding-bottom: calc(100% / var(--w) * var(--h));
   background: var(--color-black);
 }
-
+*/
+/* Interfering with trying to get my img right 2023_12 
 .img img,
 .video iframe {
   position: absolute;
@@ -351,7 +354,7 @@ hr {
   object-fit: cover;
   border: 0;
 }
-
+*/
 .img[data-contain] img {
   object-fit: contain;
 }
@@ -470,24 +473,4 @@ hr {
   background: var(--color-black);
   color: var(--color-white);
   border-color: var(--color-black);
-}
-
-.note-excerpt {
-  line-height: 1.5em;
-}
-
-.note-excerpt header {
-  margin-bottom: 1.5rem;
-}
-
-.note-excerpt figure {
-  margin-bottom: .5rem;
-}
-
-.note-excerpt-title {
-  font-weight: 600;
-}
-
-.note-excerpt-date {
-  color: var(--color-text-grey);
 }
