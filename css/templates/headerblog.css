@@ -1,0 +1,61 @@
+.header-main {
+  display: grid;
+  grid-template-columns: 27.5% 72.5%;
+  margin-top: 1.5rem;
+  margin-bottom: 5rem;
+}
+
+.header-top {
+  display: none;
+}
+
+.header-spacer {
+  display: none;
+}
+
+.header-logo-box {
+  margin: 0;
+  grid-row-start: 1;
+  grid-row-end: 4;
+}
+
+.header-logo-box img {
+  margin: 0;
+}
+
+.header-text {
+  grid-row: 2;
+  background-color: red;
+}
+
+.header-nav {
+  grid-row: 3;
+  grid-column: 2;
+  margin-inline-start: auto;
+  margin-inline-end: auto;
+}
+
+.header-bottom {
+  display: none;
+}
+
+.nav-main li {
+  border-right: 10px solid red;
+}
+
+.nav-main li:nth-child(8n+1) {
+  background-color: hsla(286, 22%, 66%, .2);
+}
+
+.nav-main li:nth-child(8n+2) {
+  background-color: hsla(40, 81%, 70%, .2);
+}
+
+/* Color on the nav items */
+.nav-main li:nth-child(8n+1) {
+  background-color: hsla(286, 22%, 66%, .2);
+}
+
+.nav-main li:nth-child(8n+2) {
+  background-color: hsla(40, 81%, 70%, .2);
+}
