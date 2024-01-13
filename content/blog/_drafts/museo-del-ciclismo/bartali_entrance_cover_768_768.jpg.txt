@@ -1,0 +1,21 @@
+Width: 
+
+----
+
+Height: 
+
+----
+
+Spanwidth: 
+
+----
+
+Crop: false
+
+----
+
+Uuid: exoPjJgLVSWzaQLy
+
+----
+
+Template: image
