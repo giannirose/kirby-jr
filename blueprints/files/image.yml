@@ -1,73 +1,69 @@
+# Fields can be defined in their own field blueprints
+# and reused across multiple blueprints
+# This field is used in the project.yml blueprints
+# See http://getkirby.com/docs/guide/blueprints/extending-blueprints#reusing-and-extending-single-fields
+ type: files
+ multiple: false
+ query: page.images.template('image')
+
+ uploads:
+  template: cover
+
 name: field.blocks.image.name
 icon: image
 preview: image
 fields:
-
+  location:
+    label: field.blocks.image.location
+    type: radio
+    columns: 2
+    default: "kirby"
+    options:
+      kirby: Kirby
+      web: Web
+  #image:
+   # label: field.blocks.image.name
+   # type: files
+   # query: model.images
+   # multiple: false
+   # image:
+   #   back: black
+   # uploads:
+    #  template: blocks/image
+   # when:
+   #   location: kirby
   src:
     label: field.blocks.image.url
     type: url
     when:
       location: web
-  figurehead:
-    type: text
-    label: Header for the image
-    icon: title
   alt:
-    label: Alt Text
+    label: field.blocks.image.alt
     type: text
     icon: title
-  width: 
-    label: set the width attribute
-    type: number
-    width: 1/2  
-  height:
-    label: set the height attribute
-    type: number
-    width: 1/2
   caption:
-    label: Caption
-    type: text
+    label: field.blocks.image.caption
+    type: writer
+    icon: text
+    inline: true
   citation:
     label: Citation
     type: text
-  figclass:
-    label: Add a class on the figure element
-    type: select
-    help:
-    options:
-      xsmallsize: 3/8 width 
-      smallsize: half-width
-      midsize: 3/4 width
-      lessthanfull: A bit smaller than full width
-      fullsize:  full width
-  testfield:
-    type: text 
-    label: Testfield!!! i am in files > image and not files > blocks > image
-    help: We need to understand where the image file comes from
-  spanwidth: 
+    icon: text
+    help: Photo credits or other citation for the image
+   width: 
+    label: set the width attribute
     type: number
-    label: Span Width - for gallery images
-    help: Determines the span of this image when used in the gallery 24-column grid - must be balanced with the other images in the same gallery block
-    width: 1/2      
-  imgclass:
-    label: A class on the image to choose an image size on the page. If images are in a gallery, leave blank and control images from the gallery options in layouts.
-    type: select
-    default: Medium
-    options:
-      small: Small
-      medium: Medium
-      large: Large
-      help: This gives individual control of the image size. If using flexbox, control all images equally with the size on the list item available when selecting the block at the layout screen.
-    width: 1/2
-  inlinefigurestyle:
-    label: Inline Styles for the projects figure element
-    type: text
-    width: 1/2   
-  imginlinestyle:
-    label: Image Inline Style
-    help: add an element/value pair to affect the image tag inline
-    type: text
+    help: enter the actual width of the image- this will not resize the image
     width: 1/2 
+  height:
+    label: set the height attribute
+    type: number
+    help: enter the actual height of the image- this will not resize the image
+    width: 1/2   
+  imheight:
+    label: imgheight
+    type: number
   link:
     label: field.blocks.image.link
     type: text
@@ -91,3 +87,22 @@ fields:
     label: field.blocks.image.crop
     type: toggle
     width: 1/2
+  figclass:
+    label: Class on the figure tag
+    type: select
+    help: Choose image location on page- Left, Right, or Center. Left or Right- content will flow along other side and then below
+    default: Right
+    options:
+      center: Center
+      floatleft: Left
+      floatright: Right
+    width: 1/2
+  imwidth:
+    label
+    type: select
+    options:
+      Small: 100px
+      Medium: 250px
+      400px: Large
+    width: 1/2
+
