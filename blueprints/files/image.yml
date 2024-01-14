@@ -8,6 +8,10 @@ fields:
     type: url
     when:
       location: web
+  figurehead:
+    type: text
+    label: Header for the image
+    icon: title
   alt:
     label: Alt Text
     type: text
@@ -22,16 +26,19 @@ fields:
     width: 1/2
   caption:
     label: Caption
-    type: writer
+    type: text
   citation:
     label: Citation
     type: text
   figclass:
     label: Add a class on the figure element
     type: select
-    options: 
+    help:
+    options:
+      xsmallsize: 3/8 width 
       smallsize: half-width
       midsize: 3/4 width
+      lessthanfull: A bit smaller than full width
       fullsize:  full width
   testfield:
     type: text 
