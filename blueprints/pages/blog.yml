@@ -75,6 +75,10 @@ columns:
     # This second column holds a fields section with multiple fields
     # More about fields sections: https://getkirby.com/docs/reference/panel/sections/fields
     sections:
+    
+      pages: 
+        type: pages
+
       meta:
         type: fields
         fields:
@@ -90,9 +94,15 @@ columns:
             type: users
           # Fields types can be added using the shortcut `fieldname: true`
           # (however, you can only use a fieldname once per page and this only makes sense for simple fields without configuration)
-          tags: true
+          # tags: true
 
-          # This method may allow different images to be kept in individual listings
+
+          #...
+          tags:
+            label: Tags
+            type: tags
+
+          # Allow different images to be kept in individual listings
 
           cover:
             type: files
@@ -115,7 +125,10 @@ columns:
             type: files
           pdf:
             label: PDF's
-            type: files          
+            type: files
+
+        accept:
+            extension: jpg, png, webp, pdf, csv, xls, xlsv, xlsx, xltx, xlt, xml, txt, docx, doc, xltm, svg, xlsm          
      
      
      # This may cause any file to be listed in all files
