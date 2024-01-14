@@ -1,0 +1,52 @@
+Headline: 
+
+----
+
+Subheadline: 
+
+----
+
+Intro: 
+
+----
+
+Layout: [{"attrs":[],"columns":[{"blocks":[{"content":{"text":"Mosaics have always been a companion art form to stained glass, whether because of their association with churches or because the first designer I worked with, Peter Van Rossum, was so accomplished at both.\n\nIn 2008 I attended the wonderful <a href=\"https:\/\/mosaicschool.com\/art\/\">Mosaic School of Luciano Notturni<\/a> in Ravenna, Italy. \n\nThere we learned the basics of working in mosaic in the style of the work in the Byzantine monuments of the 5th and 6th centuries that are plentiful there. \n\nRavenna was the capital of what is commonly called the western Roman empire, denoting a time when the empire, moved to Constantinople, successfully re-claimed much of Italy."},"id":"14e1583f-130f-4c5d-b5d7-6a51f0e5f83e","isHidden":false,"type":"markdown"}],"id":"3c8a4eda-e127-4d9a-91d8-77c6ed24abf7","width":"1\/2"},{"blocks":[{"content":{"location":"kirby","image":["file:\/\/nKUlSSjr59uFov4J"],"src":"","alt":"","width":null,"height":null,"caption":"","citation":"","link":"","figclass":"","imgclass":"","spanwidth":null,"inlinefigurestyle":"","imginlinestyle":"","testfield":""},"id":"a078aca0-608c-4d62-8567-8b02c93b3131","isHidden":false,"type":"image"}],"id":"a88bcd4e-07dc-48b1-ad9c-e0ccf416d5f0","width":"1\/2"}],"id":"d9efeee5-7f25-4297-a01e-209e857285ca"},{"attrs":[],"columns":[{"blocks":[{"content":{"location":"kirby","image":["file:\/\/yE8LUA6vWaOwyWm7"],"src":"","alt":"","width":null,"height":null,"caption":"","citation":"","link":"","figclass":"","imgclass":"","spanwidth":null,"inlinefigurestyle":"","imginlinestyle":"","testfield":""},"id":"8073b557-bae6-4359-8fb2-50aa26db1a78","isHidden":false,"type":"image"}],"id":"b5713cc7-6ef2-41e9-9983-30624593d6e4","width":"1\/2"},{"blocks":[{"content":{"text":"Monuments were build by the emperor Justinian and also by Theodoric, who supplanted the Byzantines but carried on the art traditions.\n\nPictured here is a piece made at the school, a dove or \"columba.\" \n\nI did a <a href=\"http:\/\/kirby-jr\/media\/pages\/home\/Mosaics\/78bda9fd49-1680105024\/mosaic_school_notes_08_rv3.pdf\">write-up of my class<\/a>. Busy writing, there wasn't time to take photos inllustrating the process. I want you to know it was a fantastic week.\n\nI have since made some mosaics for sale and as commissions and continue to seek opportunities."},"id":"862e6b82-408d-4b8f-96b4-72b244e912fd","isHidden":false,"type":"markdown"}],"id":"3c14e6e2-4af7-4114-af48-a96eaafeda09","width":"1\/2"}],"id":"86b02b44-eb2a-4449-9b2b-92a9fbc9f0b1"}]
+
+----
+
+Text: 
+
+----
+
+Date: 
+
+----
+
+Author: 
+
+----
+
+Tags: 
+
+----
+
+Images:
+
+- file://yE8LUA6vWaOwyWm7
+- file://nKUlSSjr59uFov4J
+
+----
+
+Files: 
+
+----
+
+Svg: 
+
+----
+
+Pdf: - file://EEa4cR0PkXRlBTOn
+
+----
+
+Uuid: 2SSns4auRsYJADJr
