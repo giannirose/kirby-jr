@@ -1,0 +1,44 @@
+Title: Home<br>&nbsp;
+
+----
+
+Intro:
+
+Here is an overview of the types of projects that go on at the studio...  
+&nbsp;
+
+----
+
+Layout: 
+
+----
+
+Date: 
+
+----
+
+Author: 
+
+----
+
+Tags: 
+
+----
+
+Files: 
+
+----
+
+Svg: 
+
+----
+
+Pdf: 
+
+----
+
+Uuid: gEjveitHg6sBNGLH
+
+----
+
+Navclass: home
