@@ -1,17 +1,16 @@
 <?php snippet('header-blog') ?>
 
+<article class="content article">
 
-<section class="content article">
-  <article>
+  <section>
     <?php snippet('intro') ?>
-    <?= $page->intro()->kirbytext() ?>
-    <?= $page->text()->kirbytext() ?>
+    <!-- <?= $page->cover()->toFile() ?> -->
+    <!-- <?= $page->intro()->kirbytext() ?>
+    <?= $page->text()->kirbytext() ?> -->
+  </section>
 
-    <p><a href="<?= url('blog') ?>">Back…</a></p>
-
-  </article>
-</section>
-
-<?php snippet('layouts', ['field' => $page->layout()])  ?>
-
+  <section class="content article">
+    <?php snippet('layouts', ['field' => $page->layout()])  ?>
+  </section>
+</article>
 <?php snippet('footer') ?>
