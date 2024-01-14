@@ -1,0 +1,80 @@
+Title: Repair & Restoration
+
+----
+
+Headline: 
+
+----
+
+Subheadline: 
+
+----
+
+Intro: 
+
+----
+
+Layout: [{"attrs":[],"columns":[{"blocks":[{"content":{"text":"Pictured here is the intriguing Hope Abbey Mausoleum. Over a period of fifteen years and working with Pete LaVelle, the original 80 windows were completely re-built using new materials that matched the old panels that, over time, were completely shattered and bent. \n\nAlso at the site is a cemetery and scatter garden that has been lovingly restored and maintained."},"id":"7743ad2d-ca80-4b64-98e8-88f36a5dd38a","isHidden":false,"type":"markdown"}],"id":"1526965f-cabb-4a03-91e1-83942540f229","width":"1\/2"},{"blocks":[{"content":{"location":"kirby","image":["file:\/\/WADqSmvd8t2tHmzo"],"src":"","alt":"","width":null,"height":null,"caption":"","citation":"","link":"","figclass":"","imgclass":"","spanwidth":null,"inlinefigurestyle":"","imginlinestyle":"","testfield":""},"id":"3b46cc7e-5067-4da2-8be7-77750daa1798","isHidden":false,"type":"image"}],"id":"dcee3b80-d6d4-4c62-8d6c-8e39eaccf0bd","width":"1\/2"}],"id":"46b50810-722b-4419-9f26-3764e35f1363"},{"attrs":[],"columns":[{"blocks":[{"content":{"location":"kirby","image":["file:\/\/JU0HDEq0SNrU43vn"],"src":"","alt":"","width":null,"height":null,"caption":"","citation":"","link":"","figclass":"","imgclass":"","spanwidth":null,"inlinefigurestyle":"","imginlinestyle":"","testfield":""},"id":"f3b587e7-712e-40c5-817e-0ac22253eb6f","isHidden":false,"type":"image"}],"id":"681fac10-c12f-4e0e-95af-bfc47571d629","width":"1\/2"},{"blocks":[{"content":{"text":"Repair projects include anything from small suncatchers to broken panels of glass where the basic structure of the panel is sound. It is usually necessary to bring panels and other items to the studio, though there are situations when the repairs can be done in place.\n&nbsp; <br>\n\nRestoration is basically repair work, but more deteriorated situations where panels need to be re-worked in some way, whether because of \"bowing\" of the panel or extensive repairs that require separating the elements and then re-assembling them."},"id":"7b38a365-9c53-4486-a05b-9c91308e889e","isHidden":false,"type":"markdown"}],"id":"04ffa0cf-269f-4f10-bb4d-6441a0807382","width":"1\/2"}],"id":"1d1c9181-0bb1-4948-ab42-02da212749f5"}]
+
+----
+
+Text: 
+
+----
+
+Date: 
+
+----
+
+Author: 
+
+----
+
+Tags: 
+
+----
+
+Images:
+
+- file://WADqSmvd8t2tHmzo
+- file://JU0HDEq0SNrU43vn
+
+----
+
+Files: 
+
+----
+
+Svg: 
+
+----
+
+Pdf: 
+
+----
+
+Template: blocks/image
+
+----
+
+Width: 1600
+
+----
+
+Height: 1200
+
+----
+
+Caption: The Egyptian Revival Style Hope Abbey Mausoleum
+
+----
+
+Citation: 
+
+----
+
+Alt: The mausoleum featuring the wide wing design and papyrus flower motifs derived from ancient Egypt
+
+----
+
+Uuid: kkR3rMabTlgysiDy

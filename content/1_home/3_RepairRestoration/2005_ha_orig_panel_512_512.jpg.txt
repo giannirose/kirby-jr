@@ -1,0 +1,61 @@
+Src: 
+
+----
+
+Alt: An original panel with half the glass missing, vertical and horizontal zinc came with faded copper paint and zinc papyrus flowers overlaid at the top
+
+----
+
+Width: 512
+
+----
+
+Height: 512
+
+----
+
+Caption: <p>The original panels, each approximately 2' x 2', were all in deplorable condition</p>
+
+----
+
+Citation: We matched glass from the original manufacturer, Kokomo Opalescent Glass Company, and used copper came to replace the zinc came with the deteriorated copper paint
+
+----
+
+Figclass: 
+
+----
+
+Imgclass: 
+
+----
+
+Inlinefigurestyle: 
+
+----
+
+Imginlinestyle: 
+
+----
+
+Testfield: 
+
+----
+
+Link: 
+
+----
+
+Ratio: 
+
+----
+
+Crop: false
+
+----
+
+Uuid: JU0HDEq0SNrU43vn
+
+----
+
+Template: blocks/image

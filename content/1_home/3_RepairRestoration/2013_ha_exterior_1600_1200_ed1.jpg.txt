@@ -1,0 +1,41 @@
+Caption: The Egyptian Revival Style Hope Abbey Mausoleum
+
+----
+
+Copyright: 
+
+----
+
+Citation: Architect: Ellis F. Lawrence, 1915
+
+----
+
+Alt: A tall rectangular entry with a tall door crowned by long Egyptian-style wings and flanked by to large pots. Two long wings of the building extend on either side.
+
+----
+
+Photographer: 
+
+----
+
+License: 
+
+----
+
+Link: 
+
+----
+
+Width: 1600
+
+----
+
+Height: 1200
+
+----
+
+Template: blocks/image
+
+----
+
+Uuid: 1LmdpQ1L8axXabA7
