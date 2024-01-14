@@ -1,0 +1,52 @@
+Headline: Lamp Repair
+
+----
+
+Subheadline: 
+
+----
+
+Intro: 
+
+----
+
+Layout: [{"attrs":[],"columns":[{"blocks":[{"content":{"text":"I have repaired many lamps. A common type is often called \"Tiffany\" style, where individual pieces of glass are wrapped in copper foil and then soldered. This can include replacing broken pieces and fixing a problem I see often where the body of the lamp is separating from the topmost metal crown.\n\nA specialty is replacing curved panels in lamps. This style of lamp is composed of larger pieces of glass, each of which is curved and then assembled, like individual \"petals\" that make a nice rounded lamp."},"id":"eb0b703d-80ba-4e28-a0fc-dd3c564633ae","isHidden":false,"type":"markdown"}],"id":"faa37842-7714-4544-a9ee-b6196cf5068d","width":"1\/2"},{"blocks":[{"content":{"location":"kirby","image":["file:\/\/OWZSSLkAg1jLsyCJ"],"src":"","alt":"","width":null,"height":null,"caption":"","citation":"","link":"","figclass":"","imgclass":"","spanwidth":null,"inlinefigurestyle":"","imginlinestyle":"","testfield":""},"id":"3b8bae11-f139-45e6-b8f2-cb62c26f6992","isHidden":false,"type":"image"}],"id":"b1cde9b3-87e3-4c36-9078-3d276737c54b","width":"1\/2"}],"id":"d2baf403-bc3e-482d-8c3d-430eb4fd7b8f"},{"attrs":[],"columns":[{"blocks":[{"content":{"location":"kirby","image":["file:\/\/tAfF8CbYTxMO56KC"],"src":"","alt":"","width":null,"height":null,"caption":"","citation":"","link":"","figclass":"","imgclass":"","spanwidth":null,"inlinefigurestyle":"","imginlinestyle":"","testfield":""},"id":"b15e5479-e061-471e-90fe-91d68ac6e21b","isHidden":false,"type":"image"}],"id":"11984321-9fe0-4d0f-87af-7253c4160f82","width":"1\/2"},{"blocks":[{"content":{"text":"These days, I work mostly on lamps that are brought to my studio- so mostly local projects. I still take in shipped panels if they are notably collectible or, occasionally, when the lamps are clearly of a sentimental value and we can't find anyone else to take on the project."},"id":"c32faea0-1116-482f-bec4-7b97592ba133","isHidden":false,"type":"markdown"}],"id":"926bc236-91c6-496d-8d39-773fb49e8da8","width":"1\/2"}],"id":"7ee13e66-8deb-410f-bcbe-f4d8250d6ba5"}]
+
+----
+
+Text: 
+
+----
+
+Date: 
+
+----
+
+Author: 
+
+----
+
+Tags: 
+
+----
+
+Images: 
+
+----
+
+Files:
+
+- file://tAfF8CbYTxMO56KC
+- file://OWZSSLkAg1jLsyCJ
+
+----
+
+Svg: 
+
+----
+
+Pdf: 
+
+----
+
+Uuid: UMvxVn1TLNx1NaLj

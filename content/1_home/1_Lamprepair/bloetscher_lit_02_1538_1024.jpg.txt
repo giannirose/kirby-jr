@@ -1,0 +1,45 @@
+Caption: A Chinese-inspired Handel lamp
+
+----
+
+Alt: alt text at bloetscher image
+
+----
+
+Photographer: John Rose
+
+----
+
+License: 
+
+----
+
+Link: 
+
+----
+
+Copyright: addCopyright
+
+----
+
+Citation: Photo by JR
+
+----
+
+Width: 128
+
+----
+
+Height: 128
+
+----
+
+Toggle: true
+
+----
+
+Template: blocks/image
+
+----
+
+Uuid: ohuBMXz9ZZlMyeUp
