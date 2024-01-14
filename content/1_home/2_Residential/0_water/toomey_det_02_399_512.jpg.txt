@@ -1,0 +1,45 @@
+Location: kirby
+
+----
+
+Src: 
+
+----
+
+Alt: curvy thin brown glass representing grass reflected in the water
+
+----
+
+Imwidth: 399
+
+----
+
+Imheight: 512
+
+----
+
+Caption: Detail
+
+----
+
+Citation: 
+
+----
+
+Link: 
+
+----
+
+Ratio: 
+
+----
+
+Crop: false
+
+----
+
+Uuid: I5V30bRR2uXFRDne
+
+----
+
+Template: image

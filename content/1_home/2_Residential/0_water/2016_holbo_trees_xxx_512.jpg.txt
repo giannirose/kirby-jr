@@ -1,0 +1,45 @@
+Location: kirby
+
+----
+
+Src: 
+
+----
+
+Alt: Clouds, a fir tree along the left side and some distant mountains
+
+----
+
+Imwidth: 243
+
+----
+
+Imheight: 512
+
+----
+
+Caption: detail
+
+----
+
+Citation: 
+
+----
+
+Link: 
+
+----
+
+Ratio: 
+
+----
+
+Crop: false
+
+----
+
+Uuid: CptDYiubRieGjviL
+
+----
+
+Template: image

@@ -1,0 +1,9 @@
+Alt: Circular stained glass window
+
+----
+
+Uuid: sQNXeaTVBSsnxfdx
+
+----
+
+Template: cover

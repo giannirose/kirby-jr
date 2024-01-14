@@ -1,0 +1,61 @@
+Src: 
+
+----
+
+Alt: Two windows, each with three sprials along which are many images from nature including bugs, butterflies, blossoms and berry fruits
+
+----
+
+Width: 960
+
+----
+
+Height: 768
+
+----
+
+Caption: <p>"Bugs, berries and blossoms"</p>
+
+----
+
+Citation: Door to a sunroom featuring painted and etched glass images from nature on a clear textured glass field
+
+----
+
+Figclass: 
+
+----
+
+Imgclass: 
+
+----
+
+Inlinefigurestyle: 
+
+----
+
+Imginlinestyle: 
+
+----
+
+Testfield: 
+
+----
+
+Link: 
+
+----
+
+Ratio: 
+
+----
+
+Crop: false
+
+----
+
+Uuid: GWKmEg5ZR0n9AAj3
+
+----
+
+Template: blocks/image

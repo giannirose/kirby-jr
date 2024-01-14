@@ -1,0 +1,45 @@
+Location: kirby
+
+----
+
+Src: 
+
+----
+
+Alt: Close-up of the waterfall featuring fused glass and bubbly glass
+
+----
+
+Imwidth: 409
+
+----
+
+Imheight: 512
+
+----
+
+Caption: Detail of the waterfall
+
+----
+
+Citation: 
+
+----
+
+Link: 
+
+----
+
+Ratio: 
+
+----
+
+Crop: false
+
+----
+
+Uuid: gKCWjoG7xnNJ4A6P
+
+----
+
+Template: image

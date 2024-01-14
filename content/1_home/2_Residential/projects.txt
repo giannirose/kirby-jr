@@ -1,0 +1,77 @@
+Title: Residential Projects
+
+----
+
+Headline: 
+
+----
+
+Subheadline: 
+
+----
+
+Intro: 
+
+----
+
+Layout: [{"attrs":[],"columns":[{"blocks":[{"content":{"text":"<p>I take on residential design projects on occasion.<\/p><p>The challenge is always to arrive at a design that addresses the purpose of the window and a style that works well for the client and the residence. As time becomes more precious, I find myself more drawn to research of what is possible with glass and pure applications. In other words, just making stuff for myself that I later sell.<\/p>"},"id":"e01b0e23-d690-4e37-bbec-f01052d44f15","isHidden":false,"type":"text"}],"id":"22081d2c-978c-4a6d-8eaf-29c64ad01a4a","width":"1\/2"},{"blocks":[{"content":{"location":"kirby","image":["file:\/\/GWKmEg5ZR0n9AAj3"],"src":"","alt":"","width":null,"height":null,"caption":"","citation":"","link":"","figclass":"","imgclass":"","spanwidth":null,"inlinefigurestyle":"","imginlinestyle":"","testfield":""},"id":"f2aaa7a0-60b2-4b8c-8df7-e13efc3e6d8b","isHidden":false,"type":"image"}],"id":"cb350a48-bf07-4608-a83f-4815bef9688a","width":"1\/2"}],"id":"516c1a55-e75b-48b5-bdf5-80ff950b8f8f"}]
+
+----
+
+Text: 
+
+----
+
+Date: 
+
+----
+
+Author: 
+
+----
+
+Tags: 
+
+----
+
+Images: - file://GWKmEg5ZR0n9AAj3
+
+----
+
+Files: 
+
+----
+
+Svg: 
+
+----
+
+Pdf: 
+
+----
+
+Width: 926
+
+----
+
+Height: 1024
+
+----
+
+Caption: Double door entry to the sunroom
+
+----
+
+Citation: 
+
+----
+
+Alt: An organic spiraling background features natural elements arrayed throughout the panels
+
+----
+
+Template: blocks/image
+
+----
+
+Uuid: JF5xJziNn4jHVqVc

@@ -1,0 +1,45 @@
+Location: kirby
+
+----
+
+Src: 
+
+----
+
+Alt: A close up of concentric ovals of wavy textured glass representing ripples of water
+
+----
+
+Imwidth: 683
+
+----
+
+Imheight: 512
+
+----
+
+Caption: Detail
+
+----
+
+Citation: 
+
+----
+
+Link: 
+
+----
+
+Ratio: 
+
+----
+
+Crop: false
+
+----
+
+Uuid: vRjeiBJ32OuhIPlb
+
+----
+
+Template: image

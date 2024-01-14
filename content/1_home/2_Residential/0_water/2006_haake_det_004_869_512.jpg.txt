@@ -1,0 +1,45 @@
+Location: kirby
+
+----
+
+Src: 
+
+----
+
+Alt: Intersecting pools of water have small colored details including inserted marbles
+
+----
+
+Imwidth: 869
+
+----
+
+Imheight: 512
+
+----
+
+Caption: Detail of the Portland window
+
+----
+
+Citation: 
+
+----
+
+Link: 
+
+----
+
+Ratio: 
+
+----
+
+Crop: false
+
+----
+
+Uuid: 1OSlYqDLX61PoRMZ
+
+----
+
+Template: image

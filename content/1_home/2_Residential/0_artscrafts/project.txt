@@ -1,0 +1,82 @@
+Headline: Craftsman Style
+
+----
+
+Subheadline: Inspired by the work of the Arts & Crafts movement and Frank Lloyd Wright
+
+----
+
+Intro:
+
+The design sensibilities of the Arts & Crafts movement and of Frank Lloyd Wright fit well with many a home. It is no wonder—their work is based on sound and pleasing design principles. 
+
+These pieces owe a debt to those styles; I try to bring something fresh.
+
+----
+
+Layout: [{"attrs":[],"columns":[{"blocks":[{"content":{"images":["file:\/\/rMNuoEOqEpnszuSi","file:\/\/IShqkjwEeelHaptm","file:\/\/cnV36HlCHgMB4YeM","file:\/\/9tMrI5iPf6xvgXup"],"caption":"A close-up of a round window with woods beyond","ratio":"","crop":"false"},"id":"461a8e15-fa8a-4f51-ab8d-4f0a1f872452","isHidden":false,"type":"gallery"}],"id":"49b7d886-f841-4b75-91f8-853f84c15394","width":"1\/1"}],"id":"6177ee2b-5b39-4a94-a5d1-446c802e8c13"},{"attrs":[],"columns":[{"blocks":[{"content":{"text":"We're just adding some text to see if layouts are rendering"},"id":"4418c5eb-dea6-4c9a-a140-6f785f4e71f5","isHidden":false,"type":"markdown"}],"id":"da373b03-a026-4c9c-ba73-37acfa31de81","width":"1\/1"}],"id":"fd80b5c2-8b36-44ea-b70e-8a50a30ce49c"},{"attrs":[],"columns":[{"blocks":[{"content":{"images":["file:\/\/B2bIXPcW8n9S5rwW","file:\/\/WIKTSjgqY5sSekk3","file:\/\/AZpMmkgpZkr8ymrG"],"caption":"caption","ratio":"","crop":"false"},"id":"b99ba7f3-00e5-427b-b8f4-3c6a00604be2","isHidden":false,"type":"gallery"}],"id":"ae51ac2b-38b8-4d51-a130-df7102df42f7","width":"1\/1"}],"id":"691080d8-e519-4acb-b1d2-a820a0857a59"}]
+
+----
+
+Text:
+
+Arts & Crafts and Frank Lloyd Wright mainimgfloat mainimggrid2 Arts & Crafts and Frank Lloyd Wright  Stained glass in a double door Double Doors for a foyer    stained glass at an house interior Detail of an interior window   The design sensibilities of the Arts &amp; Crafts movement and of Frank Lloyd Wright fit well with many a home.
+No wonder- their work is based on sound and pleasing design principles. 
+These pieces owe a debt to those styles; I try to bring something fresh.    stained glass detail Details- an etched fused glass spiral and bevels    An entry door in stained glass Entry door    entry door detail Detail of the entry door    stained glass in double doors Music Room doors    Music room detail Music room detail    Two stained glass panels flank an interior passageway Interior passageway panels  Woodwork by <a href="https://www.facebook.com/pg/Skyline-Fine-Cabinets-Furniture-LLC-107893118930/about/?ref=page_internal">John Fisher</a>  detail of B's window A close-up of the passageway panels    Details of B's windows The base- or "root"- of the passageway panels    Windows for a dining room Windows for a dining room    Dining room window Dining room detail    Stained glass door window and side panel A door with a side panel    A stained glass window featuring spirals The spirals become the main feature    A round stained glass window A lovely wooded setting    Stained glass detail Worth a closer look    Stained glass detail And another    A small entry door panel A small entry door panel
+
+
+
+ Arts & Crafts and Frank Lloyd Wright mainimgfloat mainimggrid2 Arts & Crafts and Frank Lloyd Wright  Stained glass in a double door Double Doors for a foyer    stained glass at an house interior Detail of an interior window   The design sensibilities of the Arts &amp; Crafts movement and of Frank Lloyd Wright fit well with many a home.
+No wonder- their work is based on sound and pleasing design principles. 
+These pieces owe a debt to those styles; I try to bring something fresh.    stained glass detail Details- an etched fused glass spiral and bevels    An entry door in stained glass Entry door    entry door detail Detail of the entry door    stained glass in double doors Music Room doors    Music room detail Music room detail    Two stained glass panels flank an interior passageway Interior passageway panels  Woodwork by <a href="https://www.facebook.com/pg/Skyline-Fine-Cabinets-Furniture-LLC-107893118930/about/?ref=page_internal">John Fisher</a>  detail of B's window A close-up of the passageway panels    Details of B's windows The base- or "root"- of the passageway panels    Windows for a dining room Windows for a dining room    Dining room window Dining room detail    Stained glass door window and side panel A door with a side panel    A stained glass window featuring spirals The spirals become the main feature    A round stained glass window A lovely wooded setting    Stained glass detail Worth a closer look    Stained glass detail And another    A small entry door panel A small entry door panel
+
+----
+
+Cover: - file://sQNXeaTVBSsnxfdx
+
+----
+
+Date: 
+
+----
+
+Author: 
+
+----
+
+Tags: 
+
+----
+
+Images:
+
+- file://xooSQz4gswT1fbUf
+- file://9tMrI5iPf6xvgXup
+- file://75Jd00tBZ2YHy8QJ
+- file://B2bIXPcW8n9S5rwW
+- file://WIKTSjgqY5sSekk3
+- file://AZpMmkgpZkr8ymrG
+- file://eAUnpyE90sm7IN3J
+- file://OMYzQHHoG6miNmGu
+- file://9GmFGGFKT8svBaiT
+- file://IShqkjwEeelHaptm
+- file://RtRgb02TnJCKualm
+- file://yRM8gAKeiuevzsfg
+- file://rMNuoEOqEpnszuSi
+- file://cnV36HlCHgMB4YeM
+
+----
+
+Svg: 
+
+----
+
+Pdf: 
+
+----
+
+Files: 
+
+----
+
+Uuid: VUvGSX9aslg9FHTJ

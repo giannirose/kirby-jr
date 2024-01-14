@@ -1,0 +1,53 @@
+Location: 
+
+----
+
+Src: 
+
+----
+
+Alt: 3 pools of rippling water intersect and reflect tall grass
+
+----
+
+Caption: 
+
+----
+
+Citation: 
+
+----
+
+Width: 1020
+
+----
+
+Height: 512
+
+----
+
+Link: 
+
+----
+
+Ratio: 
+
+----
+
+Crop: false
+
+----
+
+Figclass: 
+
+----
+
+Imwidth: 
+
+----
+
+Uuid: 3rDlXYCCQfofXBAK
+
+----
+
+Template: cover
