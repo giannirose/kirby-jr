@@ -1,0 +1,49 @@
+Src: 
+
+----
+
+Alt: 
+
+----
+
+Caption: 
+
+----
+
+Citation: 
+
+----
+
+Testfield: 
+
+----
+
+Imgclass: 
+
+----
+
+Inlinefigurestyle: ddd
+
+----
+
+Imginlinestyle: vvv
+
+----
+
+Link: 
+
+----
+
+Ratio: 
+
+----
+
+Crop: false
+
+----
+
+Uuid: h5RllUIkgjWkZBMT
+
+----
+
+Template: image

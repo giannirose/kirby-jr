@@ -1,0 +1,57 @@
+Src: 
+
+----
+
+Alt: A circle bordered by blue and white etched waves and containing blue and white waves encircling colored glass medallions
+
+----
+
+Width: 1061
+
+----
+
+Height: 768
+
+----
+
+Caption: <p>Newport, Oregon is a coastal town. This panel is above the library entry.</p>
+
+----
+
+Citation: 
+
+----
+
+Testfield: 
+
+----
+
+Imgclass: 
+
+----
+
+Inlinefigurestyle: 
+
+----
+
+Imginlinestyle: 
+
+----
+
+Link: 
+
+----
+
+Ratio: 
+
+----
+
+Crop: false
+
+----
+
+Uuid: pAxiphQUcuoMbXEs
+
+----
+
+Template: image

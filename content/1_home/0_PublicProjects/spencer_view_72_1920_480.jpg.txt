@@ -1,0 +1,57 @@
+Src: 
+
+----
+
+Alt: Design of an ocean on the left to mountains on the right contain images of famous places from around the world
+
+----
+
+Width: 1920
+
+----
+
+Height: 480
+
+----
+
+Caption: <p>A childcare center window for the University of Oregon's housing complex for married international students</p>
+
+----
+
+Citation: The window is 26' wide and about 5' tall
+
+----
+
+Testfield: 
+
+----
+
+Imgclass: 
+
+----
+
+Inlinefigurestyle: 
+
+----
+
+Imginlinestyle: border: 3px solid aliceblue
+
+----
+
+Link: 
+
+----
+
+Ratio: 
+
+----
+
+Crop: false
+
+----
+
+Uuid: WTPwSXqbI1wnzQUz
+
+----
+
+Template: image

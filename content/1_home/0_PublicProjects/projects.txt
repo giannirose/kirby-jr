@@ -1,0 +1,112 @@
+Title: Public Projects
+
+----
+
+Headline: <a href="http://kirby-jr/publicprojects">Public Projects</a>
+
+----
+
+Subheadline: 
+
+----
+
+Intro:
+
+#Public Projects
+
+Here is a look at my various public projects.
+
+----
+
+Layout: [{"attrs":[],"columns":[{"blocks":[{"content":{"text":"<p class=\"page-link floatright\">(link: http:\/\/kirby-jr\/publicprojects text: View all the public projects \u2014>)<\/p>  \n&nbsp; <br> \n&nbsp; <br>"},"id":"c7cf46e7-d3c8-4805-a42c-82a60d37e05d","isHidden":false,"type":"markdown"}],"id":"fe7e40e5-4872-4e2c-a41e-be0909edfd07","width":"1\/1"}],"id":"a091da71-7e0c-4642-9976-18fc7737af54"},{"attrs":[],"columns":[{"blocks":[{"content":{"location":"kirby","image":["file:\/\/WTPwSXqbI1wnzQUz"],"src":"","alt":"","width":null,"height":null,"caption":"","citation":"","link":"","figclass":"","imgclass":"","spanwidth":null,"inlinefigurestyle":"","imginlinestyle":"margin-left: -3rem; margin-right: -3rem","testfield":""},"id":"38cae420-f85b-4533-8089-282ca6f0daba","isHidden":false,"type":"image"}],"id":"5a2e16a1-181b-4c9d-85b5-9ef4ff19e401","width":"1\/1"}],"id":"fc2e2e24-dd6b-4118-91eb-6c62b75eff8b"},{"attrs":[],"columns":[{"blocks":[{"content":{"text":"Public art projects include, in Eugene, Oregon:\n- The ticket office at the Hult Center for the Performing Arts  \n- Eugene Station- the central downtown bus station\n- Spencer View Housing at the University of Oregon\n- Eugene Public Library\n- With sculptor Ellen Tykeson, the Eugene Police Headquarters\n- With Susan Price, artwork for Price Science Commons at the U of O"},"id":"f7531944-2ca0-44b5-aa41-e821aac37387","isHidden":false,"type":"markdown"}],"id":"e73a1be1-5557-43f1-802a-1578348b0181","width":"1\/2"},{"blocks":[{"content":{"location":"kirby","image":["file:\/\/c0Xjt8EIYiwWETkB"],"src":"","alt":"","width":null,"height":null,"caption":"","citation":"","link":"","figclass":"","imgclass":"","spanwidth":null,"inlinefigurestyle":"","imginlinestyle":"","testfield":""},"id":"f8dafb0b-2905-4e7c-ade4-878339c19fe1","isHidden":false,"type":"image"}],"id":"92d94fb6-8d4c-46e8-8fa2-fdcb6460aac0","width":"1\/2"}],"id":"30ad6052-9286-4db6-9792-8dc5a1d6742e"},{"attrs":[],"columns":[{"blocks":[{"content":{"location":"kirby","image":["file:\/\/pAxiphQUcuoMbXEs"],"src":"","alt":"","width":null,"height":null,"caption":"","citation":"","link":"","figclass":"","imgclass":"","spanwidth":null,"inlinefigurestyle":"","imginlinestyle":"","testfield":""},"id":"9f2895ec-6543-44d5-b471-1d1284ba3c5c","isHidden":false,"type":"image"}],"id":"fad64a75-745f-4963-a262-248be63bcc88","width":"1\/2"},{"blocks":[{"content":{"text":"And in Newport, Oregon\n- Newport Public Library\n- With metal-master Greg Wilbur, Newport City Hall"},"id":"7123edec-0121-4032-9330-b87691010287","isHidden":false,"type":"markdown"}],"id":"965476d5-64c8-4109-9f30-1045ad61a084","width":"1\/2"}],"id":"656eb7c2-1525-4614-813f-9cca102ec6c7"},{"attrs":[],"columns":[{"blocks":[{"content":{"text":"&nbsp; <br>\n\n<p class=\"page-link floatright\">(link: http:\/\/kirby-jr\/publicprojects text: View all the public projects \u2014>)<\/p>  \n&nbsp;"},"id":"7f030507-0acd-47ec-8f72-601766b42813","isHidden":false,"type":"markdown"}],"id":"806d4158-adbb-4931-8699-3bbf2ed22c2a","width":"1\/1"}],"id":"a90f185b-7c18-4810-b2c5-52fb9a9902ae"}]
+
+----
+
+Text: 
+
+----
+
+Link: 
+
+----
+
+Navclass: publicprojects 
+
+----
+
+Date: 
+
+----
+
+Author: 
+
+----
+
+Tags: 
+
+----
+
+Images: 
+
+----
+
+Files:
+
+- file://h5RllUIkgjWkZBMT
+- file://pAxiphQUcuoMbXEs
+- file://GAQbaAy6otCFLQUj
+- file://WTPwSXqbI1wnzQUz
+
+----
+
+Svg: 
+
+----
+
+Pdf: 
+
+----
+
+Atitle: <a href="http://kirby-jr/publicprojects>Public Projects</a>
+
+----
+
+Inlinefigurestyle: 
+
+----
+
+Imageclass: project-image
+
+----
+
+Template: blocks/image
+
+----
+
+Alt: The spiral design in white and blue with random colored areas
+
+----
+
+Width: 1127
+
+----
+
+Height: 512
+
+----
+
+Caption: Drawing for the Eugene Public Library 1st floor window
+
+----
+
+Citation: 
+
+----
+
+Uuid: JCSU5x9m1hLr3RXQ
+
+----
+
+id: publicprojects
+
+----

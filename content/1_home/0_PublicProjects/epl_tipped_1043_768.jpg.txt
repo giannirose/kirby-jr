@@ -1,0 +1,45 @@
+Src: 
+
+----
+
+Alt: Two windows, one featuring central round shapes and one featuring central diamond shapes, each two stories tall
+
+----
+
+Width: 1043
+
+----
+
+Height: 768
+
+----
+
+Caption: The east and west windows at the Eugene Public Library have, respectively, repeating designs of stacked circles and diamonds 
+
+----
+
+Citation: This is a composite photo- the windows are actually on opposite sides of the building
+
+----
+
+Imgclass: 
+
+----
+
+Link: 
+
+----
+
+Ratio: 
+
+----
+
+Crop: false
+
+----
+
+Uuid: c0Xjt8EIYiwWETkB
+
+----
+
+Template: image
