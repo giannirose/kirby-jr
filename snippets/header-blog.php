@@ -11,10 +11,8 @@
   </title>
   <?= css('assets/css/starter.css') ?>
   <?= css('assets/css/index.css') ?>
-  <?= css('assets/css/blog.css') ?>
-  <?= css('assets/css/blogs.css') ?>
   <?= css('@auto') ?>
-  <?= css('assets/css/headerblog.css') ?>
+
 
 </head>
 <!-- header-blog does not have the full navigation -->
