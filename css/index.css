@@ -994,7 +994,7 @@ li.projects:nth-of-type(8n+8) {
   margin-inline-start: 0;
   font-size: 2rem;
   font-weight: 700;
-
+  text-align: left;
 }
 
 pre {
