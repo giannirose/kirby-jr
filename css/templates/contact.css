@@ -75,6 +75,7 @@ div.contact {
 h2 {
   font-size: 4rem;
   font-weight: 500;
+  margin-top: 2rem;
   margin-bottom: 2rem;
   color: var(--color-code-red);
 }
