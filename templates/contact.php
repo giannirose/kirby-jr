@@ -1,13 +1,14 @@
 <?php snippet('header-contact') ?>
 <main class="main page-margin">
-  <p>I recommend that you <a href="mailto:johnrose@johnrose-glass.com?subject=Inquiry">email me
-      directly here</a>. You can also use the <a href="https://johnrose-glass.com/Contact">use the Contact Form</a>.
+  <p>You can <a href="mailto:johnrose@johnrose-glass.com?subject=Inquiry">email me
+      directly here</a> or use the Contact Form below.
+  </p>
+  <p class="center">If sending photos or other attachments please <a
+      href="mailto:johnrose@johnrose-glass.com?subject=Inquiry">use email</a>.
   </p>
   <h2 class="center">Contact Form</h2>
 
-  <p class="center">If sending photos or other attachments, I prefer email—there is a link following the Submit
-    button.</p>
-  </p>
+
   <hr>
 
   <?php if ($success): ?>
@@ -46,8 +47,8 @@
           Text <abbr title="required">*</abbr>
         </label>
         <textarea id="text" name="text" required>
-                              <?= esc($data['text'] ?? '') ?>
-                          </textarea>
+                                        <?= esc($data['text'] ?? '') ?>
+                                    </textarea>
         <?= isset($alert['text']) ? '<span class="alert error">' . esc($alert['text']) . '</span>' : '' ?>
       </div>
       <input type="submit" name="submit" value="Submit">
