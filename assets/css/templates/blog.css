@@ -1,0 +1,515 @@
+/* Header layout */
+
+.header-main {
+  display: grid;
+  grid-template-columns: 27.5% 72.5%;
+  margin-top: 1.5rem;
+  margin-bottom: 3rem;
+}
+
+.header-top {
+  display: none;
+}
+
+.header-spacer {
+  display: none;
+}
+
+.header-logo-box {
+  margin: 0;
+  grid-row-start: 1;
+  grid-row-end: 4;
+}
+
+.header-logo-box img {
+  margin: 0;
+}
+
+.header-text {
+  grid-row: 2;
+}
+
+.header-nav {
+  grid-row: 3;
+  grid-column: 2;
+  margin-inline-start: auto;
+  margin-inline-end: auto;
+}
+
+.header-bottom {
+  display: none;
+}
+
+.nav-main li {
+  border-right: none;
+}
+
+/* end header details */
+
+.h1 {
+  font-size: 2.5rem;
+  margin-top: 2rem;
+}
+
+.text h2,
+.h2 {
+  font-size: 2.5rem;
+}
+
+.text h3,
+h4 {
+  margin: 0 0;
+}
+
+.nav-main a {
+  font-size: 2.4rem;
+}
+
+.nav-main a {
+  font-size: clamp(1.8rem, 1.43vw + .5rem, 2.4rem);
+}
+
+.blog {
+  margin-inline-start: 1.2rem;
+  margin-inline-end: 1.2rem;
+}
+
+.blog h4 {
+  font-style: italic;
+  font-weight: 400;
+}
+
+.blog-intro-cover {
+  margin-top: 2.5rem;
+}
+
+.blog-intro {
+  margin-top: 1.8rem;
+}
+
+.blog-tags {
+  color: var(--color-text-grey);
+  font-style: italic;
+  font-size: 1.4rem;
+}
+
+.blog-tags li {
+  list-style-type: none;
+  text-align: left;
+  margin-inline-start: 1.2rem;
+  font-size: 1.6rem;
+}
+
+.blog-tags a {
+  font-size: 1.6rem;
+}
+
+/*
+  .center img {
+    border: 10px solid yellow;
+  }
+*/
+
+.centerlink {
+  display: block;
+  text-align: center;
+}
+
+cite {
+  font-size: 1.25rem;
+}
+
+@media screen and (min-width: 640px) {
+  cite {
+    font-size: 1.8rem;
+  }
+}
+
+.coverintro {
+  text-align: left;
+}
+
+@media screen and (max-width: 639px) {
+
+  div[style="--columns:5"] {
+    grid-row: 1;
+  }
+
+  div[style="--columns:3"]:nth-child(n+1) {
+    grid-row: 1;
+  }
+
+  div[style="--columns:3"]:nth-child(n+2) {
+    grid-row: 1;
+  }
+
+  div[style="--columns:3"]:nth-child(n+3) {
+    grid-row: 2;
+  }
+
+  div[style="--columns:3"]:nth-child(n+4) {
+    grid-row: 2;
+  }
+}
+
+figcaption {
+  caption-side: bottom;
+  font-size: 1.6rem;
+  margin: 0.8rem 0.4rem 0.2rem 0.4rem;
+  color: var(--color-text);
+}
+
+figcaption p.caption {
+  font-size: 1.25rem;
+}
+
+@media screen and (min-width: 640px) {
+  figcaption {
+    font-size: 1.8rem;
+  }
+
+  figcaption p.caption {
+    font-size: 1.8rem;
+    padding: 0;
+    margin: 0;
+  }
+}
+
+figcaption p {
+  max-width: 90%
+}
+
+figure {
+  margin: 1rem auto 0 auto;
+}
+
+
+.fleximages li.small {
+  flex: 0 0 18%;
+}
+
+.fleximages li.medium {
+  flex: 0 0 30%;
+}
+
+@media screen and (min-width: 640px) {
+  .fleximages li.medium {
+    flex: 0 0 24%;
+  }
+}
+
+.fleximages li.large {
+  flex: 0 0 30%;
+}
+
+@media screen and (min-width: 960px) {
+  .floatleft img {
+    width: 35vw;
+    border: 5px solid red;
+  }
+
+  .floatright img {
+    width: 35vw;
+    border: 5px solid red;
+  }
+
+  .floatleft {
+    float: left;
+  }
+
+  .floatright {
+    float: right;
+  }
+}
+
+footer {
+  margin-top: 3.5rem;
+}
+
+footer time {
+  font-size: 2rem;
+}
+
+
+
+hr.intro {
+  width: 40rem;
+  margin: 2.5rem auto;
+}
+
+img.large {
+  max-width: 100%;
+}
+
+img.medium {
+  max-width: 90%;
+}
+
+img.small {
+  max-width: 80%;
+}
+
+@media screen and (min-width: 640px) {
+
+  img.large {
+    max-width: 100%;
+  }
+
+  img.medium {
+    max-width: 77.5%;
+  }
+
+  img.small {
+    max-width: 55%;
+  }
+}
+
+.italic {
+  font-family: serif;
+  font-style: italic;
+}
+
+.text figure {
+  margin: 3rem auto;
+}
+
+li {
+  list-style: disc;
+  list-style-position: outside;
+  margin-block-start: 0;
+  margin-inline-start: auto;
+  margin-block-end: .8rem;
+  margin-inline-end: auto;
+  max-width: 65ch;
+}
+
+/* override .margin-xl in starter.css set at 4.5 rem */
+.margin-xl {
+  margin-bottom: 1rem;
+}
+
+/* make the gallery block in to a flexbox containter */
+
+
+
+/* The following are carried over from article.css for the parking article */
+
+/* End the carry-over from article.css */
+
+.noborder ul {
+  display: flex;
+  flex-wrap: wrap;
+  padding-left: 0;
+}
+
+.noborder ul li {
+  list-style: none;
+  margin-bottom: 3rem;
+}
+
+p {
+  font-size: 1.6rem;
+}
+
+@media screen and (min-width: 640px) {
+  p {
+    font-size: 2.4rem;
+  }
+}
+
+div.column p:first-of-type {
+  margin-top: 1.2rem;
+}
+
+@media screen and (min-width: 640px) {
+
+  section p,
+  .blog-intro p,
+  .coverintro p {
+    max-width: 65ch;
+  }
+}
+
+p+h3 {
+  margin-block-start: 1.8rem;
+}
+
+p+h4 {
+  margin-block-start: 2rem;
+}
+
+.subheadline {
+  color: var(--color-text-grey);
+  font-style: italic;
+  font-size: clamp(1.8rem, .76vw + 1.13rem, 2.4rem);
+  margin-bottom: 1.5rem;
+}
+
+ul.fleximages {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 20px;
+  justify-content: space-around;
+}
+
+@media screen and (min-width: 640px) {
+  ul.fleximages {
+    justify-content: space-between;
+  }
+}
+
+/* Odd sizing methods */
+
+.xsmallsize {
+  width: 38.75%
+}
+
+.smallsize {
+  width: 50%
+}
+
+.midsize {
+  max-width: 75%;
+  height: auto;
+}
+
+.lessthanfull {
+  width: 92.5%;
+}
+
+@media screen and (min-width: 640px) {
+  .smallsize {
+    width: 50%
+  }
+
+  .midsize {
+    width: 75%;
+  }
+
+  .lessthanfull {
+    width: 92.5%;
+  }
+
+  .fullsize {
+    width: 100%
+  }
+}
+
+/*
+ul {
+  margin-left: 5rem;
+}
+*/
+
+/*
+.grid>.column:nth-child(n) {
+  border: 5px solid red;
+}
+
+
+.grid>.column figure {
+  background-color: lightseagreen;
+
+}
+
+.grid>.column:has(figure) {
+  grid-row: 1;
+}
+*/
+
+/* Set main and aside and footer */
+.container-wrapper {
+  container-type: inline-size;
+}
+
+/*
+.wrapper {
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  grid-template-areas:
+    "main aside"
+    "footer footer";
+}
+*/
+aside {
+  margin-inline-start: 1rem;
+  margin-inline-end: 1rem;
+  grid-area: aside;
+}
+
+main {
+  grid-area: main;
+}
+
+footer {
+  grid-area: footer;
+}
+
+.tags {
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+  gap: 1rem;
+  margin-inline-start: 2rem;
+}
+
+.blogroll {
+  margin-block-end: 1.5rem;
+}
+
+.nav-main {
+  display: flex;
+  gap: 1.6rem;
+}
+
+.nav-main li:nth-child(8n+1) {
+  background-color: hsla(286, 22%, 66%, .2);
+}
+
+.nav-main li:nth-child(8n+2) {
+  background-color: hsla(40, 81%, 70%, .2);
+}
+
+.tags li {
+  list-style: none;
+  padding: 1rem 1.4rem;
+  margin: 0;
+}
+
+.tags li a {
+  font-size: 1.6rem;
+}
+
+.aside {
+  margin-inline-start: 1rem;
+  margin-inline-end: 1rem;
+}
+
+main {
+  grid-area: main;
+}
+
+footer {
+  grid-area: footer;
+}
+
+@media screen and (min-width: 640px) {
+  .wrapper {
+    display: block;
+  }
+
+  aside {
+    float: right;
+    padding: 1.8rem;
+    border: 1px solid black;
+  }
+
+  .tags {
+    display: flex;
+    flex-direction: column;
+    flex-wrap: wrap;
+    gap: 1rem;
+    padding: 1.8rem;
+    padding-block-start: 0;
+  }
+}
