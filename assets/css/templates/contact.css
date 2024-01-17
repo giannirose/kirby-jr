@@ -1,0 +1,156 @@
+abbr {
+  color: var(--color-code-red);
+}
+
+.alert {
+  width: 100%;
+  margin: 1.5rem auto;
+  color: var(--color-code-red);
+}
+
+.alert.success {
+  text-align: center;
+}
+
+.alert ul li {
+  list-style: disc;
+  margin-bottom: 0.5rem;
+}
+
+.alert a {
+  text-decoration: underline;
+}
+
+.applications {
+  max-width: 35rem;
+  margin: 0 auto;
+}
+
+.application-header {
+  text-align: center;
+}
+
+.application-form {
+  width: 22.5rem;
+  margin-top: 2rem;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+div.contact {
+  margin-top: 2.5rem;
+}
+
+.event-date {
+  margin-bottom: .5rem;
+  display: block;
+}
+
+.field {
+  font-size: 2rem;
+  margin-block-end: 2rem;
+  margin-inline-end: 2rem
+}
+
+.form-element {
+  margin-bottom: 1rem;
+}
+
+.form-element label {
+  padding: 0 0 .75rem;
+  line-height: 1.25rem;
+}
+
+.form-element input,
+.form-element textarea {
+  -webkit-appearance: none;
+  width: 100%;
+  border: 1px solid #ccc;
+  background: none;
+  font: inherit;
+  color: inherit;
+  padding: .5rem .5rem .5rem 1.85rem;
+  line-height: 1.25rem;
+}
+
+h2 {
+  font-size: clamp(2.4rem, 1.43vw + .5rem, 3rem);
+  font-weight: 500;
+  margin-top: 2rem;
+  margin-bottom: 2rem;
+  color: var(--color-code-red);
+}
+
+.help {
+  display: block;
+  margin-top: 0.5rem;
+  font-size: 1rem;
+}
+
+.honey {
+  position: absolute;
+  left: -9999px;
+}
+
+hr {
+  margin: 2rem 0;
+}
+
+input {
+  width: 100%;
+  height: 50px;
+  font-size: 2rem;
+  padding-left: 2rem;
+  font-family: var(--font-family-sans);
+}
+
+input[type=submit] {
+  margin: auto;
+  padding: 2rem 2rem;
+  color: var(--white);
+  background: var(--box-shadow);
+  width: auto;
+  font-size: 2.5rem;
+  font-weight: 400;
+  height: auto;
+  border-radius: 25px;
+  font-family: var(--font-family-sans);
+}
+
+input[type=submit]:hover {
+  text-decoration: underline;
+}
+
+label {
+  display: block;
+}
+
+.main {
+  margin-top: 3rem;
+}
+
+::placeholder {
+  font-style: italic;
+  opacity: .5;
+}
+
+.registration-button {
+  width: 100%;
+  border: 1px solid #ccc;
+  background: #ccc;
+  font: inherit;
+  color: inherit;
+  padding: .5rem;
+  line-height: 1.25rem;
+}
+
+.submit {
+  margin: 0 auto;
+}
+
+textarea {
+  height: 7vw;
+  width: 100%;
+  font-size: 2rem;
+  padding: 2rem;
+}

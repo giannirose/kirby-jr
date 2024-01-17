@@ -1,0 +1,387 @@
+/* Header layout */
+
+.header-main {
+  display: grid;
+  grid-template-columns: 27.5% 72.5%;
+  margin-block-start: 1.5rem;
+  margin-block-end: 1.5rem;
+}
+
+/*
+.header-top {
+  display: none;
+}
+*/
+.header-spacer {
+  display: none;
+}
+
+.header-logo-box {
+  margin: 0;
+  grid-row-start: 1;
+  grid-row-end: 4;
+}
+
+.header-logo-box img {
+  margin: 0;
+}
+
+.header-text {
+  grid-row: 2;
+}
+
+.header-nav {
+  grid-row: 3;
+  grid-column: 2;
+  margin-inline-start: auto;
+  margin-inline-end: auto;
+}
+
+.header-bottom {
+  display: none;
+}
+
+.nav-main li {
+  border-right: none;
+}
+
+.nav-main a {
+  font-size: clamp(1rem, 1.43vw + .5rem, 1.8rem);
+}
+
+/* end header details */
+
+/* Blog tags navigation layout */
+
+aside {
+  margin-block-end: 2.4rem;
+}
+
+h2.blogroll {
+  font-size: clamp(1.2rem, .76vw + 1.13rem, 2rem);
+}
+
+/* Display list of blog topics */
+.tags {
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+  gap: 1rem;
+  margin-inline-start: 2rem;
+}
+
+.tags li {
+  list-style: none;
+  padding: .4rem 1rem .8rem 1rem;
+  margin: 0;
+  font-size: clamp(1rem, .76vw + 1.13rem, 1.6rem)
+}
+
+.blogroll {
+  margin-block-end: .8rem;
+}
+
+.nav-colors li:nth-child(8n+1) {
+  background-color: hsla(286, 22%, 66%, .2);
+}
+
+
+
+/* End blog tags navigation layout */
+
+
+
+.grid-figure a {
+  align-self: center;
+  /* margin-top: 3rem; */
+}
+
+@media screen and (min-width: 640px) {
+  .grid-figure a {
+    margin-top: 0;
+  }
+}
+
+.blog-excerpt-title {
+  text-align: left;
+  margin-top: 1rem;
+  font-family: 'Courier New', Courier, monospace;
+}
+
+.blog-excerpt-title h2 {
+  font-size: clamp(2rem, 1.43vw + .5rem, 2.6rem);
+  margin-bottom: 1.4rem;
+}
+
+.blog-excerpt-title a {
+  color: brown;
+  text-decoration-color: brown;
+  text-underline-offset: 8px;
+}
+
+.blog-excerpt-title a:hover {
+  text-underline-offset: 6px;
+  text-decoration-style: wavy;
+}
+
+
+.blog-excerpt-figure {
+  margin: 0;
+
+}
+
+.blog-excerpt-date {
+  color: var(--color-text-grey);
+  text-align: center;
+  margin-top: 1rem;
+
+}
+
+.blog-excerpt-text {
+  text-align: left;
+  margin-left: 2.4rem;
+}
+
+.blog-read-link {
+  color: brown;
+  text-underline-offset: 8px;
+  margin-top: .8rem;
+}
+
+.blog-excerpt header {
+  margin-bottom: 1.5rem;
+}
+
+.blog-excerpt figure {
+  margin-top: 1.5rem;
+}
+
+figure {
+  padding-block-end: 0;
+}
+
+/* Gather the projects grid components */
+
+@media screen and (min-width: 640px) {
+  .grid-gallery {
+    display: grid;
+    --columns: 24;
+    --gutter: 3rem;
+    grid-column-gap: var(--gutter);
+    grid-template-columns: repeat(24, 1fr);
+    grid-row-gap: 1rem;
+  }
+}
+
+/* 
+@media screen and (min-width: 640px) {
+  .grid-gallery {
+    display: grid;
+    --columns: 24;
+    --gutter: 3rem;
+    grid-column-gap: var(--gutter);
+    grid-template-columns: 1fr;
+  }
+} */
+
+@media screen and (max-width: 639px) {
+  .grid-gallery {
+    display: block;
+    /* --columns: 24; */
+    --gutter: 3rem;
+    grid-column-gap: var(--gutter);
+    grid-template-columns: 1fr;
+  }
+}
+
+@media screen and (min-width: 640px) {
+
+  /* Could be we need grid-column: span var(--span) */
+  .grid>.column {
+    grid-column: span var(--columns);
+  }
+}
+
+/* .blogs-grid {
+  --columns: 12;
+  --gutter: 3rem;
+  display: grid;
+  grid-gap: var(--gutter);
+  grid-template-columns: repeat(3, 1fr);
+  margin-left: 1rem;
+  margin-right: 1rem;
+}
+
+@media screen and (min-width: 640px) {
+  .blogs-grid {
+    --columns: 12;
+    --gutter: 3rem;
+    display: grid;
+    grid-gap: var(--gutter);
+    grid-template-columns: repeat(3, 1fr);
+    margin-left: 0;
+    margin-right: 0;
+  }
+} */
+
+
+
+figure {
+  border: none;
+  box-shadow: none;
+}
+
+
+
+.grid>.column {
+  /* margin-bottom: var(--gutter); */
+  align-self: center;
+}
+
+.gallery-image {
+  display: grid;
+  grid-gap: 1.2rem;
+}
+
+/* .grid-list {
+  grid-row: 1 / 4;
+  display: grid;
+} */
+@media screen and (min-width: 640px) {
+  .grid-figure {
+    margin: 0;
+  }
+}
+
+.grid-figure figcaption {
+  margin: 0;
+}
+
+
+.grid-figure {
+  display: grid;
+  grid-row: 1 / 4;
+  grid-template-rows: subgrid;
+  margin-top: 1rem;
+}
+
+img {
+  margin-block-end: 0;
+}
+
+.note-excerpt {
+  line-height: 1.5em;
+}
+
+section.grid {
+  margin: 1.5rem 0 0 0;
+}
+
+@media screen and (min-width: 640px) {
+  section.grid {
+    margin: 2rem auto 0 auto;
+  }
+}
+
+/* Color on the nav items */
+.nav-main li:nth-child(8n+1) {
+  background-color: hsla(286, 22%, 66%, .2);
+}
+
+.nav-main li:nth-child(8n+2) {
+  background-color: hsla(40, 81%, 70%, .2);
+}
+
+/* End color on the nav items */
+
+/* Incidental card details */
+
+.blog-excerpt-date {
+  text-align: right;
+  font-size: 1.2rem;
+  font-style: italic;
+  color: brown;
+}
+
+/* End incidental card details */
+
+/* Major grid layout items */
+.blogs-grid {
+  grid-template-rows: 100px auto;
+  gap: 1.5rem;
+  margin-inline-start: 1.8rem;
+  margin-inline-end: 1.8rem;
+}
+
+.blogs-grid {
+  display: grid;
+  grid-template-rows: auto;
+}
+
+@media screen and (min-width: 640px) {
+  .blogs-grid {
+    grid-template-columns: 1fr 1fr;
+  }
+
+  .blogs-grid li {
+    margin-inline-start: 0;
+    padding-inline-start: 3rem;
+    border-left: 1px solid black;
+  }
+}
+
+@media screen and (min-width: 960px) {
+  .blogs-grid {
+    grid-template-columns: 1fr 1fr 1fr;
+  }
+
+  .blogs-grid li {
+    margin-inline-start: 0;
+    padding-inline-start: 3rem;
+    border-left: 1px solid black;
+  }
+}
+
+.blog-excerpt-title {
+  grid-area: title;
+}
+
+.blog-excerpt-figure {
+  grid-area: figure;
+}
+
+.blog-date-and-text {
+  grid-area: date-and-text;
+}
+
+.instructions {
+  grid-area: instructions;
+}
+
+.blogs-grid li {
+  display: grid;
+  grid-template-columns: 1fr;
+  grid-template-areas:
+    "title"
+    "figure"
+    "date-and-text"
+    "instructions";
+  margin-block-end: 2cqw;
+  gap: 2rem;
+  grid-column-gap: 4rem;
+  grid-row: auto / span 5;
+  grid-template-rows: subgrid;
+  border-bottom: 1px solid black;
+}
+
+
+/* End major grid layout items */
+
+p {
+  font-size: clamp(1.6rem, .76vw + 1.33rem, 2rem);
+}
+
+.aside {
+  margin-inline-start: 1rem;
+  margin-inline-end: 1rem;
+}

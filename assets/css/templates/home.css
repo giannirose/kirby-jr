@@ -1,0 +1,11 @@
+.blocks ul {
+  margin-top: 1.2rem;
+}
+
+.blocks li {
+  font-size: 2rem;
+  list-style-type: disc;
+  list-style-position: inside;
+  text-indent: -20px;
+  margin-left: 20px;
+}
