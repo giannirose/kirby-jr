@@ -557,12 +557,11 @@ ul.projects li:first-child {
   background-color: var(--header-bg-color);
 }
 
-
-
 .nav-main {
   display: flex;
   flex: 0 1 auto;
   justify-content: center;
+  gap: 1rem;
 }
 
 .nav-main li {
@@ -966,6 +965,7 @@ li.projects:nth-of-type(8n+8) {
   margin-left: -2rem;
   margin-right: -2rem;
   padding-top: 1rem;
+  list-style: none;
 }
 
 .blocks ul {
