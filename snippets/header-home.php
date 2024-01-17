@@ -31,7 +31,7 @@
     <div class="header-bottom">
     </div>
     <nav class="header-nav">
-      <ul class="nav-main">
+      <ul class="nav-main nav-colors">
         <?php foreach ($site->children()->listed() as $item): ?>
         <li>
           <a href="<?= $item->url() ?>"><?= $item->title() ?></a>
