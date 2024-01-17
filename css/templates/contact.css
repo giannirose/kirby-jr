@@ -48,7 +48,8 @@ div.contact {
 
 .field {
   font-size: 2rem;
-  margin-bottom: 2rem;
+  margin-block-end: 2rem;
+  margin-inline-end: 2rem
 }
 
 .form-element {
@@ -73,7 +74,7 @@ div.contact {
 }
 
 h2 {
-  font-size: 4rem;
+  font-size: clamp(2.4rem, 1.43vw + .5rem, 3rem);
   font-weight: 500;
   margin-top: 2rem;
   margin-bottom: 2rem;
