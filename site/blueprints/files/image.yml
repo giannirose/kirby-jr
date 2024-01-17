@@ -1,0 +1,93 @@
+name: field.blocks.image.name
+icon: image
+preview: image
+fields:
+
+  src:
+    label: field.blocks.image.url
+    type: url
+    when:
+      location: web
+  figurehead:
+    type: text
+    label: Header for the image
+    icon: title
+  alt:
+    label: Alt Text
+    type: text
+    icon: title
+  width: 
+    label: set the width attribute
+    type: number
+    width: 1/2  
+  height:
+    label: set the height attribute
+    type: number
+    width: 1/2
+  caption:
+    label: Caption
+    type: text
+  citation:
+    label: Citation
+    type: text
+  figclass:
+    label: Add a class on the figure element
+    type: select
+    help:
+    options:
+      xsmallsize: 3/8 width 
+      smallsize: half-width
+      midsize: 3/4 width
+      lessthanfull: A bit smaller than full width
+      fullsize:  full width
+  testfield:
+    type: text 
+    label: Testfield!!! i am in files > image and not files > blocks > image
+    help: We need to understand where the image file comes from
+  spanwidth: 
+    type: number
+    label: Span Width - for gallery images
+    help: Determines the span of this image when used in the gallery 24-column grid - must be balanced with the other images in the same gallery block
+    width: 1/2      
+  imgclass:
+    label: A class on the image to choose an image size on the page. If images are in a gallery, leave blank and control images from the gallery options in layouts.
+    type: select
+    default: Medium
+    options:
+      small: Small
+      medium: Medium
+      large: Large
+      help: This gives individual control of the image size. If using flexbox, control all images equally with the size on the list item available when selecting the block at the layout screen.
+    width: 1/2
+  inlinefigurestyle:
+    label: Inline Styles for the projects figure element
+    type: text
+    width: 1/2   
+  imginlinestyle:
+    label: Image Inline Style
+    help: add an element/value pair to affect the image tag inline
+    type: text
+    width: 1/2 
+  link:
+    label: field.blocks.image.link
+    type: text
+    icon: url
+  ratio:
+    label: field.blocks.image.ratio
+    type: select
+    placeholder: Auto
+    width: 1/2
+    options:
+      1/1: "1:1"
+      16/9: "16:9"
+      10/8: "10:8"
+      21/9: "21:9"
+      7/5: "7:5"
+      4/3: "4:3"
+      5/3: "5:3"
+      3/2: "3:2"
+      3/1: "3:1"
+  crop:
+    label: field.blocks.image.crop
+    type: toggle
+    width: 1/2
