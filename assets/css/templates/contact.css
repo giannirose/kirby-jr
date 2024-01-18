@@ -148,9 +148,13 @@ label {
   margin: 0 auto;
 }
 
-textarea {
+.field textarea {
   height: 7vw;
-  width: 100%;
+  width: 97%;
   font-size: 2rem;
   padding: 2rem;
+}
+
+form {
+  margin-block-end: 2rem;
 }
