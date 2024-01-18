@@ -43,6 +43,7 @@
 
 .nav-main li {
   border-right: none;
+  font-size: clamp(1.2rem, 1.43vw + .5rem, 1.8rem);
 }
 
 .nav-main a {
@@ -66,8 +67,7 @@ h2.blogroll {
   display: flex;
   flex-direction: row;
   flex-wrap: wrap;
-  gap: 1rem;
-  margin-inline-start: 2rem;
+  gap: .8rem;
 }
 
 .tags li {
@@ -111,6 +111,7 @@ h2.blogroll {
 .blog-excerpt-title h2 {
   font-size: clamp(2rem, 1.43vw + .5rem, 2.6rem);
   margin-bottom: 1.4rem;
+  font-weight: bold;
 }
 
 .blog-excerpt-title a {
@@ -296,17 +297,23 @@ section.grid {
 
 /* Incidental card details */
 
+h2+.blog-excerpt-date {
+  text-align: left;
+}
+
 .blog-excerpt-date {
   text-align: right;
-  font-size: 1.2rem;
   font-style: italic;
   color: brown;
+  font-size: clamp(1.2rem, .76vw + 1.13rem, 1.6rem);
+  font-family: var(--font-family-sans);
 }
 
 /* End incidental card details */
 
 /* Major grid layout items */
 .blogs-grid {
+  grid-template-columns: 1fr;
   grid-template-rows: 100px auto;
   gap: 1.5rem;
   margin-inline-start: 1.8rem;
@@ -360,7 +367,6 @@ section.grid {
 
 .blogs-grid li {
   display: grid;
-  grid-template-columns: 1fr;
   grid-template-areas:
     "title"
     "figure"
