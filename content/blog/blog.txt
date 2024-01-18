@@ -1,5 +1,0 @@
-Title: Crafty: The Blog
-
-----
-
-Text: Text for our blog

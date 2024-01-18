@@ -1,5 +1,0 @@
-Uuid: vDDFWZXuw2TBePoR
-
-----
-
-Template: blocks/cover
