@@ -174,8 +174,9 @@ h2.project-title {
 }
 
 h3 {
-  font-size: 2.5rem;
+  font-size: clamp(2.2rem, .76vw + 1.13rem, 2.8rem);
   margin-block-end: 2rem;
+  font-weight: 500;
 }
 
 .column h3 {
@@ -225,10 +226,11 @@ cite {
   caption-side: bottom;
   font-size: 1.6rem;
   line-height: 1.4;
+  margin-block-end: .8rem;
 }
 
 code {
-  font-size: 2rem;
+  font-size: 1.6rem;
   padding: .8rem;
 }
 
@@ -244,17 +246,14 @@ figure {
   margin-block-end: 0;
   margin-inline-start: 0;
   margin-inline-end: 0;
-  padding-block-end: 1.4rem;
   border: solid 4px transparent;
   box-shadow: 0 0 0 1px rgba(10, 10, 10, 0.2);
 }
 
-
-
 figcaption {
   caption-side: bottom;
   font-size: 1.6rem;
-  margin: .8rem .4rem .2rem .4rem;
+  margin: 0 .4rem .2rem .4rem;
   color: var(--color-text);
   line-height: 1.25;
 }
@@ -263,6 +262,7 @@ figcaption {
   figcaption {
     font-size: 1.6rem;
     line-height: 1.4;
+    margin-block-end: .8rem;
   }
 }
 
@@ -279,8 +279,6 @@ figcaption p {
   line-height: 1.4;
   margin-block-start: 0;
   margin-block-end: .8rem;
-  margin-inline-start: 2rem;
-  margin-inline-end: 2rem;
 }
 
 figcaption p.citation {
@@ -347,7 +345,7 @@ hr {
 img {
   max-width: 100%;
   height: auto;
-  margin-block-end: 1.5rem;
+  margin-block-end: .8rem;
   font-size: 2.4rem;
 }
 
@@ -960,8 +958,8 @@ li.projects:nth-of-type(8n+8) {
 }
 
 .projects li {
-  padding-left: 2.5rem;
-  padding-right: 2.5rem;
+  padding-left: 1.6rem;
+  padding-right: 1.6rem;
   margin-left: -2rem;
   margin-right: -2rem;
   padding-top: 1rem;
@@ -973,6 +971,7 @@ li.projects:nth-of-type(8n+8) {
 }
 
 .blocks li {
+  font-size: clamp(1.4rem, .76vw + 1.13rem, 2.2rem);
   list-style-type: disc;
   list-style-position: inside;
   text-indent: -20px;
@@ -992,8 +991,8 @@ li.projects:nth-of-type(8n+8) {
 
 .h3 {
   margin-inline-start: 0;
-  font-size: 2rem;
-  font-weight: 700;
+  font-size: clamp(1.8rem, .76vw + 1.13rem, 2.4rem);
+  font-weight: 500;
   text-align: left;
 }
 
