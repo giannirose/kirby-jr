@@ -1,0 +1,65 @@
+Src: 
+
+----
+
+Alt: Central panel shows St. Cecelia at an organ ringed by 7 angels either singing or playing instruments
+
+----
+
+Width: 289
+
+----
+
+Height: 512
+
+----
+
+Caption: <p>The central panel featuring Saint Cecelia and her band...of angels</p>
+
+----
+
+Citation: 
+
+----
+
+Figclass: midsize
+
+----
+
+Testfield: 
+
+----
+
+Imgclass: large
+
+----
+
+Inlinefigurestyle: 
+
+----
+
+Imginlinestyle: 
+
+----
+
+Link: 
+
+----
+
+Ratio: 
+
+----
+
+Crop: false
+
+----
+
+Location: kirby
+
+----
+
+Uuid: sInIYtlhRaDurUqS
+
+----
+
+Template: image

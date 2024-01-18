@@ -1,0 +1,69 @@
+Src: 
+
+----
+
+Figurehead: 
+
+----
+
+Alt: St. Cecilia at the organ and some angels playing instruments
+
+----
+
+Width: 768
+
+----
+
+Height: 432
+
+----
+
+Caption: 
+
+----
+
+Citation: 
+
+----
+
+Figclass: 
+
+----
+
+Testfield: 
+
+----
+
+Spanwidth: 
+
+----
+
+Imgclass: 
+
+----
+
+Inlinefigurestyle: 
+
+----
+
+Imginlinestyle: 
+
+----
+
+Link: 
+
+----
+
+Ratio: 
+
+----
+
+Crop: false
+
+----
+
+Uuid: 5whKBwVKxZXmydZk
+
+----
+
+Template: image

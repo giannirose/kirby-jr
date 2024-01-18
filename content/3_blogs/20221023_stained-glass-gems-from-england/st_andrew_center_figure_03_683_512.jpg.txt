@@ -1,0 +1,61 @@
+Src: 
+
+----
+
+Alt: With organ pipes in the center, there is Saint Cecelia, seated and playing the organ, and three angels in each corner playing various instruments
+
+----
+
+Width: 683
+
+----
+
+Height: 512
+
+----
+
+Caption: <p>Detail of the center panel</p>
+
+----
+
+Citation: 
+
+----
+
+Figclass: 
+
+----
+
+Imgclass: 
+
+----
+
+Inlinefigurestyle: 
+
+----
+
+Imginlinestyle: 
+
+----
+
+Testfield: 
+
+----
+
+Link: 
+
+----
+
+Ratio: 
+
+----
+
+Crop: false
+
+----
+
+Uuid: MsEaOY5SwDoRQp4q
+
+----
+
+Template: blocks/image

@@ -1,0 +1,65 @@
+Src: 
+
+----
+
+Alt: The book from which the figure is reading
+
+----
+
+Width: 616
+
+----
+
+Height: 512
+
+----
+
+Caption: <p>The lines on the book's pages seem indecipherable, but is there a date 1880?</p>
+
+----
+
+Citation: 
+
+----
+
+Figclass: 
+
+----
+
+Testfield: 
+
+----
+
+Imgclass: 
+
+----
+
+Inlinefigurestyle: 
+
+----
+
+Imginlinestyle: 
+
+----
+
+Link: 
+
+----
+
+Ratio: 
+
+----
+
+Crop: false
+
+----
+
+Location: kirby
+
+----
+
+Uuid: eA3XaNIFsqdNxOX3
+
+----
+
+Template: image

@@ -1,0 +1,13 @@
+Crop: false
+
+----
+
+alt: Something in the alt in txt file
+
+----
+
+Uuid: i7WUfcDUmWevYuXg
+
+----
+
+Template: image

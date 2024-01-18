@@ -1,0 +1,45 @@
+Src: 
+
+----
+
+Alt: Entrance sign with picture of Gino in a pink shirt
+
+----
+
+Caption: 
+
+----
+
+Citation: 
+
+----
+
+Figclass: 
+
+----
+
+Imgclass: 
+
+----
+
+Coverintro: 
+
+----
+
+Link: 
+
+----
+
+Ratio: 
+
+----
+
+Crop: false
+
+----
+
+Uuid: 7txO0t0dBfMuBKNd
+
+----
+
+Template: cover
