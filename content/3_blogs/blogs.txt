@@ -1,0 +1,17 @@
+Title: Crafty:<br>The Blog
+
+----
+
+Headline: 
+
+----
+
+Subheadline: 
+
+----
+
+Navclass: blogs
+
+----
+
+Uuid: uzCI5Gv9dsymbvor
