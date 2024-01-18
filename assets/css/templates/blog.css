@@ -51,6 +51,13 @@
   margin-top: 2rem;
 }
 
+h1.blog-title {
+  font-family: 'New Courier', Courier, monospace;
+  font-size: clamp(2rem, 1.43vw + .5rem, 2.6rem);
+  margin-bottom: 1.4rem;
+  font-weight: bold;
+}
+
 .text h2,
 .h2 {
   font-size: 2.5rem;
@@ -96,7 +103,6 @@ h4 {
 .blog-tags li {
   list-style-type: none;
   text-align: left;
-  margin-inline-start: 1.2rem;
   font-size: 1.6rem;
 }
 
@@ -113,6 +119,7 @@ h4 {
 .centerlink {
   display: block;
   text-align: center;
+  font-size: 1.6rem;
 }
 
 cite {
@@ -176,7 +183,7 @@ figcaption p.caption {
 }
 
 figcaption p {
-  max-width: 90%
+  margin: 0 .8rem .8rem .8rem;
 }
 
 figure {
@@ -223,14 +230,14 @@ figure {
 }
 
 footer {
-  margin-top: 3.5rem;
+  margin-block-start: 3.5rem;
+  margin-inline-start: 1.2rem;
+  margin-inline-end: 1.2rem;
 }
 
 footer time {
-  font-size: 2rem;
+  font-size: 1.6rem;
 }
-
-
 
 hr.intro {
   width: 40rem;
@@ -441,10 +448,6 @@ main {
   grid-area: main;
 }
 
-footer {
-  grid-area: footer;
-}
-
 .tags {
   display: flex;
   flex-direction: row;
@@ -512,4 +515,8 @@ footer {
     padding: 1.8rem;
     padding-block-start: 0;
   }
+}
+
+.blog-page-listing {
+  text-align: center;
 }
