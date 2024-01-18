@@ -1,0 +1,73 @@
+Src: 
+
+----
+
+Figurehead: 
+
+----
+
+Alt: Close-up of the document naming the exchanged parking spaces
+
+----
+
+Width: 710
+
+----
+
+Height: 512
+
+----
+
+Caption: 
+
+----
+
+Citation: 
+
+----
+
+Figclass: 
+
+----
+
+Testfield: 
+
+----
+
+Spanwidth: 
+
+----
+
+Imgclass: 
+
+----
+
+Inlinefigurestyle: 
+
+----
+
+Imginlinestyle: 
+
+----
+
+Link: 
+
+----
+
+Ratio: 
+
+----
+
+Crop: false
+
+----
+
+Location: kirby
+
+----
+
+Uuid: GIYiNABe3PHodNdv
+
+----
+
+Template: image

@@ -1,0 +1,69 @@
+Src: 
+
+----
+
+Figurehead: 
+
+----
+
+Alt: Detail of a larger page marked "Lower Level Parking" and with a representation of the parking spaces with blotchy numbers filled in each
+
+----
+
+Width: 768
+
+----
+
+Height: 768
+
+----
+
+Caption: 
+
+----
+
+Citation: 
+
+----
+
+Figclass: 
+
+----
+
+Testfield: 
+
+----
+
+Spanwidth: 
+
+----
+
+Imgclass: 
+
+----
+
+Inlinefigurestyle: 
+
+----
+
+Imginlinestyle: 
+
+----
+
+Link: 
+
+----
+
+Ratio: 
+
+----
+
+Crop: false
+
+----
+
+Uuid: 67Ct0Bc9KWk4YYyz
+
+----
+
+Template: image

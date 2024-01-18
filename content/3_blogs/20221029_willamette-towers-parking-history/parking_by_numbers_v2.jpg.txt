@@ -1,0 +1,73 @@
+Src: 
+
+----
+
+Figurehead: 
+
+----
+
+Alt: A spreadsheet tracking the parking changes in total
+
+----
+
+Width: 612
+
+----
+
+Height: 792
+
+----
+
+Caption: 
+
+----
+
+Citation: 
+
+----
+
+Figclass: 
+
+----
+
+Testfield: 
+
+----
+
+Spanwidth: 
+
+----
+
+Imgclass: 
+
+----
+
+Inlinefigurestyle: 
+
+----
+
+Imginlinestyle: 
+
+----
+
+Link: 
+
+----
+
+Ratio: 
+
+----
+
+Crop: false
+
+----
+
+Location: kirby
+
+----
+
+Uuid: bmunCRYb0R5hf3Yj
+
+----
+
+Template: image

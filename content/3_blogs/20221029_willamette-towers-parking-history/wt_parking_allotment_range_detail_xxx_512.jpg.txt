@@ -1,0 +1,73 @@
+Src: 
+
+----
+
+Figurehead: 
+
+----
+
+Alt: A written description tying together the parking notation and the actual unit numbers
+
+----
+
+Width: 995
+
+----
+
+Height: 512
+
+----
+
+Caption: 
+
+----
+
+Citation: 
+
+----
+
+Figclass: 
+
+----
+
+Testfield: 
+
+----
+
+Spanwidth: 
+
+----
+
+Imgclass: 
+
+----
+
+Inlinefigurestyle: 
+
+----
+
+Imginlinestyle: 
+
+----
+
+Link: 
+
+----
+
+Ratio: 
+
+----
+
+Crop: false
+
+----
+
+Location: kirby
+
+----
+
+Uuid: teUYX7lo5dnjIl0S
+
+----
+
+Template: image

@@ -1,0 +1,69 @@
+Src: 
+
+----
+
+Figurehead: The original assignments had plat numbers filled into a visual representation of each of the two garage levels
+
+----
+
+Alt: A portion of the original illustrated allotment at the lower level of the garage
+
+----
+
+Width: 768
+
+----
+
+Height: 432
+
+----
+
+Caption: A section of the original blotchy mess that assigned garage spaces to units of the building
+
+----
+
+Citation: 
+
+----
+
+Figclass: 
+
+----
+
+Testfield: 
+
+----
+
+Spanwidth: 
+
+----
+
+Imgclass: 
+
+----
+
+Inlinefigurestyle: 
+
+----
+
+Imginlinestyle: 
+
+----
+
+Link: 
+
+----
+
+Ratio: 
+
+----
+
+Crop: false
+
+----
+
+Uuid: O7bpkO2SHVjcdFv5
+
+----
+
+Template: image

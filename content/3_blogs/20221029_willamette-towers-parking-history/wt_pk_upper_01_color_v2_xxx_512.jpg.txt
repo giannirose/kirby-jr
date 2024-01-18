@@ -1,0 +1,73 @@
+Src: 
+
+----
+
+Figurehead: 
+
+----
+
+Alt: The top level parking illustrated on the original document
+
+----
+
+Width: 1133
+
+----
+
+Height: 512
+
+----
+
+Caption: 
+
+----
+
+Citation: 
+
+----
+
+Figclass: 
+
+----
+
+Testfield: 
+
+----
+
+Spanwidth: 
+
+----
+
+Imgclass: 
+
+----
+
+Inlinefigurestyle: 
+
+----
+
+Imginlinestyle: 
+
+----
+
+Link: 
+
+----
+
+Ratio: 
+
+----
+
+Crop: false
+
+----
+
+Location: kirby
+
+----
+
+Uuid: cuZcTyhJkOWMWx8D
+
+----
+
+Template: image

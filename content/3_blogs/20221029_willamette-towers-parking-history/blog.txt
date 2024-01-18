@@ -1,0 +1,98 @@
+Title: Willamette Towers Parking History
+
+----
+
+Headline: Willamette Towers Parking: History and a Mystery
+
+----
+
+Subheadline: We track each unit's parking space
+
+----
+
+Intro:
+
+Each unit at Willamette Towers (WT) is legally identified with a plat number, and each unit is deeded one garage parking space that is identified with the same plat number. 
+
+To identify a given space with its plat number could be confusing (the format for a given unit may be "XX-X" or "XX-XX"), and so each parking space is more simply labeled with a number, 1 to 98, which should correspond to the legally assigned plat number.
+
+----
+
+Stylediv: block
+
+----
+
+Coverintro: 
+
+----
+
+Excerpt-self: 
+
+----
+
+Layout: [{"attrs":[],"columns":[{"blocks":[{"content":{"location":"kirby","image":["file://MOSKybR5Oies5CRT"],"src":"","alt":"","caption":"","link":"","ratio":"","crop":"false"},"id":"51f87138-b905-4348-a5d3-b633f2ebf741","isHidden":false,"type":"image"}],"id":"6cbbf244-fab6-41af-aca5-486dea827d7f","width":"1/1"}],"id":"16e94aca-2a3a-42a5-86de-a6fc5de8f490"},{"attrs":[],"columns":[{"blocks":[{"content":{"text":"This article looks at these space assignments and tracks changes that have been legally made along the way—the history—and identifies, in the end, some assignments that comprise a mystery.   \n\nThere are 98 spaces in the garage, 49 on each level, one for each of our 92 units. In addition, there are spaces reserved for commercial units, two for 1307 and two for 1311, and 2 spaces are reserved for guest parking, the use of which is handled through the office. \n\nAt the garage, the wall in front of each residence space has a number 1 through 98. When someone purchases a unit, they are informed of the number for their given space."},"id":"c7b9d7c6-917e-45e1-8820-ac0b5e2d1261","isHidden":false,"type":"markdown"}],"id":"311fe82b-8e20-4c52-b57c-abe25b3a0427","width":"1/1"}],"id":"b35b1579-7dc5-4931-98b0-e0f19acfbd69"},{"attrs":[],"columns":[{"blocks":[{"content":{"text":"The original document that assigned spaces lists the units and the method of identifying their plat numbers up top. Below that are the plans for the upper and lower levels with a plat number inked into each space. It's a blotchy mess.\n\nWe take a close-up look at the details of this page below."},"id":"6a17e968-7280-4e00-b52a-f65eab9eae5b","isHidden":false,"type":"markdown"}],"id":"8bd77224-e2ae-47b1-8d77-5348d9a9994a","width":"7/12"},{"blocks":[{"content":{"location":"kirby","image":["file://x2uKzeLf4tYw2iys"],"src":"","alt":"","caption":"","link":"","ratio":"","crop":"false"},"id":"b0c62463-0291-43bb-9460-341e8e9f7d53","isHidden":false,"type":"image"}],"id":"7d481adc-4d78-4062-bfc8-c1b84f951fd1","width":"5/12"}],"id":"4642c337-b016-424b-915b-8ea7f7c7ea9d"},{"attrs":[],"columns":[{"blocks":[{"content":{"location":"kirby","image":["file://teUYX7lo5dnjIl0S"],"src":"","alt":"","caption":"","link":"","ratio":"","crop":"false"},"id":"9ec91f07-d676-45a4-8622-0d8cbc2ae6b3","isHidden":false,"type":"image"}],"id":"ff14a727-4a55-4dd1-bf55-e7a09d184062","width":"1/1"}],"id":"d4cc1d7d-6a84-40a2-9443-edf384909e86"},{"attrs":[],"columns":[{"blocks":[{"content":{"text":"The top part of the original document applies a pair of numbers to each unit—these are the plat numbers. In the image I have typed in what is written to make it more legible. \n\nThe first part of each number pair is sequential—1 to 92—followed by a hyphen and the floor number of the unit.\n\nThus, the first number pair, 1-2, designates unit 201; 8-2 will designate unit 208. It gets a little hard to follow where, for instance,  27-5 will designate unit 503. 79-11? That will be unit 1107.\n\nThe original document also has the upper and lower garage levels mapped out with each space filled in with its corresponding plat number. I discern no logical sequence to how they are applied to the spaces. \n\nThe numbers on the original document are difficult to read. This difficulty is what led me down this rabbit hole. Rather than strain and guess what the plat numbers inked into the top and lower level maps are I worked backwards using the current association of a unit with a number 1 through 98 and then checked those assignments against the inked-in numbers to help make out what the original document's numbers are."},"id":"f4457176-a43d-4eee-a7b9-6bda6ccbf43c","isHidden":false,"type":"markdown"}],"id":"dff69f60-016e-4edc-8c28-3361e373f340","width":"1/1"}],"id":"19bd5eae-b3d6-4729-91ca-d56bb87ebeba"},{"attrs":[],"columns":[{"blocks":[{"content":{"location":"kirby","image":["file://6oNiXeDha5tLqUGO"],"src":"","alt":"","caption":"","link":"","ratio":"","crop":"false"},"id":"e96932dd-b6b3-4fc3-859a-40278bbb7abc","isHidden":false,"type":"image"}],"id":"b21fdab5-40c4-49cb-a0e3-160d2282f321","width":"1/1"}],"id":"e345c85a-3d84-4b37-9431-efa307f33164"},{"attrs":[],"columns":[{"blocks":[{"content":{"location":"kirby","image":["file://mmA8IYRDXuJznpTC"],"src":"","alt":"","caption":"","link":"","ratio":"","crop":"false"},"id":"ddbb75fd-6b1a-435a-afa6-1e858b326f81","isHidden":false,"type":"image"}],"id":"97506169-9339-4f6b-be16-b9679497df4f","width":"1/1"}],"id":"fd3e81d4-8024-42ca-bf15-f967b74333a2"},{"attrs":[],"columns":[{"blocks":[{"content":{"text":"These drawings illustrate the original and legally binding matching up of parking spaces deeded to units. Do these match up with the current, more straightforward system, where each unit number is assigned a parking space number from 1 to 98? One would assume the result is the same. \n\nWait...there are two more documents to introduce. These are legally recognized amendments that shifted the original assigned spaces.\n\nThe first is from May 8, 1980, three days after the Declaration that formed Willamette Towers as a Homeowners Association, a condominium. The signatories to this amendment appear are signatories to the Declaration as well. It was an agreed group effort that made these changes. Shown here is the document—Amendment #1—and a close-up showing the spaces and their re-assignments. Thanks to Ken Guzowski for providing this document."},"id":"d14ecedd-c411-420e-b15c-cefb7c4a13d7","isHidden":false,"type":"markdown"}],"id":"2b17fe02-f560-4985-a3cf-3a41e4f555f2","width":"1/1"}],"id":"611686a9-e5da-4cf0-b092-c7133dd5331b"},{"attrs":[],"columns":[{"blocks":[{"content":{"location":"kirby","image":["file://iBQBfihqPVhtcE1s"],"src":"","alt":"","caption":"","link":"","ratio":"","crop":"false"},"id":"db88adb9-3611-4337-8a15-c55e8fbb7ac1","isHidden":false,"type":"image"}],"id":"6bc8ec25-1cd0-49d7-a572-7fc6a1185b63","width":"5/12"},{"blocks":[{"content":{"location":"kirby","image":["file://GIYiNABe3PHodNdv"],"src":"","alt":"","caption":"","link":"","ratio":"","crop":"false"},"id":"7e699ee5-d9e0-4176-9a27-8bd21d9d4545","isHidden":false,"type":"image"}],"id":"4c35d7c7-144c-4b40-84e2-6a714b024edb","width":"7/12"}],"id":"8c616645-896a-4653-b0c7-6fd093dd4a6b"},{"attrs":[],"columns":[{"blocks":[{"content":{"text":"So, we can now match up the plat-marked map of parking spaces with the numerical system in use and include these changes and see if everything matches up. By putting everything side-by-side we should be able to discern what some of the less legible plat numbers in layout from the original document actually are.\n\nThe rows of numbers super-imposed on the original layout follow a pattern: from the original drawn-in plat numbers, the next row is a more legible rendering of the same, the unit that this would designate, the numerical assignment currently used at WT, the unit that would be in current use, and, if it applies, the new plat number assigned the the space in question.\n\nI used asterisks to show spaces that don't match up with the original:\n\n- One * = Amendment #1 changes\n- Two * = Amendment #2 changes\n- Three * = Changes that are not legally documented"},"id":"0b2b43b1-fea9-4e43-b394-e1d7af078f55","isHidden":false,"type":"markdown"}],"id":"91ea96ee-bf77-4624-b520-b4cb4624acc2","width":"1/1"}],"id":"7171b776-ec5c-4322-bc45-bd2dad11acde"},{"attrs":[],"columns":[{"blocks":[{"content":{"location":"kirby","image":["file://cuZcTyhJkOWMWx8D"],"src":"","alt":"","caption":"","link":"","ratio":"","crop":"false"},"id":"c0f3ac0e-1793-4b65-aff0-a2b6df36f469","isHidden":false,"type":"image"}],"id":"08dc00a6-4b70-4613-8411-45b70be8fd0b","width":"1/1"}],"id":"d9bb1ad0-249e-45dc-97e1-6e543bb2bbff"},{"attrs":[],"columns":[{"blocks":[{"content":{"location":"kirby","image":["file://NxqNZhiIHdgQ1JE8"],"src":"","alt":"","caption":"","link":"","ratio":"","crop":"false"},"id":"15aad79f-8348-41c5-b871-e14309d45bfd","isHidden":false,"type":"image"}],"id":"daaf082b-12b3-444d-b878-aa2e40f540f6","width":"1/1"}],"id":"0d7b8836-eb47-4297-afb2-6c5162fa58fa"},{"attrs":[],"columns":[{"blocks":[{"content":{"text":"It takes a bit of study to learn that our current numbering system follows the history, including amendment changes, that we have seen...except for two pairs of spaces.\n\nOn the upper level, the space originally assigned to Unit 203 has been switched with Unit 905's space.\n\nOn the lower level, the space originally assigned to Unit 1107 has been switched with Unit 401's space. \n\nWT has no legal documentation that these switches were done legally. There doesn't seem to be any notable qualitative difference in the spaces.\n\nSpeculating here, perhaps the new Unit #203 space is a little easier to pull into. One comes up the ramp and the space is more or less directly ahead. On the lower level, a long vehicle in the new Unit \n\nOn the lower level, in the original #1107 space, now re-assigned to #401, a long vehicle might be a bit in the way of others turning left to go up the out ramp.\n\nTo make this all a bit easier to read I have transcribed the same information into documents that use color coding to track the changes."},"id":"c6e94b35-d6f9-46b7-b037-3990f5ac348a","isHidden":false,"type":"markdown"}],"id":"d12ddaa1-583e-409b-a46d-d1204a333c6c","width":"1/1"}],"id":"8e27dc7e-cf3d-4e3f-8689-3b5a294c806b"},{"attrs":[],"columns":[{"blocks":[{"content":{"location":"kirby","image":["file://ibHdGPs58aOUfE2O"],"src":"","alt":"","caption":"","link":"","ratio":"","crop":"false"},"id":"3282a38b-9aea-4cb6-b279-fac36b566889","isHidden":false,"type":"image"}],"id":"dfc61cf9-dba6-4861-b95e-240b0ff8d52d","width":"1/1"}],"id":"7fe4885b-2630-4de3-8ef6-fe305675b5bb"},{"attrs":[],"columns":[{"blocks":[{"content":{"text":"The following lists the changes that have been made since the parking spaces were first assigned to units."},"id":"9fa0a32a-1e01-4d9f-bf18-9d415ba9051d","isHidden":false,"type":"markdown"}],"id":"02403523-becf-47ce-8968-827df7d2ae55","width":"1/1"}],"id":"08bcabec-bd2f-4ca1-976b-a42270bd2273"},{"attrs":[],"columns":[{"blocks":[{"content":{"location":"kirby","image":["file://8OW8QXMUFvGCgQL6"],"src":"","alt":"","caption":"","link":"","ratio":"","crop":"false"},"id":"8c76c0c0-514c-49a0-a0d9-0c7099e88fa2","isHidden":false,"type":"image"}],"id":"1358e22b-e295-42cb-8609-ed5e420ca1a8","width":"1/1"}],"id":"9ccd611a-ff48-486c-8edb-0de5ccf447cb"},{"attrs":[],"columns":[{"blocks":[{"content":{"text":"It is a mystery to me how the spaces were assigned originally. I don't see a pattern. I have heard that the two-bedroom units have lower level parking spaces, but there are nine top level spaces assigned to such units. Maybe the assignments were chance. Maybe there were slips of paper picked out of a fishbowl.\n\nThat is our history, and the parking space switches of units 203/905 and 401/1107 a mystery.\n\nHere is one last arrangement of the parking spaces that makes looking up one's space easy. The spaces are arranged both by sequential unit numbers and by the numbers 1 through 98 given to each resident as their parking space."},"id":"d39e9e2b-446f-4be7-acf1-e09c6f29d65f","isHidden":false,"type":"markdown"}],"id":"9521751b-1367-43e3-a97d-2a236f722b2b","width":"1/1"}],"id":"2f803fd8-3757-4dc5-becc-11b0f1ead754"},{"attrs":[],"columns":[{"blocks":[{"content":{"location":"kirby","image":["file://bmunCRYb0R5hf3Yj"],"src":"","alt":"","caption":"","link":"","ratio":"","crop":"false"},"id":"01296836-59fe-43a9-bd11-c2df41861f9d","isHidden":false,"type":"image"}],"id":"05bb6c07-a493-445a-a163-7b775e802501","width":"1/1"}],"id":"c4c81d0d-0f5a-436b-95d0-ac39afca06cd"}]
+
+----
+
+Date: 2022-10-29 20:30:00
+
+----
+
+Author: - 'user://ICmgA52Z'
+
+----
+
+Tags: Condominium Living
+
+----
+
+Cover:
+
+- 'file://O7bpkO2SHVjcdFv5'
+- 'file://67Ct0Bc9KWk4YYyz'
+- 'file://x2uKzeLf4tYw2iys'
+
+----
+
+Galleryimages: []
+
+----
+
+Files:
+
+- 'file://x2uKzeLf4tYw2iys'
+- 'file://cuZcTyhJkOWMWx8D'
+- 'file://teUYX7lo5dnjIl0S'
+- 'file://mmA8IYRDXuJznpTC'
+- 'file://2ionmfJ8OP9vEaL9'
+- 'file://iBQBfihqPVhtcE1s'
+- 'file://NxqNZhiIHdgQ1JE8'
+- 'file://GIYiNABe3PHodNdv'
+- 'file://8OW8QXMUFvGCgQL6'
+- 'file://ibHdGPs58aOUfE2O'
+- 'file://bmunCRYb0R5hf3Yj'
+- 'file://MOSKybR5Oies5CRT'
+
+----
+
+Svg: []
+
+----
+
+Pdf:
+
+- 'file://cRyuxU3Q451ykk4z'
+- 'file://OvvGYZmIZqV4DtkN'
+- 'file://MZVQmOtTWu5B1din'
+
+----
+
+Images: []
+
+----
+
+Excerptself: 
+
+----
+
+Uuid: arg8nO54IJCEgy5r

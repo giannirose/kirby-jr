@@ -1,0 +1,73 @@
+Src: 
+
+----
+
+Figurehead: 
+
+----
+
+Alt: A spreadsheet tracking the various historical methods of designating the parking spaces
+
+----
+
+Width: 792
+
+----
+
+Height: 612
+
+----
+
+Caption: 
+
+----
+
+Citation: 
+
+----
+
+Figclass: 
+
+----
+
+Testfield: 
+
+----
+
+Spanwidth: 
+
+----
+
+Imgclass: 
+
+----
+
+Inlinefigurestyle: 
+
+----
+
+Imginlinestyle: 
+
+----
+
+Link: 
+
+----
+
+Ratio: 
+
+----
+
+Crop: false
+
+----
+
+Location: kirby
+
+----
+
+Uuid: 8OW8QXMUFvGCgQL6
+
+----
+
+Template: image

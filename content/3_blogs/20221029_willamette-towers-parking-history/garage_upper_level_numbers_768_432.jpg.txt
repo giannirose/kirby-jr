@@ -1,0 +1,69 @@
+Src: 
+
+----
+
+Figurehead: Actual designations with ordered numbers identifying each  space
+
+----
+
+Alt: Image of some spaces with their number designations
+
+----
+
+Width: 768
+
+----
+
+Height: 432
+
+----
+
+Caption: Keeping it simple—residents are assigned a numbered space
+
+----
+
+Citation: 
+
+----
+
+Figclass: 
+
+----
+
+Testfield: 
+
+----
+
+Spanwidth: 
+
+----
+
+Imgclass: 
+
+----
+
+Inlinefigurestyle: 
+
+----
+
+Imginlinestyle: 
+
+----
+
+Link: 
+
+----
+
+Ratio: 
+
+----
+
+Crop: false
+
+----
+
+Uuid: MOSKybR5Oies5CRT
+
+----
+
+Template: image
