@@ -1,0 +1,65 @@
+Src: 
+
+----
+
+Figurehead: The  Original Components spreadsheet listing components and their key attributes
+
+----
+
+Alt: Reserves components are listed in rows and their details in columns
+
+----
+
+Width: 1538
+
+----
+
+Height: 708
+
+----
+
+Caption: This is only a partial list of all the components. The components  are listed and grouped first by the Replacement Year attribute, and within each year-group the components are listed alphabetically.
+
+----
+
+Citation: 
+
+----
+
+Figclass: 
+
+----
+
+Testfield: 
+
+----
+
+Imgclass: 
+
+----
+
+Inlinefigurestyle: 
+
+----
+
+Imginlinestyle: 
+
+----
+
+Link: 
+
+----
+
+Ratio: 
+
+----
+
+Crop: false
+
+----
+
+Uuid: Xy7yBbOMeOxfGveX
+
+----
+
+Template: blocks/image

@@ -1,0 +1,53 @@
+Src: 
+
+----
+
+Alt: the full building in Eugene Oregon
+
+----
+
+Caption: 
+
+----
+
+Citation: 
+
+----
+
+Figclass: smallsize
+
+----
+
+Testfield: 
+
+----
+
+Imgclass: 
+
+----
+
+Inlinefigurestyle: 
+
+----
+
+Imginlinestyle: 
+
+----
+
+Link: 
+
+----
+
+Ratio: 
+
+----
+
+Crop: false
+
+----
+
+Uuid: VQ1QuutcwQHogoGA
+
+----
+
+Template: image

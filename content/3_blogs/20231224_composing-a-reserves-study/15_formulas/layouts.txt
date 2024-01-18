@@ -1,0 +1,9 @@
+Title: Formulas
+
+----
+
+Layout: [{"attrs":[],"columns":[{"blocks":[{"content":{"text":"Rather than go through all the formulas again, I'll provide the following link for reference:"},"id":"716a03df-b005-4281-b3c0-49e84e6aec21","isHidden":false,"type":"markdown"}],"id":"2b1e45d8-26e1-401e-a25a-46fa6a40e102","width":"1/1"}],"id":"3d236886-6101-4350-9085-8b1bd42b6d34"},{"attrs":[],"columns":[{"blocks":[{"content":{"text":"<hr>\n<a class=\"centerlink\" href=\"/blogs/composing-a-reserves-study/reserves_study_model.xlsx\" download=\"Reserves Study Workbook Model\">Download a model reserves study workbook</a>\n<hr>\n<a class=\"centerlink\" href=\"/blogs/composing-a-reserves-study/reserves_study_model_formulas.pdf\" download=\"Formulas arranged by worksheet\">Download a pdf of all the formulas arranged by workbook page</a>\n<hr>"},"id":"8121d985-1ff7-4666-9125-941ba21cd18b","isHidden":false,"type":"markdown"}],"id":"a61dda22-cc5f-446e-b93d-ffa90faf2e19","width":"1/1"}],"id":"4706865f-0ca0-4741-aeca-716081942552"}]
+
+----
+
+Uuid: dfjK6RaKZRGYt0NL

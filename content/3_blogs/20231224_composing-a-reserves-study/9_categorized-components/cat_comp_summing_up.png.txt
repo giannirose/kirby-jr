@@ -1,0 +1,65 @@
+Src: 
+
+----
+
+Figurehead: 
+
+----
+
+Alt: Focus on the sum comparisons
+
+----
+
+Width: 1454
+
+----
+
+Height: 324
+
+----
+
+Caption: 
+
+----
+
+Citation: 
+
+----
+
+Figclass: 
+
+----
+
+Testfield: 
+
+----
+
+Imgclass: 
+
+----
+
+Inlinefigurestyle: 
+
+----
+
+Imginlinestyle: 
+
+----
+
+Link: 
+
+----
+
+Ratio: 
+
+----
+
+Crop: false
+
+----
+
+Uuid: OH7S242Q6gAnuXsv
+
+----
+
+Template: blocks/image

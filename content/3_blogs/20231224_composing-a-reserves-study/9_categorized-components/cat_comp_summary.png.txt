@@ -1,0 +1,65 @@
+Src: 
+
+----
+
+Figurehead: 
+
+----
+
+Alt: The part of the page showing the column totals for Current Cost and First Future Cost
+
+----
+
+Width: 1454
+
+----
+
+Height: 264
+
+----
+
+Caption: 
+
+----
+
+Citation: 
+
+----
+
+Figclass: 
+
+----
+
+Testfield: 
+
+----
+
+Imgclass: 
+
+----
+
+Inlinefigurestyle: 
+
+----
+
+Imginlinestyle: 
+
+----
+
+Link: 
+
+----
+
+Ratio: 
+
+----
+
+Crop: false
+
+----
+
+Uuid: gZ4j71AexQXMrHMA
+
+----
+
+Template: blocks/image

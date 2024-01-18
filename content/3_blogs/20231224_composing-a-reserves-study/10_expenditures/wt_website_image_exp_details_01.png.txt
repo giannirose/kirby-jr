@@ -1,0 +1,65 @@
+Src: 
+
+----
+
+Figurehead: The last few items and the Totals row of the spreadsheet
+
+----
+
+Alt: A few columns at the bottom of the page
+
+----
+
+Width: 1240
+
+----
+
+Height: 622
+
+----
+
+Caption: 
+
+----
+
+Citation: 
+
+----
+
+Figclass: 
+
+----
+
+Testfield: 
+
+----
+
+Imgclass: 
+
+----
+
+Inlinefigurestyle: 
+
+----
+
+Imginlinestyle: 
+
+----
+
+Link: 
+
+----
+
+Ratio: 
+
+----
+
+Crop: false
+
+----
+
+Uuid: S6gge5FAEbwdwv3Y
+
+----
+
+Template: blocks/image

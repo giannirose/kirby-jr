@@ -1,0 +1,57 @@
+Src: 
+
+----
+
+Figurehead: 
+
+----
+
+Alt: List of formulas with explanations
+
+----
+
+Caption: 
+
+----
+
+Citation: 
+
+----
+
+Figclass: 
+
+----
+
+Testfield: 
+
+----
+
+Imgclass: 
+
+----
+
+Inlinefigurestyle: 
+
+----
+
+Imginlinestyle: 
+
+----
+
+Link: 
+
+----
+
+Ratio: 
+
+----
+
+Crop: false
+
+----
+
+Uuid: VIPpltKchHHfhnrn
+
+----
+
+Template: blocks/image

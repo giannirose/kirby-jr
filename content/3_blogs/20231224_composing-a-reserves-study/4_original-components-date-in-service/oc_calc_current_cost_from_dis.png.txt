@@ -1,0 +1,65 @@
+Src: 
+
+----
+
+Figurehead: 
+
+----
+
+Alt: A partial list of components showing the date in service cost and the current cost columns
+
+----
+
+Width: 824
+
+----
+
+Height: 706
+
+----
+
+Caption: 
+
+----
+
+Citation: 
+
+----
+
+Figclass: 
+
+----
+
+Testfield: 
+
+----
+
+Imgclass: 
+
+----
+
+Inlinefigurestyle: 
+
+----
+
+Imginlinestyle: 
+
+----
+
+Link: 
+
+----
+
+Ratio: 
+
+----
+
+Crop: false
+
+----
+
+Uuid: mMQwsnPWfeZdSQXm
+
+----
+
+Template: blocks/image

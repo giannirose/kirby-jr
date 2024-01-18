@@ -1,0 +1,87 @@
+Title: Ketanji Court
+
+----
+
+Headline: Ketanji Court
+
+----
+
+Subheadline: Honoring Ketanji Brown Jackson in Eugene, Oregon
+
+----
+
+Intro:
+
+Some folks in Eugene were seeking  a name for a new apartment complex in 2023.
+
+Impressed with Ketanji Brown Jackson's testimony at the hearings for her Supreme Court appointment, they named the building in her honor!
+
+Makes for a somewhat subtle political statement, not that that is so uncommon around here.
+
+----
+
+Stylediv: block
+
+----
+
+Coverintro: 
+
+----
+
+Excerpt-self: Supreme Court justice Ketanji Brown Jackson has a building named in her honor in Eugene, Oregon...
+
+----
+
+Layout: [{"attrs":[],"columns":[{"blocks":[{"content":{"text":"Not saying that <a href=\"https://fr.wikipedia.org/wiki/Ketanji_Brown_Jackson\">Justice Jackson</a> would leapfrog her fellow justices and lead the court, but I am a fan and can follow her and her fellow justices in fine detail thanks to the <a href=\"https://crooked.com/podcast-series/strict-scrutiny/\">Strict Scrutiny</a> podcast.\n\nHosts <a href=\"https://michigan.law.umich.edu/faculty-and-scholarship/our-faculty/leah-litman\">Leah Littman</a>, <a href=\"https://cardozo.yu.edu/directory/kate-shaw\">Kate Shaw</a> and <a href=\"https://its.law.nyu.edu/facultyprofiles/index.cfm?fuseaction=profile.overview&personid=40825\">Melissa Murray</a> provide an appealing blend of actualities, sharp minds and snark...whoops, I mean analysis...in a fast-moving conversation by fun individuals who are experts in their field.\n\nThanks to them, he'll always be Samuel A-Leak-O to me."},"id":"8a1fb465-a110-4088-9532-864b7e5dc6b0","isHidden":false,"type":"markdown"}],"id":"e517f29a-dba9-461c-9f63-c0ca44c64939","width":"1/2"},{"blocks":[{"content":{"location":"kirby","image":["file://GFfVzoIS5ouRJ6aE"],"src":"","alt":"alt text added at pop up box","caption":"","link":"","ratio":"","crop":"false"},"id":"03b17201-7ab6-46e4-95ac-9571758ea697","isHidden":false,"type":"image"}],"id":"ec8a81d9-1cfa-4ac4-94aa-5c87cdec6ff8","width":"1/2"}],"id":"d1d2f6f2-1817-4770-971f-334ce129acc7"}]
+
+----
+
+Date: 2023-04-03 11:20:00
+
+----
+
+Author: - 'user://ICmgA52Z'
+
+----
+
+Tags: My American Life
+
+----
+
+Cover:
+
+- 'file://WH5fu8DU4QV8Jeyp'
+- 'file://DIjWFOdChXEzXMM7'
+- 'file://VQ1QuutcwQHogoGA'
+
+----
+
+Galleryimages: []
+
+----
+
+Files: - 'file://GFfVzoIS5ouRJ6aE'
+
+----
+
+Svg: []
+
+----
+
+Pdf: []
+
+----
+
+Images: []
+
+----
+
+Figclass: smallsize
+
+----
+
+Excerptself: 
+
+----
+
+Uuid: i3IBuOVH3Rgpv5oj

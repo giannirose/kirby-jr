@@ -1,0 +1,69 @@
+Src: 
+
+----
+
+Figurehead: 
+
+----
+
+Alt: The Ketanji Court sign at the upper edge of the building
+
+----
+
+Width: 768
+
+----
+
+Height: 432
+
+----
+
+Caption: 
+
+----
+
+Citation: 
+
+----
+
+Figclass: 
+
+----
+
+Testfield: 
+
+----
+
+Spanwidth: 
+
+----
+
+Imgclass: 
+
+----
+
+Inlinefigurestyle: 
+
+----
+
+Imginlinestyle: 
+
+----
+
+Link: 
+
+----
+
+Ratio: 
+
+----
+
+Crop: false
+
+----
+
+Uuid: WH5fu8DU4QV8Jeyp
+
+----
+
+Template: image
