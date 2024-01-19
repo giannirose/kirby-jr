@@ -1,11 +1,13 @@
 <?php snippet('header-blog') ?>
 <div class="container-wrapper">
   <div class="wrapper">
+
     <!-- List blogs by tags -->
-    <aside class="aside">
+    <!-- <aside class="aside">
       <h2 class="blogroll">Blog topics...</h2>
-      <?php snippet('tags-list-anywhere') ?>
+      &lt;?php snippet('tags-list-anywhere') ?>
     </aside>
+-->
     <main class="main">
       <article class="blog note">
         <!-- The intro to the blog includes a centered image-->
