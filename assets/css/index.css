@@ -137,9 +137,9 @@ header.projects {
 article p {
   margin: 0 auto .8rem auto;
   margin-block-start: 0;
-  margin-inline-start: auto;
+  margin-inline-start: 1.2rem;
   margin-block-end: .8rem;
-  margin-inline-end: auto;
+  margin-inline-end: 1.2rem;
   max-width: 100%;
 }
 
@@ -175,7 +175,7 @@ h2.project-title {
 
 h3 {
   font-size: clamp(2.2rem, .76vw + 1.13rem, 2.8rem);
-  margin-block-end: 2rem;
+  margin-block-end: .8rem;
   font-weight: 500;
 }
 
