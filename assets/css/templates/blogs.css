@@ -72,7 +72,7 @@ h2.blogroll {
 
 .tags li {
   list-style: none;
-  padding: .4rem 1rem .8rem 1rem;
+  padding: .6rem 1rem .8rem 1rem;
   margin: 0;
   font-size: clamp(1rem, .76vw + 1.13rem, 1.6rem)
 }
@@ -388,6 +388,8 @@ p {
 }
 
 .aside {
-  margin-inline-start: 1rem;
-  margin-inline-end: 1rem;
+  margin-inline-start: 1.2rem;
+  margin-inline-end: 1.2rem;
+  padding-bottom: 2rem;
+  border-bottom: 1px solid black;
 }
