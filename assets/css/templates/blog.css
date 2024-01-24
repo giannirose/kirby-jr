@@ -526,3 +526,15 @@ footer {
 .blog-page-listing {
   text-align: center;
 }
+
+.addhtmltest {
+  max-width: 100%;
+}
+
+.imagehead {
+  text-align: center;
+  font-family: Courier, monospace;
+  max-width: unset;
+  margin-block-start: 1.6rem;
+  margin-block-end: 1.6rem;
+}
