@@ -31,9 +31,12 @@
     <!-- Local site had this blanked out and working -->
     <!-- &lt;?php if ($page->cover()->toFile()->url()->isNotEmpty()): ?> -->
     <!-- End test comment-out -->
-    <p class="h3">
-      <?= $page->cover()->figurehead() ?>
-    </p>
+     <?php if ($page->cover()->figurehead()->isNotEmpty()): ?>
+      <p class="h3 imagehead">
+        <?= $page->cover()->figurehead() ?>
+      </p>
+    <?php endif ?>
+
 
     <figure class="imintroblogphp <?= $page->cover()->figclass() ?> ">
 
