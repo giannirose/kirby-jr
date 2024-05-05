@@ -2,13 +2,12 @@
 
 <main class="page-margin">
   <!-- Provide a general introduction to whatever follows -->
-  <?php if ($page->link()->isNotEmpty()): ?>
-    <a href="<?= $page->link() ?>">
-      <h1>
-        <?= $page->headline()->or($page->title())->html() ?>
-      </h1>
-    </a>
-  <?php endif ?>
+  <h1>
+    <?= $page->headline()->or($page->title())->html() ?>
+  </h1>
+  <h2>
+    <?= $page->subheadline() ?>
+  </h2>
   <?php if ($page->intro()->isNotEmpty()): ?>
     <?= $page->intro()->kt() ?>
   <?php endif ?>
