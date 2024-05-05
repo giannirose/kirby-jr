@@ -560,6 +560,7 @@ ul.projects li:first-child {
   flex: 0 1 auto;
   justify-content: center;
   gap: 1rem;
+  flex-wrap: wrap;
 }
 
 .nav-main li {
