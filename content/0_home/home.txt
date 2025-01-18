@@ -1,0 +1,41 @@
+Title: Home
+
+----
+
+Intro: 
+
+----
+
+Layout: 
+
+----
+
+Date: 
+
+----
+
+Author: 
+
+----
+
+Tags: 
+
+----
+
+Files: 
+
+----
+
+Svg: 
+
+----
+
+Pdf: 
+
+----
+
+Uuid: gEjveitHg6sBNGLH
+
+----
+
+Navclass: home
