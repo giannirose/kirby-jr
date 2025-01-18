@@ -1,0 +1,65 @@
+Title: Public<br>Projects
+
+----
+
+Headline: Public Projects
+
+----
+
+Subheadline: 
+
+----
+
+Intro: Here is a look at my various public projects.
+
+----
+
+Layout: 
+
+----
+
+Text: 
+
+----
+
+Link: 
+
+----
+
+Navclass: publicprojects
+
+----
+
+Author: 
+
+----
+
+Images: 
+
+----
+
+Cover: 
+
+----
+
+Files: 
+
+----
+
+Date: 
+
+----
+
+Tags: 
+
+----
+
+Svg: 
+
+----
+
+Pdf: 
+
+----
+
+Uuid: jDer5cgOBsABveEi
