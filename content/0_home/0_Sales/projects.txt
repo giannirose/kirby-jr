@@ -1,4 +1,4 @@
-Title
+Title: 
 
 ----
 
@@ -14,7 +14,7 @@ Intro:
 
 ----
 
-Layout: [{"attrs":[],"columns":[{"blocks":[{"content":{"text":"I have glass that I have not used and don't expect to and therefore have for sale.\n\nAvailability is limited to stock on hand—I'm not trying to be a general service retail store. Prices are good— generally $7 sq/ft and some colors sell for less.\n\nSmaller pieces sell for $2 per pound. A pound of glass equals about 1-1/2 square feet.  \n\nI also sell lead. Six foot strips now cost anywhere from $7 to $12, depending on the style. \n\nThat is all that I expect to be selling. Other supplies should be ordered online."},"id":"6fa98888-3cc4-4337-85a8-4678e0e04eff","isHidden":false,"type":"markdown"}],"id":"a7c629f0-c939-4a53-a299-98603596138b","width":"1/2"},{"blocks":[{"content":{"location":"kirby","image":["file://VG0Sx42EaouvyxYd"],"src":"","alt":"","figurehead":""},"id":"334c8971-1df2-43e5-b246-f31be7a73088","isHidden":false,"type":"image"}],"id":"b128fb43-1347-4fcd-bdfc-b3424c77b213","width":"1/2"}],"id":"6ca7d0c5-3499-4b8b-b563-0e10e04ab5ef"},{"attrs":[],"columns":[{"blocks":[{"content":{"text":"You can <a href=\"mailto:john.rose3@comcast.net?subject=Glass and lead for sale\">email me</a> if you wish to set up a time to see what is available. I try to maintain regular weekly hours at the studio of 11:00-5:30. I am occasionally called out on jobs, and those days I am not avalable at the studio.\n\nWhile there is a lack of suppliers in Oregon, <a href=\"http://www.rosesglassworks.com/\">Rose's Glassworks and School</a> in Tigard (no relation) offers classes and a well-rounded collection of glass and basic  supplies. <a href=\"http://www.bullseyeglass.com/\">Bullseye Glass</a> in Portland sells their own large production of glass along with kilns and some tools."},"id":"230af06b-f0d0-4fc0-ba43-64c26c748909","isHidden":false,"type":"markdown"}],"id":"13e54157-bb72-44ab-9b40-57fea1779986","width":"1/1"}],"id":"f9ac0262-f085-497f-b688-bb845a1c1c23"}]
+Layout: [{"attrs":[],"columns":[{"blocks":[],"id":"0d87ad4f-7c53-409c-8407-271108004e88","width":"1/2"},{"blocks":[],"id":"9f04b236-9632-4fb5-ba91-03a243b5927c","width":"1/2"}],"id":"4db5756c-4113-4c9e-9a65-485b41e9c574"},{"attrs":[],"columns":[{"blocks":[{"content":{"text":"I have glass that I have not used and don't expect to and therefore have for sale.\n\nAvailability is limited to stock on hand—I'm not trying to be a general service retail store. Prices are good— generally $7 sq/ft and some colors discounted at $5 sq/ft.\n\nSome specialty glass may be priced higher.\n\nSmaller pieces sell for $2 per pound. A pound of glass equals about 1-1/2 square feet."},"id":"6fa98888-3cc4-4337-85a8-4678e0e04eff","isHidden":false,"type":"markdown"}],"id":"a7c629f0-c939-4a53-a299-98603596138b","width":"1/2"},{"blocks":[{"content":{"location":"kirby","image":["file://sJLgoQJZVU74Kjz0"],"src":"","alt":"","caption":"color and size","link":"","ratio":"","crop":"false"},"id":"334c8971-1df2-43e5-b246-f31be7a73088","isHidden":false,"type":"image"}],"id":"b128fb43-1347-4fcd-bdfc-b3424c77b213","width":"1/2"}],"id":"6ca7d0c5-3499-4b8b-b563-0e10e04ab5ef"},{"attrs":[],"columns":[{"blocks":[{"content":{"location":"kirby","image":["file://E3nMMI0zTgKR650L"],"src":"","alt":"","caption":"","link":"","ratio":"","crop":"false"},"id":"d6a7edde-623b-4d57-aade-af3789bd3bf1","isHidden":false,"type":"image"}],"id":"88a91aa6-5827-4c0e-8be6-e2ab2c4d9349","width":"1/2"},{"blocks":[{"content":{"text":"I also sell lead. Six foot strips now cost anywhere from $7 to $12, depending on the style.\n\nI don't carry narrow border lead.\n\nI have H-Channel lead in sizes  \n* 1/8\"\n* 5/32\"\n* 3/16\"\n* 1/4\"\n* 3/8\"\n* 1/2\"\n\nThe only U-Channel border material that I have is some copper 1/2\".  \nI prefer to use 1/2\" H-Channel for most borders.\n   \nThat is all that I expect to be selling. Other supplies and equipment should be ordered online."},"id":"ab822546-0c50-4149-a966-967674d395fc","isHidden":false,"type":"markdown"}],"id":"27092f67-c7a1-4c9d-ba44-626d001e5b17","width":"1/2"}],"id":"76f0bf8c-4ce3-409f-add7-9ed1ec521571"},{"attrs":[],"columns":[{"blocks":[{"content":{"text":"You can <a href=\"mailto:john.rose3@comcast.net?subject=Glass and lead for sale\">email me</a> if you wish to set up a time to see what is available. I try to maintain regular weekly hours at the studio of 11:00-5:30. I am occasionally called out on jobs, and those days I am not avalable at the studio.\n\nWhile there is a lack of suppliers in Oregon, <a href=\"http://www.rosesglassworks.com/\">Rose's Glassworks and School</a> in Tigard (no relation) offers classes and a well-rounded collection of glass and basic  supplies. <a href=\"http://www.bullseyeglass.com/\">Bullseye Glass</a> in Portland sells their own large production of glass along with kilns and some tools."},"id":"230af06b-f0d0-4fc0-ba43-64c26c748909","isHidden":false,"type":"markdown"}],"id":"13e54157-bb72-44ab-9b40-57fea1779986","width":"1/1"}],"id":"f9ac0262-f085-497f-b688-bb845a1c1c23"}]
 
 ----
 
@@ -30,19 +30,23 @@ Navclass:
 
 ----
 
-Author: 
+Author: []
 
 ----
 
-Images: - file://VG0Sx42EaouvyxYd
+Images:
+
+- 'file://VG0Sx42EaouvyxYd'
+- 'file://sJLgoQJZVU74Kjz0'
+- 'file://E3nMMI0zTgKR650L'
 
 ----
 
-Cover: 
+Cover: []
 
 ----
 
-Files: 
+Files: []
 
 ----
 
