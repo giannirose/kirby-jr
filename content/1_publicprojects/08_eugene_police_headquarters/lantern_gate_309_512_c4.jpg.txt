@@ -1,0 +1,53 @@
+Src: 
+
+----
+
+Alt: A torch like that held by the Stature of Liberty is paired with a police-style flashlight
+
+----
+
+Width: 309
+
+----
+
+Height: 512
+
+----
+
+Caption: <p>We called this "Two Torches." It is an illuminated in-wall lantern at the side of the security gate the police use daily.</p>
+
+----
+
+Citation: Ellen did the drawing converted into cut aluminum screens and I made the fused glass panels that sit behind them and in front of the illumination
+
+----
+
+Testfield: 
+
+----
+
+Spanwidth: 8
+
+----
+
+Imgclass: 
+
+----
+
+Link: 
+
+----
+
+Ratio: 
+
+----
+
+Crop: false
+
+----
+
+Uuid: hWJ52XzsDLLnQ8V4
+
+----
+
+Template: image

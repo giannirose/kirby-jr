@@ -1,0 +1,89 @@
+Title: Eugene Police HQ
+
+----
+
+Headline: Eugene Police Headquarters
+
+----
+
+Subheadline: A Collaboration with sculptor Ellen Tykeson
+
+----
+
+Additionalinfo: 2009
+
+----
+
+Introtext: 
+
+----
+
+Layout: [{"attrs":[],"columns":[{"blocks":[{"content":{"location":"kirby","image":["file:\/\/MoJwp7dSTVEPVOKV"],"src":"","alt":"The wall with the sculpture and three top-of-wall lanterns","width":1024,"height":393,"caption":"The three wall-mounted lanterns and Ellen's sculpture","citation":"The architects added the \"thin blue line\" neon-like light that extends into the public service building","link":"","figclass":"","imgclass":"","spanwidth":null,"ratio":"","crop":"false"},"id":"97303686-500c-4fba-94ec-9bdcd36817dc","isHidden":false,"type":"image"}],"id":"78c86408-22eb-4763-b2bb-a521c5e2c03b","width":"1\/1"}],"id":"ea146598-4493-4259-bfb5-e95dec3f6a96"},{"attrs":[],"columns":[{"blocks":[{"content":{"images":["file:\/\/hWJ52XzsDLLnQ8V4","file:\/\/DtfhMuxZkTSlMsjC"],"caption":"","ratio":"","crop":"false"},"id":"4b9011fe-f7f0-452c-ad71-e9fdc56ad9fe","isHidden":false,"type":"gallery"}],"id":"14e2b028-6d45-44fa-9c9b-894f7a1afcd6","width":"1\/1"}],"id":"51529099-2ba6-4cbe-847e-ed2f00589c19"},{"attrs":[],"columns":[{"blocks":[{"content":{"images":["file:\/\/0skPvbSVmQAP09Fs","file:\/\/mINpEaOvpeSQx12R"],"caption":"","ratio":"","crop":"false"},"id":"1052ecd4-21ec-44c2-b6d4-1ebad95609f8","isHidden":false,"type":"gallery"}],"id":"fffa5919-16c1-4a0e-aa0b-3ce2286161b1","width":"1\/1"}],"id":"bda71773-2bf8-4f74-9dda-6a557b9e2006"}]
+
+----
+
+Projectlayout: 
+
+----
+
+Cover: - file://ztwqDLvHqciuHtDH
+
+----
+
+Author: 
+
+----
+
+Tags: 
+
+----
+
+Images: 
+
+----
+
+Galleryimages: 
+
+----
+
+Svg: 
+
+----
+
+Pdf: 
+
+----
+
+Intro: 
+
+----
+
+Text: 
+
+----
+
+Coverintro: 
+
+----
+
+Date: 2009
+
+----
+
+Project-layout: 
+
+----
+
+Additional: 
+
+----
+
+Files: 
+
+----
+
+Uuid: M9kk7x2SbBsvJzro
+
+----
+
+Template: image/blocks

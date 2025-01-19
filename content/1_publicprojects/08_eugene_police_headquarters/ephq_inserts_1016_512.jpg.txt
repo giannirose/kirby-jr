@@ -1,0 +1,53 @@
+Src: 
+
+----
+
+Alt: Two cut aluminum panels
+
+----
+
+Width: 1016
+
+----
+
+Height: 512
+
+----
+
+Caption: <p>Ellen made these cut aluminum panels—they are installed in voids created in the block wall</p>
+
+----
+
+Citation: Themes are the work of hands blossoming and growing and "swords into ploughshares"
+
+----
+
+Testfield: 
+
+----
+
+Spanwidth: 16
+
+----
+
+Imgclass: 
+
+----
+
+Link: 
+
+----
+
+Ratio: 
+
+----
+
+Crop: false
+
+----
+
+Uuid: DtfhMuxZkTSlMsjC
+
+----
+
+Template: image

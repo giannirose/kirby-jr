@@ -1,0 +1,53 @@
+Src: 
+
+----
+
+Alt: An angled view of one lantern
+
+----
+
+Width: 365
+
+----
+
+Height: 512
+
+----
+
+Caption: <p>Each lantern tucks into the step-down originally designed into the wall</p>
+
+----
+
+Citation: I used the three-color motif thinking of traffic lights, and was careful to create a color harmony different than red-amber-green
+
+----
+
+Testfield: 
+
+----
+
+Spanwidth: 13
+
+----
+
+Imgclass: 
+
+----
+
+Link: 
+
+----
+
+Ratio: 
+
+----
+
+Crop: false
+
+----
+
+Uuid: mINpEaOvpeSQx12R
+
+----
+
+Template: image

@@ -1,0 +1,21 @@
+Alt: Alt text added at image page
+
+----
+
+Location: kirby
+
+----
+
+Image: 
+
+----
+
+Crop: false
+
+----
+
+Uuid: xS7Atdnh7zCMhB6K
+
+----
+
+Template: image/blocks

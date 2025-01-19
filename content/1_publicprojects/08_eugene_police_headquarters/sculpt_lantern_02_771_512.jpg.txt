@@ -1,0 +1,69 @@
+Src: 
+
+----
+
+Alt: Sculpture featuring many images such as large wings, a K-9 dog and scales and a stainless steel lantern featuring three colorful rectangles of glass
+
+----
+
+Caption: Sculpture by Ellen Tykeson of cut aluminum and one of several stainless steel and glass lanterns by me
+
+----
+
+Citation: 
+
+----
+
+Figclass: 
+
+----
+
+Imgclass: large
+
+----
+
+Coverintro:
+
+The project site is a 120 foot long wall that stretches from the public service building to the security entry gate for the police cars and impounded cars.
+
+We oriented the chosen blocks to be ordered lines. Ellen designed the cut aluminum sculpture for a central part of the wall and a couple of topical wall inserts at the public service entry porch.
+
+I designed three stainless steel and glass lanterns to be placed along the wall where it stepped down.
+
+Together we designed a fused glass lantern with a stainless steel overlay entitled "Two Torches."
+
+----
+
+Width: 771
+
+----
+
+Height: 512
+
+----
+
+Link: 
+
+----
+
+Ratio: 
+
+----
+
+Crop: false
+
+----
+
+Location: kirby
+
+----
+
+Imwidth: 
+
+----
+
+Uuid: ztwqDLvHqciuHtDH
+
+----
+
+Template: cover

@@ -1,0 +1,49 @@
+Src: 
+
+----
+
+Alt: alt text in images
+
+----
+
+Width: 1024
+
+----
+
+Height: 516
+
+----
+
+Caption: <p>Caption when we're using the images field</p>
+
+----
+
+Citation: caption in images
+
+----
+
+Testfield: 
+
+----
+
+Imgclass: 
+
+----
+
+Link: 
+
+----
+
+Ratio: 
+
+----
+
+Crop: false
+
+----
+
+Uuid: oSUCONJso5A9tsWd
+
+----
+
+Template: image

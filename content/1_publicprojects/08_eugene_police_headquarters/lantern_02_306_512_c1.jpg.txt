@@ -1,0 +1,53 @@
+Src: 
+
+----
+
+Alt: A lantern with a slanted top and colors, top to bottom, orange, green and raspberry
+
+----
+
+Width: 306
+
+----
+
+Height: 512
+
+----
+
+Caption: <p>The lanterns have a formed, slanted top facing the police's security gate</p>
+
+----
+
+Citation: The "broadcast" motif reflects the movement out into the community the police do every day
+
+----
+
+Testfield: 
+
+----
+
+Spanwidth: 11
+
+----
+
+Imgclass: 
+
+----
+
+Link: 
+
+----
+
+Ratio: 
+
+----
+
+Crop: false
+
+----
+
+Uuid: 0skPvbSVmQAP09Fs
+
+----
+
+Template: image

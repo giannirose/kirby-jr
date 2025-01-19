@@ -1,0 +1,57 @@
+Src: 
+
+----
+
+Alt: The wall with the sculpture and three top-of-wall lanterns
+
+----
+
+Width: 1024
+
+----
+
+Height: 393
+
+----
+
+Caption: <p>The three wall-mounted lanterns and Ellen's sculpture</p>
+
+----
+
+Citation: The architects added the "thin blue line" neon-like light that extends into the public service building
+
+----
+
+Testfield: 
+
+----
+
+Imgclass: 
+
+----
+
+Inlinefigurestyle: 
+
+----
+
+Imginlinestyle: 
+
+----
+
+Link: 
+
+----
+
+Ratio: 
+
+----
+
+Crop: false
+
+----
+
+Uuid: 7IltBjJ9A2yXwBHB
+
+----
+
+Template: image
