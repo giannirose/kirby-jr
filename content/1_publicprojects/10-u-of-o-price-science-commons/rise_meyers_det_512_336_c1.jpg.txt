@@ -1,0 +1,49 @@
+Src: 
+
+----
+
+Alt: A detail showing a portion of the glass disk, some gold-leafed eleents, and portions of the rays and background pebble mosaic
+
+----
+
+Width: 512
+
+----
+
+Height: 336
+
+----
+
+Caption: 
+
+----
+
+Citation: 
+
+----
+
+Testfield: 
+
+----
+
+Imgclass: 
+
+----
+
+Link: 
+
+----
+
+Ratio: 
+
+----
+
+Crop: false
+
+----
+
+Uuid: ikgKxQVtIHOrd3RG
+
+----
+
+Template: image

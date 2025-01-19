@@ -1,0 +1,59 @@
+Src: 
+
+----
+
+Alt: A central disc with wavy and circular gold-leafed elements on a dark glass circles with 7 rays emanting all on a buff-colored pebble mosaic field
+
+----
+
+Caption: The project measures about 4' x 8'
+
+----
+
+Citation: Photo by <a href="https://www.chrisalexanderphoto.net">Chris Alexander</a>
+
+----
+
+Figclass: 
+
+----
+
+Imgclass: small
+
+----
+
+Coverintro:
+
+Allan Price was an over-achiever in his role at the University of Oregon. His death was a loss to the community, and the new commons area associated with the science library is named in his honor.
+
+His wife Susan Price, an artist, was asked to make an artwork to share at the building. Susan asked me to assist, and together we brought to realization this project.
+
+The talented local metal worker (link: https://ortizmetals.com text: Randy Ortiz of Ortiz Metals) made the raised and repousséd metal rays that tuck neatly under the thick dark glass disk that supports gold-leafed elements. I made the pebble mosaic field. It was also a pleasure to work with Chris Roberts of opsis architecture and the UO planning staff and science department folks.
+
+----
+
+Width: 623
+
+----
+
+Height: 768
+
+----
+
+Link: 
+
+----
+
+Ratio: 
+
+----
+
+Crop: false
+
+----
+
+Uuid: j7Xt2p5dg3DjcZEZ
+
+----
+
+Template: cover

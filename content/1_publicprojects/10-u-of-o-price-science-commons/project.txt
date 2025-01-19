@@ -1,0 +1,73 @@
+Title: U of O Price Science Commons
+
+----
+
+Headline: Allan Price Science Commons
+
+----
+
+Subheadline: University of Oregon
+
+----
+
+Additionalinfo:
+
+<a href="https://www.opsisarch.com">opsis architecture llp</a>
+
+2017
+
+----
+
+Introtext: 
+
+----
+
+Layout: [{"attrs":[],"columns":[{"blocks":[{"content":{"text":"We were very pleased with the restrained but rich colors and the variety of textures.\n\nIt seemed right to have a project that was so elemental to make an association with science, which is all about research at an elemental level."},"id":"1c975f92-c3f6-43a8-a984-1ddd6bb64548","isHidden":false,"type":"markdown"}],"id":"e41fd30b-4e5e-48c7-b54f-55ec3f9d0187","width":"1\/2"},{"blocks":[{"content":{"location":"kirby","image":["file:\/\/ikgKxQVtIHOrd3RG"],"src":"","alt":"A detail showing a portion of the glass disk, some gold-leafed eleents, and portions of the rays and background pebble mosaic","width":512,"height":336,"caption":"","citation":"","link":"","figclass":"","imgclass":"","spanwidth":null,"imginlinestyle":"","testfield":""},"id":"894423fd-57f4-49b2-a6cf-06ffb451d85f","isHidden":false,"type":"image"}],"id":"8360f2ce-1904-4579-8b46-213df04fd3b6","width":"1\/2"}],"id":"eae823e6-10d1-4ab7-b3bc-e7e82286581c"}]
+
+----
+
+Projectlayout: 
+
+----
+
+Cover: - file://j7Xt2p5dg3DjcZEZ
+
+----
+
+Author: - user://ICmgA52Z
+
+----
+
+Tags: 
+
+----
+
+Images: 
+
+----
+
+Galleryimages: - file://ikgKxQVtIHOrd3RG
+
+----
+
+Svg: 
+
+----
+
+Pdf: 
+
+----
+
+Intro: 
+
+----
+
+Text: 
+
+----
+
+Date: 2017
+
+----
+
+Uuid: LJvUE18B3ksiiVK3
