@@ -1,0 +1,49 @@
+Src: 
+
+----
+
+Alt: Six vertical snakes in white glass on a black background- 3 each in two doors
+
+----
+
+Width: 297
+
+----
+
+Height: 512
+
+----
+
+Caption: 
+
+----
+
+Citation: 
+
+----
+
+Testfield: 
+
+----
+
+Imgclass: 
+
+----
+
+Link: 
+
+----
+
+Ratio: 
+
+----
+
+Crop: false
+
+----
+
+Uuid: G9juHynEoa6WKZkj
+
+----
+
+Template: image

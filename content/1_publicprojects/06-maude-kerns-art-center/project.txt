@@ -1,0 +1,77 @@
+Title: Maude Kerns Art Center
+
+----
+
+Headline: 
+
+----
+
+Subheadline: A non-profit art center for teaching and exhibits in Eugene, Oregon
+
+----
+
+Additionalinfo: 1998
+
+----
+
+Introtext: 
+
+----
+
+Layout: [{"attrs":[],"columns":[{"blocks":[{"content":{"text":"The gallery had a regular exhibit that focused on crafts for homes and interiors. \n\nI pulled a fast one and designed these panels to fit into the existing openings of the gallery doors. I expected to remove them after the exhibit.\n\nThe folks mounting the next show asked me to leave the panels in place. They then stayed there for a number of years, at which time some repairs were needed.\n\nI planned to remove the panels permanently but a donor stepped forward to purchase them and keep them in place."},"id":"d8297968-b3d7-47f5-93a5-c5898b6f0c8c","isHidden":false,"type":"markdown"}],"id":"3b0a9f24-4649-42d5-b50c-24a1a615f6a6","width":"7\/12"},{"blocks":[{"content":{"location":"kirby","image":["file:\/\/G9juHynEoa6WKZkj"],"src":"","alt":"","width":null,"height":null,"caption":"","citation":"","link":"","figclass":"","imgclass":"","spanwidth":null,"inlinefigurestyle":"","imginlinestyle":"","testfield":""},"id":"311da0c3-9731-47c8-ac6a-c82075b81398","isHidden":false,"type":"image"}],"id":"d6a4d983-effd-4f29-b16d-9bf56c011b11","width":"5\/12"}],"id":"0a38078e-3188-4d31-9b9f-f1e39345f6e1"}]
+
+----
+
+Projectlayout: [{"attrs":[],"columns":[{"blocks":[{"content":{"images":["file:\/\/SjNGKa41C9sAorUC","file:\/\/9xv30dOHSRcF5BaA"],"caption":"","ratio":"","crop":"false"},"id":"f9b60d9e-f578-4ea0-bb3e-e0929dbafe35","isHidden":false,"type":"gallery"}],"id":"9c16fd51-b853-49dd-96d8-4ddd9dda4310","width":"1\/1"}],"id":"90a669cb-7ce1-4eac-a752-10982c1bdc86"}]
+
+----
+
+Cover: 
+
+----
+
+Author: - user://ICmgA52Z
+
+----
+
+Tags: 
+
+----
+
+Images: - file://G9juHynEoa6WKZkj
+
+----
+
+Galleryimages:
+
+- file://SjNGKa41C9sAorUC
+- file://9xv30dOHSRcF5BaA
+
+----
+
+Svg: 
+
+----
+
+Pdf: 
+
+----
+
+Intro: 
+
+----
+
+Text:
+
+Maude Kerns Art Gallery mainimgfloat mainimgtall Maude Kerns Art Center  Maude Kerns Art Center Gallery Door Maude Kerns Art Center Henry Korn Gallery Doors   This art education center is named for the Eugene artist and educator, Maude Kerns.
+I thought it was rather sly when I designed panels to fit the existing gallery doors for the bi-annual exhibit “Art for Interiors.”
+The subsequent show was of women’s art organized by Martha Snyder, who asked that I leave the work in place, snakes being a symbol of power for women.
+After that, I left the panels in place until some damage to the panels and deterioration of the doors led me to announce to staff the removal of the glass. Staff found a donor to pay for the artwork and the refreshing of the doors, and “Snakes!” is now a permanent installation at the entrance to the Henry Korn Gallery and part of the streetscape along 15th Avenue in Eugene.    The entrance to the Henry Korn Gallery The entrance to the Henry Korn Gallery    Detail of the snakes Detail of the glass types and dichroic eyes
+
+----
+
+Date: 1998
+
+----
+
+Uuid: nh6JSlbJbJ8xQwmb

@@ -1,0 +1,53 @@
+Src: 
+
+----
+
+Alt: Close-up showing the ridged white glass
+
+----
+
+Width: 339
+
+----
+
+Height: 512
+
+----
+
+Caption: <p>My friend Rudy called me one day about a pile of narrow glass strips he spotted at the university. I went and grabbed them. My best guess is that these were fluorescent light diffusers from the days before plastic was used. I used the full width of them to make the snakes.</p>
+
+----
+
+Citation: 
+
+----
+
+Testfield: 
+
+----
+
+Spanwidth: 12
+
+----
+
+Imgclass: medium
+
+----
+
+Link: 
+
+----
+
+Ratio: 
+
+----
+
+Crop: false
+
+----
+
+Uuid: SjNGKa41C9sAorUC
+
+----
+
+Template: image

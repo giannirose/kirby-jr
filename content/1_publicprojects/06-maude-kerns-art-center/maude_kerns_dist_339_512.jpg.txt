@@ -1,0 +1,53 @@
+Src: 
+
+----
+
+Alt: The gallery entry
+
+----
+
+Width: 339
+
+----
+
+Height: 512
+
+----
+
+Caption: <p>The art center is in an old church. These are the steps and entry to the gallery.</p>
+
+----
+
+Citation: 
+
+----
+
+Testfield: 
+
+----
+
+Spanwidth: 12
+
+----
+
+Imgclass: medium
+
+----
+
+Link: 
+
+----
+
+Ratio: 
+
+----
+
+Crop: false
+
+----
+
+Uuid: 9xv30dOHSRcF5BaA
+
+----
+
+Template: image
