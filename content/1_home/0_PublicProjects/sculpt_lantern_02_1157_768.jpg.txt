@@ -1,9 +1,0 @@
-Crop: false
-
-----
-
-Uuid: GAQbaAy6otCFLQUj
-
-----
-
-Template: image
