@@ -1,0 +1,49 @@
+Src: 
+
+----
+
+Alt: The west-facing arch springs from the side of the clock tower
+
+----
+
+Width: 1522
+
+----
+
+Height: 768
+
+----
+
+Caption: <p>The clock tower and the west facing arch</p>
+
+----
+
+Citation: The pacific ocean is about an hour's drive from Eugene
+
+----
+
+Spanwidth: 16
+
+----
+
+Imgclass: 
+
+----
+
+Link: 
+
+----
+
+Ratio: 
+
+----
+
+Crop: false
+
+----
+
+Uuid: xW731FmvM8v4cIgl
+
+----
+
+Template: image

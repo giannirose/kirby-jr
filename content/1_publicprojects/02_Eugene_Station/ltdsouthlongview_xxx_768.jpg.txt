@@ -1,0 +1,49 @@
+Src: 
+
+----
+
+Alt: A long view of the south-facing arch and the public service building
+
+----
+
+Width: 1701
+
+----
+
+Height: 768
+
+----
+
+Caption: <p>The south-facing arch and the public service building</p>
+
+----
+
+Citation: 
+
+----
+
+Spanwidth: 15
+
+----
+
+Imgclass: 
+
+----
+
+Link: 
+
+----
+
+Ratio: 
+
+----
+
+Crop: false
+
+----
+
+Uuid: TMqpLEtRckrVvMaF
+
+----
+
+Template: image

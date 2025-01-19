@@ -1,0 +1,57 @@
+Src: 
+
+----
+
+Alt: Imageof a sparkling river bordered by trees and overlapping circles of color and a sun in a blue sky
+
+----
+
+Width: 791
+
+----
+
+Height: 768
+
+----
+
+Caption: <p>The north arch panel</p>
+
+----
+
+Citation: The Willamette River flows north and has created a rich valley
+
+----
+
+Testfield: 
+
+----
+
+Imgclass: 
+
+----
+
+Inlinefigurestyle: 
+
+----
+
+Imginlinestyle: 
+
+----
+
+Link: 
+
+----
+
+Ratio: 
+
+----
+
+Crop: false
+
+----
+
+Uuid: xcP0tbni9z1LDqgg
+
+----
+
+Template: image

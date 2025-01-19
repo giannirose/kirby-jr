@@ -1,0 +1,99 @@
+Title: Eugene Station
+
+----
+
+Headline: 
+
+----
+
+Subheadline: Eugene's central bus station for the Lane Transit District (LTD)
+
+----
+
+Additionalinfo:
+
+1995  
+<a href="https://pivotarchitecture.com/">Pivot Architecture</a>
+
+----
+
+Introtext: The glass is composed of 8" x 8" x 3/4" fused glass slabs kiln-formed using <a href="https://www.bullseyeglass.com/">Bullseye glass</a> or Desag GNA, which, sadly for many glass artisans, is no longer available in the colored varieties.  The stainless steel frames were manufactured by <a href="http://rearsmfg.com/">Rears Manufacturing</a> - special thanks to Chuck Rear.
+
+----
+
+Layout: [{"attrs":[],"columns":[{"blocks":[{"content":{"text":"With blue the cool color and yellow the warm, I used varying amounts in each composition to give a subtext of the four seasons.  \n\nHere the varying fields of color depict the descent into darkness that is autumn."},"id":"dc30bef2-7200-41e9-a0b4-837fa35f3381","isHidden":false,"type":"markdown"}],"id":"753d39e9-9da8-48ad-a573-6e4a0ff5813c","width":"1\/2"},{"blocks":[{"content":{"location":"kirby","image":["file:\/\/lwe2orZdc70zxDxA"],"src":"","alt":"","width":null,"height":null,"caption":"","citation":"Not shown in the drawing, I added an image of the butte that is the southern terminus of our Willamette Valley","link":"","figclass":"","imgclass":"","spanwidth":null,"inlinefigurestyle":"vv","imginlinestyle":"vv","testfield":""},"id":"b3855032-88ad-4d80-beb8-e7953aca964a","isHidden":false,"type":"image"}],"id":"06a2323f-d084-40d4-841b-d2e5b32d18cb","width":"1\/2"}],"id":"c50f1257-3b90-4627-bbe8-0ce0fd1caca8"},{"attrs":[],"columns":[{"blocks":[{"content":{"location":"kirby","image":["file:\/\/lDQBCRzQDRsSwaG7"],"src":"","alt":"","width":null,"height":null,"caption":"","citation":"","link":"","figclass":"","imgclass":"","spanwidth":null,"inlinefigurestyle":"","imginlinestyle":"","testfield":""},"id":"c3b7b905-1282-44d4-aea1-d5af82b33320","isHidden":false,"type":"image"}],"id":"e3ddccdf-91e7-49c2-8a6e-53f89ef993ca","width":"1\/2"},{"blocks":[{"content":{"text":"I also designed dichroic glass pyramids that were placed at the clock tower. They are illuminated at night.\n\nDichroic glass is glass with a highly reflective metallic-looking coating. They come in various colors, and are one color in reflected light and a complementary color when transmitting light."},"id":"f55288c4-a6c7-4070-a97b-68ec5f8d160c","isHidden":false,"type":"markdown"}],"id":"955c6d79-f09b-4864-9f7d-2e332ebed52f","width":"1\/2"}],"id":"7811db9c-3f56-421a-a3ca-b3abdb512a87"},{"attrs":[],"columns":[{"blocks":[{"content":{"text":"The south arch, the long spine where buses arrive and depart, and the station's public service building."},"id":"a49cc7c2-fcd1-47dd-92fa-93d80120106e","isHidden":false,"type":"markdown"}],"id":"9bc04d3d-8105-4aad-86a8-11b814fe07f6","width":"5\/12"},{"blocks":[{"content":{"location":"kirby","image":["file:\/\/TMqpLEtRckrVvMaF"],"src":"","alt":"The south arch and the administration building","width":1522,"height":768,"caption":"There is a row of dichroic glass pyramids along the top of the public service building","citation":"","link":"","figclass":"","imgclass":"","spanwidth":null,"inlinefigurestyle":"","imginlinestyle":"","testfield":""},"id":"77343640-01be-4141-8e1e-0bbe3825c6f9","isHidden":false,"type":"image"}],"id":"8e0661c8-390c-4bd0-87ee-f165b4fc9e6c","width":"7\/12"}],"id":"f50f72eb-6e41-44a9-af21-25016bed41de"},{"attrs":[],"columns":[{"blocks":[{"content":{"location":"kirby","image":["file:\/\/xcP0tbni9z1LDqgg"],"src":"","alt":"Imageof a sparkling river bordered by trees and overlapping circles of color and a sun in a blue sky","width":791,"height":768,"caption":"North panel","citation":"The Willamette River flows north and has created a rich valley","link":"","figclass":"","imgclass":"","spanwidth":null,"inlinefigurestyle":"","imginlinestyle":"","testfield":""},"id":"e1a0fe9e-41f3-4366-808b-8fb774bb9b84","isHidden":false,"type":"image"}],"id":"05d044ad-ddc0-4925-9e89-b7a27a1f8a14","width":"5\/12"},{"blocks":[{"content":{"location":"kirby","image":["file:\/\/xW731FmvM8v4cIgl"],"src":"","alt":"the clock tower and the west-facing arch with an image of a wave crashing on rocks","width":1522,"height":768,"caption":"The clock tower and the west arch","citation":"The Pacific Ocean is 100 kilometres (60 miles) to the west","link":"","figclass":"","imgclass":"","spanwidth":null,"inlinefigurestyle":"","imginlinestyle":"","testfield":""},"id":"63a4333a-4f53-4cc8-a6bd-13ec8e864171","isHidden":false,"type":"image"}],"id":"bdb90c3c-2263-4aef-b88d-5f0588887eb7","width":"7\/12"}],"id":"c7bde499-b406-4cf1-9d59-c796c5fa85a8"},{"attrs":[],"columns":[{"blocks":[{"content":{"images":["file:\/\/TMqpLEtRckrVvMaF","file:\/\/lwe2orZdc70zxDxA"],"caption":"","ratio":"","crop":"false"},"id":"ed957540-86bb-4ce2-93de-55a0c199d08c","isHidden":false,"type":"gallery"}],"id":"a722364e-f5e6-406b-ae28-b41c1e974742","width":"1\/1"}],"id":"3de0aacb-b6cc-4a99-9ac8-11fcdad93edd"}]
+
+----
+
+Projectlayout: 
+
+----
+
+Cover: - file://fN9RRLPSDcebe8IR
+
+----
+
+Author: - user://ICmgA52Z
+
+----
+
+Tags: 
+
+----
+
+Images:
+
+- file://lwe2orZdc70zxDxA
+- file://lDQBCRzQDRsSwaG7
+- file://TMqpLEtRckrVvMaF
+- file://xcP0tbni9z1LDqgg
+- file://xW731FmvM8v4cIgl
+
+----
+
+Galleryimages: 
+
+----
+
+Svg: 
+
+----
+
+Pdf: 
+
+----
+
+Intro-text: TEsting the intro text here
+
+----
+
+Intro:
+
+Archways mark entry and departure zones for the buses, and these compositions in 3/4" glass panels are at the top and center of each metal arch. 
+Artists were to address the theme "Connections."  
+A special interest of mine at the time was landscape architecture, and so I keyed in on the salient features of our area—the river flowing north, the mountains to the east, the butte at the south of our valley, and the ocean to the west.
+The glass was made as separate 8" x 8" x 3/4" fused glass slabs using Bullseye glass. The stainless steel frames are by <a href="http://rearsmfg.com/>Rears Manufacturing</a>.
+
+----
+
+Text:
+
+Eugene Station mainimgfloat mainimagegrid1rev Lane Transit District's Eugene Station  Drawing of the glass panels The original drawing of the four panels at the porticoes   The project for Eugene’s central public transit station had two parts- glass at the arches and pyramids at the clock tower.
+The arches depict those elements that make our place: the ocean to the west, the mountains to the east, the river flowing north, and the butte that is the southern terminus of the Willamette Valley. 
+Each represents, in its relative use of yellow and blue, a season.
+The dichroic glass pyramids at the clock tower assumed the place of what would have been glass block.    The east portico The east-facing portico: mountains    The composition at the west arch The composition at the west arch    The north composition Raised areas of glass at the north portico sparkle in direct sunlight    The south portico The south portico shows Spencer Butte and the descending light of autumn    Glass pyramids at the clock tower Glass pyramids at the clock tower    The public sdrvice building and the south portico The public service building and the south portico
+
+
+
+ Eugene Station mainimgfloat mainimagegrid1rev Lane Transit District's Eugene Station  Drawing of the glass panels The original drawing of the four panels at the porticoes   The project for Eugene’s central public transit station had two parts- glass at the arches and pyramids at the clock tower.
+The arches depict those elements that make our place: the ocean to the west, the mountains to the east, the river flowing north, and the butte that is the southern terminus of the Willamette Valley. 
+Each represents, in its relative use of yellow and blue, a season.
+The dichroic glass pyramids at the clock tower assumed the place of what would have been glass block.    The east portico The east-facing portico: mountains    The composition at the west arch The composition at the west arch    The north composition Raised areas of glass at the north portico sparkle in direct sunlight    The south portico The south portico shows Spencer Butte and the descending light of autumn    Glass pyramids at the clock tower Glass pyramids at the clock tower    The public sdrvice building and the south portico The public service building and the south portico
+
+----
+
+Date: 1995
+
+----
+
+Uuid: 8Y0fHz8pJjyF2uYa

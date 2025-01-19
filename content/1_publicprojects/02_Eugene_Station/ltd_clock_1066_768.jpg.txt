@@ -1,0 +1,57 @@
+Src: 
+
+----
+
+Alt: The clock tower featured pyramids of dichroic glass
+
+----
+
+Width: 1066
+
+----
+
+Height: 768
+
+----
+
+Caption: 
+
+----
+
+Citation: 
+
+----
+
+Testfield: 
+
+----
+
+Imgclass: 
+
+----
+
+Inlinefigurestyle: 
+
+----
+
+Imginlinestyle: 
+
+----
+
+Link: 
+
+----
+
+Ratio: 
+
+----
+
+Crop: false
+
+----
+
+Uuid: lDQBCRzQDRsSwaG7
+
+----
+
+Template: image

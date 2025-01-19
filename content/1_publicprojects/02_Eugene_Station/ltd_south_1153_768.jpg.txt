@@ -1,0 +1,61 @@
+Src: 
+
+----
+
+Alt: leaves descending from green to autumn colors and simple blocks of blue and, at the bottom, an image of the butte that is the southern terminus of the Willamette Valley
+
+----
+
+Width: 1153
+
+----
+
+Height: 768
+
+----
+
+Caption: <p>The south arch: After the drawing, I added the image of the bute</p>
+
+----
+
+Citation: The southern terminus of the Willamette Valley- Spencer Butte- will someday return to its Kalapuyan name Champ-a Te, which translates as "Rattlesnake Mountain"
+
+----
+
+Testfield: 
+
+----
+
+Spanwidth: 9
+
+----
+
+Imgclass: 
+
+----
+
+Inlinefigurestyle: 
+
+----
+
+Imginlinestyle: 
+
+----
+
+Link: 
+
+----
+
+Ratio: 
+
+----
+
+Crop: false
+
+----
+
+Uuid: lwe2orZdc70zxDxA
+
+----
+
+Template: image

@@ -1,0 +1,57 @@
+Src: 
+
+----
+
+Alt: Drawings submitted as designs for the public art project
+
+----
+
+Caption: The glass compostions are about 5 feet square, but I kept the drawings small- about 2-1/4" each—so they were more gestural than detailed
+
+----
+
+Citation: 
+
+----
+
+Figclass: 
+
+----
+
+Imgclass: medium
+
+----
+
+Coverintro:
+
+Archways oriented north, south, east and west mark entry and departure zones for the buses, and these glass-and-metal panels are at the top and center of each metal arch. 
+Artists were to address the theme "Connections."  
+A special interest of mine at the time was landscape architecture, and so I keyed in on the salient features of our area—the river flowing north, the mountains to the east, the butte that marks the south end of our valley, and the ocean to the west.
+
+----
+
+Width: 1104
+
+----
+
+Height: 768
+
+----
+
+Link: 
+
+----
+
+Ratio: 
+
+----
+
+Crop: false
+
+----
+
+Uuid: fN9RRLPSDcebe8IR
+
+----
+
+Template: cover
