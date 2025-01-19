@@ -1,0 +1,57 @@
+Src: 
+
+----
+
+Alt: Along three twisting spirals are various bugs, butterflies and moths, and blossoms and at the top is a bird
+
+----
+
+Width: 206
+
+----
+
+Height: 768
+
+----
+
+Caption: <p>The presentation panel</p>
+
+----
+
+Citation: 
+
+----
+
+Testfield: 
+
+----
+
+Imgclass: 
+
+----
+
+Inlinefigurestyle: 
+
+----
+
+Imginlinestyle: 
+
+----
+
+Link: 
+
+----
+
+Ratio: 
+
+----
+
+Crop: false
+
+----
+
+Uuid: TRIIQL0Kh2gd5Emy
+
+----
+
+Template: image

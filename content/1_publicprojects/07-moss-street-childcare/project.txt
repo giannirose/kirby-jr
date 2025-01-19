@@ -1,0 +1,80 @@
+Title: Moss Street Childcare
+
+----
+
+Headline: 
+
+----
+
+Subheadline: Child Care Center at the University of Oregon
+
+----
+
+Additionalinfo: 2006
+
+----
+
+Introtext: 
+
+----
+
+Layout: [{"attrs":[],"columns":[{"blocks":[{"content":{"text":"<div class=\"margin-added\" style=\"margin-left: 6rem; margin-right: 6rem\">\n\nI conceived of a set of windows for the corridors around an interior courtyard.\n\nThese would have many images from the natural world with each topped with an image of a bird.\n\nThe details would be an opportunity to work with etching and painting techniques and work in great detail.\n\nThis project never went through; shown here is the presentation model.\n&nbsp;\n<\/div>\n<figure style=\"max-width: 300px; margin-left:auto; margin-right:auto;\">\n(image: moss_cc_bird_632_768.jpg alt:Image of a bird, head back cleaning under its wing width:632 height:768 caption: Etching, painting and silver-staining techniques were employed to create the bird)\n<\/figure>"},"id":"8b0ad5c7-a877-4093-8e7d-1290a89cfd70","isHidden":false,"type":"markdown"}],"id":"1916bc30-410c-40d0-91ff-5833f60fa1ce","width":"3\/4"},{"blocks":[{"content":{"location":"kirby","image":["file:\/\/TRIIQL0Kh2gd5Emy"],"src":"","alt":"Along three twisting spirals are various bugs, butterflies and moths, and blossoms and at the top is a bird","width":206,"height":768,"caption":"The presentation panel","citation":"","link":"","figclass":"fullsize","imgclass":"","spanwidth":null,"ratio":"","crop":"false"},"id":"5d031cd4-f596-468f-8ee2-60a14cd00281","isHidden":false,"type":"image"}],"id":"86c48978-353d-463c-9287-c4f648404052","width":"1\/4"}],"id":"ab1343fd-f747-460a-a0c7-1bb2c914bc9d"}]
+
+----
+
+Projectlayout: 
+
+----
+
+Cover: 
+
+----
+
+Author: - user://ICmgA52Z
+
+----
+
+Tags: 
+
+----
+
+Images:
+
+- file://TRIIQL0Kh2gd5Emy
+- file://KCVPc2BvPpJpqUxR
+
+----
+
+Galleryimages: 
+
+----
+
+Svg: 
+
+----
+
+Pdf: 
+
+----
+
+Intro: 
+
+----
+
+Text:
+
+Moss Street Child Care mainimgfloat mainimggrid2rev Moss Street Child Care  Detail of the window A multitude of glass techniques were used to make the bird    Stained Glass model for the project The model for the project   “Buds, bugs, butterflies&#8230;and a bird”
+The Moss Street Childcare had various classrooms named for birds, and this was my model and proposal.
+Children are very taken with their immediate surroundings. Maybe it’s that they are closer to the ground and notice things like buds and bugs.
+
+ Moss Street Child Care mainimgfloat mainimggrid2rev Moss Street Child Care  Detail of the window A multitude of glass techniques were used to make the bird    Stained Glass model for the project The model for the project   “Buds, bugs, butterflies&#8230;and a bird”
+The Moss Street Childcare had various classrooms named for birds, and this was my model and proposal.
+Children are very taken with their immediate surroundings. Maybe it’s that they are closer to the ground and notice things like buds and bugs.
+
+----
+
+Date: 2006
+
+----
+
+Uuid: VVBXfQrJUVQS9QHz
