@@ -1,0 +1,84 @@
+Title: Ticket Office
+
+----
+
+Headline: Ticket Office
+
+----
+
+Subheadline: Hult Center for the Performing Arts - Eugene, Oregon
+
+----
+
+Additionalinfo:
+
+Architects: Hardy, Holzmann, Pfeiffer NYC  
+1982
+
+----
+
+Introtext: 
+
+----
+
+Layout: [{"attrs":[],"columns":[{"blocks":[{"content":{"location":"kirby","image":["file:\/\/cq0VcDEdlEypmRaE"],"src":"","alt":"","width":1024,"height":768,"caption":"Outward- and downward-facing panels span each ticket window","citation":"","link":"","figclass":"","imgclass":"","spanwidth":null,"inlinefigurestyle":"","imginlinestyle":"","testfield":""},"id":"510c4862-cb92-4f3e-809a-dd6830448e9a","isHidden":false,"type":"image"}],"id":"cb9e7f8d-b1d5-4f2c-b8ba-f6fe4c660631","width":"1\/2"},{"blocks":[{"content":{"text":"The glass technique employed has come to be called \"fused glass\"\u2014essentially the melting together in a kiln of glass pieces placed side-by-side or layered. \nEach ticket window is crowned by a design as shown here. Where this image has layered cincentric cirles of yellow and green, other windows are marked by different colors."},"id":"d0a9b3d4-5d12-4899-a9cb-de6d03292d94","isHidden":false,"type":"markdown"}],"id":"3a68c789-ac25-4503-b969-54c2003392bc","width":"1\/2"}],"id":"28d3a5ff-a78e-4de1-97e7-4f91e516182b"},{"attrs":[],"columns":[{"blocks":[{"content":{"text":"<p>This sample from the lower band of panels is dedicated to the writers and composers who commit ideas to the page.<\/p><p>This image presents pages floating, as if existing but not yet brought into the world.<\/p>"},"id":"7ad458dc-0f45-491c-81bb-6e61788a98d8","isHidden":false,"type":"text"}],"id":"202f5fb6-1c94-46e8-a420-966d84c55e49","width":"1\/2"},{"blocks":[{"content":{"location":"kirby","image":["file:\/\/tfMnAw96txbdZhcC"],"src":"","alt":"alt text for test","width":768,"height":503,"caption":"","citation":"","link":"","figclass":"","imgclass":"","spanwidth":null,"inlinefigurestyle":"","imginlinestyle":"","testfield":""},"id":"e488c613-65ce-4647-985f-6b3f6d3465a4","isHidden":false,"type":"image"}],"id":"11a37777-ee32-4e83-9eeb-b6a807fdbb4a","width":"1\/2"}],"id":"2d6cc572-53b4-466d-b265-c1e10576c9cf"}]
+
+----
+
+Projectlayout: 
+
+----
+
+Cover: - file://DPYh7pd4a575hazR
+
+----
+
+Author: - user://ICmgA52Z
+
+----
+
+Tags: 
+
+----
+
+Images:
+
+- file://DPYh7pd4a575hazR
+- file://cq0VcDEdlEypmRaE
+- file://tfMnAw96txbdZhcC
+
+----
+
+Galleryimages: 
+
+----
+
+Svg: 
+
+----
+
+Pdf: 
+
+----
+
+Intro: 
+
+----
+
+Imgclass: 
+
+----
+
+Text: 
+
+----
+
+Project-layout: 
+
+----
+
+Date: 1982
+
+----
+
+Uuid: lAKr1SSt08ynQepd

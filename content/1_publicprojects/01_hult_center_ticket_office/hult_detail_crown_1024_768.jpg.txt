@@ -1,0 +1,53 @@
+Src: 
+
+----
+
+Alt: A close-up of the glass center of alternating colors decreasing in diameter as they are stacked
+
+----
+
+Caption: Outward- and downward-facing panels span each ticket window captions in the image file
+
+----
+
+Citation: 
+
+----
+
+Figclass: 
+
+----
+
+Imgclass: 
+
+----
+
+Coverintro: 
+
+----
+
+Width: 1024
+
+----
+
+Height: 768
+
+----
+
+Link: 
+
+----
+
+Ratio: 
+
+----
+
+Crop: false
+
+----
+
+Uuid: cq0VcDEdlEypmRaE
+
+----
+
+Template: cover

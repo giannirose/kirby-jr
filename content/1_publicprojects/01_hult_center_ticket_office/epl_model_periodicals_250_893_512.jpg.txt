@@ -1,0 +1,9 @@
+Crop: false
+
+----
+
+Uuid: v1cNegr0sN3ldleb
+
+----
+
+Template: image

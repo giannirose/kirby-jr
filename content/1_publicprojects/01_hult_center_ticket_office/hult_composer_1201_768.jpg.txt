@@ -1,0 +1,57 @@
+Src: 
+
+----
+
+Alt: Sheets of paper with colored lines floating on a field of horizontal cobalt blue, amber and magenta strips
+
+----
+
+Width: 1201
+
+----
+
+Height: 768
+
+----
+
+Caption: <p>"Composer's Dream"</p>
+
+----
+
+Citation: 
+
+----
+
+Testfield: 
+
+----
+
+Imgclass: 
+
+----
+
+Inlinefigurestyle: 
+
+----
+
+Imginlinestyle: 
+
+----
+
+Link: 
+
+----
+
+Ratio: 
+
+----
+
+Crop: false
+
+----
+
+Uuid: tfMnAw96txbdZhcC
+
+----
+
+Template: image

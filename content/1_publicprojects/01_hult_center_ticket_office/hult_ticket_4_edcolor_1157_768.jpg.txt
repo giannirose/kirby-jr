@@ -1,0 +1,57 @@
+Src: 
+
+----
+
+Alt: Three illuminated bands of glass crown the windows and borders of the ticket office windows
+
+----
+
+Caption: Interesting to recall the time when tickets were available only at the ticket counters
+
+----
+
+Citation: 
+
+----
+
+Figclass: 
+
+----
+
+Imgclass: large
+
+----
+
+Coverintro:
+
+The top band crowning the ticket windows feature a repeating decorative design and music motifs.  
+The center band has a garden stage set, overlapping colors of stage lights, and performers on stage.  
+The more dream-like lower band shows unformed dancing figures, faces as character types, and floating paper pages.
+
+----
+
+Width: 1157
+
+----
+
+Height: 768
+
+----
+
+Link: 
+
+----
+
+Ratio: 
+
+----
+
+Crop: false
+
+----
+
+Uuid: DPYh7pd4a575hazR
+
+----
+
+Template: cover

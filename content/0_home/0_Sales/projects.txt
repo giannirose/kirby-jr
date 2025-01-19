@@ -1,6 +1,4 @@
-
-text/plain projects.txt ( HTML document, UTF-8 Unicode text, with very long lines )
-Title: 
+Title
 
 ----
 
