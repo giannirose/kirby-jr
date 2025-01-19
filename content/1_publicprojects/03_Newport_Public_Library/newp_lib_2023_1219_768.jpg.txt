@@ -1,0 +1,49 @@
+Src: 
+
+----
+
+Alt: Image of the front of the building with the window above the entry doors illuminated from within
+
+----
+
+Width: 1219
+
+----
+
+Height: 768
+
+----
+
+Caption: <p>The window at the library entry</p>
+
+----
+
+Citation: 
+
+----
+
+Spanwidth: 16
+
+----
+
+Imgclass: 
+
+----
+
+Link: 
+
+----
+
+Ratio: 
+
+----
+
+Crop: false
+
+----
+
+Uuid: jACeeggphYETyjt3
+
+----
+
+Template: image

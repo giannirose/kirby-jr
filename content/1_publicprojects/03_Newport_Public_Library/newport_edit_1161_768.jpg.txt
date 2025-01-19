@@ -1,0 +1,57 @@
+Src: 
+
+----
+
+Alt: Two windows pointed at the center with the lower half of a circle filled with wave shapes encircling variously colored circles, all surrounded by a circle of etched wave shapes with clear ripple glass extending to the left, right and bottom edges of the opeinings
+
+----
+
+Caption: 
+
+----
+
+Citation: 
+
+----
+
+Figclass: 
+
+----
+
+Imgclass: medium
+
+----
+
+Coverintro:
+
+Newport is an Oregon coastal city with a great cultural life.  
+A favorite story is that I first designed a window that metaphorically evoked light overshadowing darkness, knowledge driving out ignorance. The presentation did not go well.  
+"We're all about the water here" was the message from the jury, so I did as watery a design as I could conceive.
+
+----
+
+Width: 1161
+
+----
+
+Height: 768
+
+----
+
+Link: 
+
+----
+
+Ratio: 
+
+----
+
+Crop: false
+
+----
+
+Uuid: nf1eJ8BxYtDnatyP
+
+----
+
+Template: cover

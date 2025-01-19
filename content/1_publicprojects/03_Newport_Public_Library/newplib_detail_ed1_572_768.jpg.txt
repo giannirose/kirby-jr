@@ -1,0 +1,49 @@
+Src: 
+
+----
+
+Alt: Detail shows the fused glass circles in an array of colors capping white, light blue and darker blue wave shapes bordered by an area of etched wave shapes
+
+----
+
+Width: 572
+
+----
+
+Height: 768
+
+----
+
+Caption: <p>Detail: The circles are fused glass and the outer blue and white border is etched flashed glass</p>
+
+----
+
+Citation: 
+
+----
+
+Spanwidth: 8
+
+----
+
+Imgclass: 
+
+----
+
+Link: 
+
+----
+
+Ratio: 
+
+----
+
+Crop: false
+
+----
+
+Uuid: dEz9ljMyoipCvajN
+
+----
+
+Template: image

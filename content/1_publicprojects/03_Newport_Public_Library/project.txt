@@ -1,0 +1,80 @@
+Title: Newport Public Library
+
+----
+
+Headline: 
+
+----
+
+Subheadline: Newport, Oregon
+
+----
+
+Additionalinfo: 1998
+
+----
+
+Introtext:
+
+The blue and white border with the wave shapes is etched flashed glass. Flashed glass is a glass with, most commonly, a layer of thicker clear glass and a thin layer of an intense color, in this case blue.
+
+I masked the flashed glass on the color side and sandblasted away the blue to give the two-color detail in a single piece of glass.
+
+----
+
+Layout: [{"attrs":[],"columns":[{"blocks":[{"content":{"images":["file:\/\/jACeeggphYETyjt3","file:\/\/dEz9ljMyoipCvajN"],"caption":"","ratio":"","crop":"false"},"id":"5df6be60-d2c3-443e-9ace-6097ebedeb4f","isHidden":false,"type":"gallery"}],"id":"38943262-98d7-4b5b-844e-67451b5c83a0","width":"1\/1"}],"id":"1e2c63cc-88e5-4beb-b06e-5a2b8a53e862"}]
+
+----
+
+Projectlayout: 
+
+----
+
+Cover: - file://nf1eJ8BxYtDnatyP
+
+----
+
+Author: - user://ICmgA52Z
+
+----
+
+Tags: 
+
+----
+
+Images:
+
+- file://jACeeggphYETyjt3
+- file://dEz9ljMyoipCvajN
+
+----
+
+Galleryimages: 
+
+----
+
+Svg: 
+
+----
+
+Pdf: 
+
+----
+
+Intro: 
+
+----
+
+Text:
+
+Newport Public Library mainimgfloat mainimagegrid1rev Newport Public Library  Detail of the Newport Public Library window Newport Public Library detail   Newport is Oregon’s largest coastal city.
+An initial design fell flat with the committee. “We’re all about the water,” I was told.
+A central image of waves surrounded by an etched area of more waves with ripple glass at the edges found favor.    The Newport Library at the entrance The window sits above the main entrance to the library    The Newport Public Library window The full window
+
+----
+
+Date: 1998
+
+----
+
+Uuid: FbOi3aE5qayQ8B7s
