@@ -1,0 +1,89 @@
+Title: Eugene Public Library
+
+----
+
+Headline: Eugene Public Library
+
+----
+
+Subheadline: 
+
+----
+
+Additionalinfo:
+
+(link: http://www.robertsonsherwood.com text: Robertson Sherwood Architects PC)   
+Special thanks to (link: http://sworegonarchitect.blogspot.com text: Randy Nishimura) 
+2000
+
+----
+
+Introtext: 
+
+----
+
+Layout: [{"attrs":[],"columns":[{"blocks":[{"content":{"text":"A few years after the library was completed, I was asked to make a window for the 1st floor east side.\n\nThere was a staff desk placed there and it was thought some privacy from action on the street would be helpful."},"id":"05931ae3-eec5-4cda-9334-f27ad1c89b5f","isHidden":false,"type":"markdown"}],"id":"f11fd13b-2510-4462-9ef2-9ad07bf0e949","width":"1\/2"},{"blocks":[{"content":{"location":"kirby","image":["file:\/\/9Fo4ogf4Dc4Zkb3T"],"src":"","alt":"","width":null,"height":null,"caption":"","citation":"","link":"","figclass":"","imgclass":"","spanwidth":null,"inlinefigurestyle":"","imginlinestyle":"","testfield":""},"id":"8f9391e3-7f9f-4b3b-a449-c45b8c34381d","isHidden":false,"type":"image"}],"id":"52bf75d6-aced-4745-94a0-0639610268b6","width":"1\/2"}],"id":"f7573881-94df-4b00-955d-70cd1cfdaaf1"},{"attrs":[],"columns":[{"blocks":[{"content":{"images":["file:\/\/nJ9Qggxb22nFUynW","file:\/\/2yukQIi7dLBRvGlU","file:\/\/aFUq47vl5Ifugq2q"],"caption":"","ratio":"","crop":"false"},"id":"b23d5ae0-b117-451c-8ea1-d1f77eea3941","isHidden":false,"type":"gallery"}],"id":"2766fd70-39ea-45c9-8075-b3c786cc3eec","width":"1\/1"}],"id":"986453e9-5f40-4024-b77a-f76afba69b93"}]
+
+----
+
+Projectlayout: 
+
+----
+
+Cover: - file://c9WQ1xkyAPyoc7TD
+
+----
+
+Author: 
+
+----
+
+Tags: 
+
+----
+
+Images: - file://9Fo4ogf4Dc4Zkb3T
+
+----
+
+Galleryimages:
+
+- file://nJ9Qggxb22nFUynW
+- file://2yukQIi7dLBRvGlU
+- file://aFUq47vl5Ifugq2q
+
+----
+
+Svg: 
+
+----
+
+Pdf: 
+
+----
+
+Intro: A few years after the opening, a staff desk was moved to the east end of the library. To gain some privacy from action on the street, this window was commissioned. Some colors from the original 2nd floor windows were used, but the setting offered the opportunity to make the design an element of the streetscape, so this simple but bold approach.
+
+----
+
+Text: 
+
+----
+
+Imgclass: 
+
+----
+
+Project-layout: 
+
+----
+
+Files: 
+
+----
+
+Date: 2000
+
+----
+
+Uuid: RkiZcQrnX60GFlZR

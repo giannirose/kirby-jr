@@ -1,0 +1,45 @@
+Location: kirby
+
+----
+
+Image: 
+
+----
+
+Src: 
+
+----
+
+Alt: Alt text
+
+----
+
+Caption: Caption Here
+
+----
+
+Citation: Citation here
+
+----
+
+coverintro: coverintro in project.txt
+
+----
+
+Link: 
+
+----
+
+Ratio: 
+
+----
+
+Crop: false
+
+----
+
+Uuid: AZAgQwmxbmBWCeop
+
+----
+
+Template: image

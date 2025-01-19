@@ -1,0 +1,57 @@
+Src: 
+
+----
+
+Alt: One window features repeating central round shapes and one features repeating diamond shapes; each rises two stories
+
+----
+
+Caption: The east and west windows rise two stories at the 2nd and 3rd floor
+
+----
+
+Citation: This is a composite photo—these are actually on the east and west ends of the building
+
+----
+
+Figclass: 
+
+----
+
+Imgclass: medium
+
+----
+
+Coverintro:
+
+What a great place the library is. So helpful and welcoming.
+
+I made extensive use of a type of textured glass called thin reeded. The glass has ridges that act as a type of lens, and by orienting the direction of the ridges the light is interpreted differently.
+
+----
+
+Width: 1043
+
+----
+
+Height: 768
+
+----
+
+Link: 
+
+----
+
+Ratio: 
+
+----
+
+Crop: false
+
+----
+
+Uuid: c9WQ1xkyAPyoc7TD
+
+----
+
+Template: cover

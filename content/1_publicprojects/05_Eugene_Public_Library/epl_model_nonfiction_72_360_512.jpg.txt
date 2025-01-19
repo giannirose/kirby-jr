@@ -1,0 +1,49 @@
+Src: 
+
+----
+
+Alt: The model for the west widnows
+
+----
+
+Width: 360
+
+----
+
+Height: 512
+
+----
+
+Caption: <p>The presentation model for the west window</p>
+
+----
+
+Citation: The rectangle repeats the full 2 stories
+
+----
+
+Spanwidth: 8
+
+----
+
+Imgclass: 
+
+----
+
+Link: 
+
+----
+
+Ratio: 
+
+----
+
+Crop: false
+
+----
+
+Uuid: nJ9Qggxb22nFUynW
+
+----
+
+Template: image

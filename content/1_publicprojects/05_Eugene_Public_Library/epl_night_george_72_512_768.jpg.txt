@@ -1,0 +1,49 @@
+Src: 
+
+----
+
+Alt: The west windows rise 2 stories
+
+----
+
+Width: 512
+
+----
+
+Height: 768
+
+----
+
+Caption: <p>The west windows at night</p>
+
+----
+
+Citation: Photo: George Filgate
+
+----
+
+Spanwidth: 8
+
+----
+
+Imgclass: 
+
+----
+
+Link: 
+
+----
+
+Ratio: 
+
+----
+
+Crop: false
+
+----
+
+Uuid: aFUq47vl5Ifugq2q
+
+----
+
+Template: image

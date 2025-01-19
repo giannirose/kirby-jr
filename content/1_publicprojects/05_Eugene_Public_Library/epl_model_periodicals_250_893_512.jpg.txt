@@ -1,0 +1,49 @@
+Src: 
+
+----
+
+Alt: The presentation model for the east window
+
+----
+
+Width: 893
+
+----
+
+Height: 512
+
+----
+
+Caption: <p>The presentation model for the east window</p>
+
+----
+
+Citation: This rectangle also repeats the full 2-story height
+
+----
+
+Spanwidth: 8
+
+----
+
+Imgclass: 
+
+----
+
+Link: 
+
+----
+
+Ratio: 
+
+----
+
+Crop: false
+
+----
+
+Uuid: 2yukQIi7dLBRvGlU
+
+----
+
+Template: image

@@ -1,0 +1,45 @@
+Src: 
+
+----
+
+Alt: A geometric construction of spirals with alternating dark blue and white sections in each spiral interspersed here and there with light and dark variously colored areas
+
+----
+
+Width: 1154
+
+----
+
+Height: 768
+
+----
+
+Caption: <p>Actually a simple geometric construction</p>
+
+----
+
+Citation: 16 individual panels arranged to read as one
+
+----
+
+Imgclass: 
+
+----
+
+Link: 
+
+----
+
+Ratio: 
+
+----
+
+Crop: false
+
+----
+
+Uuid: biv2V5CDC7DkFJMC
+
+----
+
+Template: image

@@ -1,0 +1,57 @@
+Src: 
+
+----
+
+Alt: A geometric construction of spirals with alternating dark blue and white sections in each spiral interspersed here and there with light and dark variously colored areas
+
+----
+
+Caption: Actually a simple geometric construction
+
+----
+
+Citation: 16 individual panels arranged to read as one
+
+----
+
+Figclass: 
+
+----
+
+Imgclass: small
+
+----
+
+Coverintro:
+
+A ticket office such as this seems quaint some forty years later, when booking online makes it easy to choose seats and add other amenities.
+
+Bands of specific images are, at top, music motifs. The center band has a garden stage set, overlapping colors of stage lights, and performers on stage. The more dream-like lower band depicts undefined dancing figures, faces as character types, and floating paper pages.
+
+----
+
+Width: 1154
+
+----
+
+Height: 768
+
+----
+
+Link: 
+
+----
+
+Ratio: 
+
+----
+
+Crop: false
+
+----
+
+Uuid: 9Fo4ogf4Dc4Zkb3T
+
+----
+
+Template: cover
