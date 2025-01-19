@@ -1,0 +1,61 @@
+Src: 
+
+----
+
+Alt: The project is to the right of the entrance to the meeting chamber
+
+----
+
+Width: 1024
+
+----
+
+Height: 746
+
+----
+
+Caption: <p>The city hall lobby and entrance to the meeting chamber</p>
+
+----
+
+Citation: 
+
+----
+
+Figclass: midsize
+
+----
+
+Testfield: 
+
+----
+
+Imgclass: medium
+
+----
+
+Inlinefigurestyle: 
+
+----
+
+Imginlinestyle: 
+
+----
+
+Link: 
+
+----
+
+Ratio: 
+
+----
+
+Crop: false
+
+----
+
+Uuid: MS07UFcXloudGMaO
+
+----
+
+Template: image

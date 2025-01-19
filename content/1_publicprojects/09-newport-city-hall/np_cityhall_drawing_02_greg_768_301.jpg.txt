@@ -1,0 +1,59 @@
+Src: 
+
+----
+
+Alt: Drawing features Greg's arrangement of organic shapes representing stones and boulders
+
+----
+
+Caption: Drawing for the project by Greg Wilbur
+
+----
+
+Citation: 
+
+----
+
+Figclass: 
+
+----
+
+Imgclass: medium
+
+----
+
+Coverintro:
+
+The commission for the Newport City Hall is a collaboration with my friend and true master of the metal crafting, (link: https://www.gregwilbur.com/about text: Greg Wilbur.)
+
+(link: https://www.discovernewport.com text: Newport) is an Oregon coastal city. Our image is of water and stones and boulders to reflect the way these elements interact at the coast and, metaphorically for the civic process, how they act and shape each other.
+
+Greg makes what is called raised metal. From a flat sheet of metal and using only variously shaped hammers and, as a backing for the blows, metal stakes, he strikes the metal over and over- thousands of blows. With the resulting compression and expansion of the metal, pieces take shape. Greg made boulder-like shapes which he turrned in at the  bottom so the glass watery elements could be tucked around and beneath them.
+
+These were all mounted on a cut aluminum base for mounting.
+
+The glass is made with line after line of what are called "stringers." These are lengths of glass about the width of a piece of string. I fused—essentially melted—them onto a base of white glass and then overlaid that glass with concentric layers of clear glass, fused so the edges are rounded and thereby give a wavy optical effect to the stringers below.
+
+----
+
+Width: 768
+
+----
+
+Link: 
+
+----
+
+Ratio: 
+
+----
+
+Crop: false
+
+----
+
+Uuid: ubxqSgkhdehKhpgx
+
+----
+
+Template: cover

@@ -1,0 +1,79 @@
+Title: Newport City Hall
+
+----
+
+Headline: 
+
+----
+
+Subheadline: Newport, Oregon
+
+----
+
+Additionalinfo: 2008
+
+----
+
+Introtext: 
+
+----
+
+Layout: [{"attrs":[],"columns":[{"blocks":[{"content":{"location":"kirby","image":["file:\/\/MS07UFcXloudGMaO"],"src":"","alt":"The project is to the right of the entrance to the meeting chamber","width":1024,"height":746,"caption":"The city hall lobby and entrance to the meeting chamber","citation":"","link":"","figclass":"smallsize","imgclass":"center","spanwidth":null,"inlinefigurestyle":"","imginlinestyle":"","testfield":""},"id":"07a6385e-bf61-4ee0-9266-5a4db8ddb9df","isHidden":false,"type":"image"}],"id":"52acac1a-73fd-43fc-97a4-4c7dcdc05971","width":"1\/1"}],"id":"dddc12c5-a90f-47db-95ec-94cc50edaefc"},{"attrs":[],"columns":[{"blocks":[{"content":{"images":["file:\/\/Tqp6depiuHqb6S0x","file:\/\/qDiE9DoGiXmPx7Bt"],"caption":"","ratio":"","crop":"false"},"id":"77af46da-a968-464d-a24c-194193711264","isHidden":false,"type":"gallery"}],"id":"9e1a40dd-5909-4835-bc13-4f964e391b20","width":"1\/1"}],"id":"2624b93c-6324-4e02-b4ca-54525f1769a2"},{"attrs":[],"columns":[{"blocks":[{"content":{"images":["file:\/\/83K7Qr8TcJmJBF4U","file:\/\/LHtn1BjhH1dWLwPy"],"caption":"","ratio":"","crop":"false"},"id":"3b6c6837-9536-49b1-8ef6-1b48d1252f40","isHidden":false,"type":"gallery"}],"id":"4585c3a6-e79a-40f6-9120-9aba4159a8a5","width":"1\/1"}],"id":"7f064b97-842f-4e71-ad46-c2aa1d8e6f75"}]
+
+----
+
+Projectlayout: 
+
+----
+
+Cover: - file://ubxqSgkhdehKhpgx
+
+----
+
+Author: - user://ICmgA52Z
+
+----
+
+Tags: 
+
+----
+
+Images: 
+
+----
+
+Galleryimages:
+
+- file://qDiE9DoGiXmPx7Bt
+- file://MS07UFcXloudGMaO
+- file://Tqp6depiuHqb6S0x
+- file://LHtn1BjhH1dWLwPy
+- file://83K7Qr8TcJmJBF4U
+
+----
+
+Svg: 
+
+----
+
+Pdf: 
+
+----
+
+Intro: 
+
+----
+
+Text:
+
+Newport City Hall mainimgfloat mainimagegrid1 Newport City Hall  Artwork for Newport City Hall    Together, metalsmith Greg Wilbur and I were commissioned to create artwork at  the Newport City Hall council chambers.
+Newport is a coastal town; using water as a theme is encouraged and expected. We saw our design as a metaphor for political deliberations- the hard and set notion of established law  changed over time by the relentless action of the water.
+Greg’s work is in raised metal- thousands of hammer blows shape what begins as flat metal and, along the way, renders a pleasingly textured surface. Some elements are polished, some are toned with patina.    The Newport City Hall council chamber entry The sculpture at the entry to the council chamber    Installing the artwork Greg & I installing the artwork    Greg's Drawing One of Greg's drawings    Mock-up at the studio At the studio- a mock-up  with Greg's raised pieces.    Sculpture detail White glass at the base reflects light through a layer of glass "stringers" and the rippling surface.    Sculpture detail Raised metal: It takes many hammer-blows for Greg to create each piece.
+
+----
+
+Date: 2002
+
+----
+
+Uuid: UvOMvMMkJYLEzAl9

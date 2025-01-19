@@ -1,0 +1,53 @@
+Src: 
+
+----
+
+Alt: Greg's metal is finished differet ways, sometimes a dark-ish patina and sometimes polished to a bright brass finish
+
+----
+
+Width: 768
+
+----
+
+Height: 294
+
+----
+
+Caption: <p>a straight-on view of the piece</p>
+
+----
+
+Citation: 
+
+----
+
+Testfield: 
+
+----
+
+Spanwidth: 16
+
+----
+
+Imgclass: 
+
+----
+
+Link: 
+
+----
+
+Ratio: 
+
+----
+
+Crop: false
+
+----
+
+Uuid: qDiE9DoGiXmPx7Bt
+
+----
+
+Template: image

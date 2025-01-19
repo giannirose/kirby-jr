@@ -1,0 +1,53 @@
+Src: 
+
+----
+
+Alt: Close up of one part of the project
+
+----
+
+Width: 768
+
+----
+
+Height: 493
+
+----
+
+Caption: <p>Some of Greg's pieces are polished, some have an applied patina</p>
+
+----
+
+Citation: 
+
+----
+
+Testfield: 
+
+----
+
+Spanwidth: 15
+
+----
+
+Imgclass: 
+
+----
+
+Link: 
+
+----
+
+Ratio: 
+
+----
+
+Crop: false
+
+----
+
+Uuid: 83K7Qr8TcJmJBF4U
+
+----
+
+Template: image

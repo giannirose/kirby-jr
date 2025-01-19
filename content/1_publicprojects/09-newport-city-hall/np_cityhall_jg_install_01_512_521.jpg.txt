@@ -1,0 +1,53 @@
+Src: 
+
+----
+
+Alt: Greg is drilling while I watch
+
+----
+
+Width: 512
+
+----
+
+Height: 521
+
+----
+
+Caption: <p>At installation</p>
+
+----
+
+Citation: 
+
+----
+
+Testfield: 
+
+----
+
+Spanwidth: 8
+
+----
+
+Imgclass: 
+
+----
+
+Link: 
+
+----
+
+Ratio: 
+
+----
+
+Crop: false
+
+----
+
+Uuid: Tqp6depiuHqb6S0x
+
+----
+
+Template: image

@@ -1,0 +1,53 @@
+Src: 
+
+----
+
+Alt: Close-up with some polished pieces on the left and a large patinated piece on the right and the glass in between
+
+----
+
+Width: 1024
+
+----
+
+Height: 1024
+
+----
+
+Caption: <p>The hammer marks add texture and play with the reflected light</p>
+
+----
+
+Citation: 
+
+----
+
+Testfield: 
+
+----
+
+Spanwidth: 9
+
+----
+
+Imgclass: 
+
+----
+
+Link: 
+
+----
+
+Ratio: 
+
+----
+
+Crop: false
+
+----
+
+Uuid: LHtn1BjhH1dWLwPy
+
+----
+
+Template: image
