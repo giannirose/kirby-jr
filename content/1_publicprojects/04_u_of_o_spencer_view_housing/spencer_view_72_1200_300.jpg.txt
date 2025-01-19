@@ -1,0 +1,13 @@
+Coverintro: 
+
+----
+
+Crop: false
+
+----
+
+Uuid: Grp25zCFgndaGg4A
+
+----
+
+Template: cover

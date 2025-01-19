@@ -1,0 +1,57 @@
+Src: 
+
+----
+
+Alt: Window with a green sea turtle, an image from a Chinese map, the moon, a Portuguese Man-o-War, some coral and a school of fish
+
+----
+
+Width: 1068
+
+----
+
+Height: 768
+
+----
+
+Caption: 
+
+----
+
+Citation: 
+
+----
+
+Testfield: 
+
+----
+
+Imgclass: 
+
+----
+
+Inlinefigurestyle: 
+
+----
+
+Imginlinestyle: 
+
+----
+
+Link: 
+
+----
+
+Ratio: 
+
+----
+
+Crop: false
+
+----
+
+Uuid: AeeblHYgF6WKkEHJ
+
+----
+
+Template: image

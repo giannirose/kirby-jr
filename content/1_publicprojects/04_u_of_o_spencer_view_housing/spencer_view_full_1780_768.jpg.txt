@@ -1,0 +1,61 @@
+Src: 
+
+----
+
+Alt: The full width of the administration lobby with quilt-like patterns crowning the full expanse of glass
+
+----
+
+Width: 1780
+
+----
+
+Height: 768
+
+----
+
+Caption: <p>For the visiting students I thought of quilt patterns as comforting.</p>
+
+----
+
+Citation: Unfortunately the project was taken down and no one seems to have tracked why or when
+
+----
+
+Testfield: 
+
+----
+
+Spanwidth: 16
+
+----
+
+Imgclass: 
+
+----
+
+Inlinefigurestyle: 
+
+----
+
+Imginlinestyle: 
+
+----
+
+Link: 
+
+----
+
+Ratio: 
+
+----
+
+Crop: false
+
+----
+
+Uuid: q2P6NJQLmyYjTaN2
+
+----
+
+Template: image

@@ -1,0 +1,82 @@
+Title: University of Oregon Spencer View Housing
+
+----
+
+Headline: 
+
+----
+
+Subheadline: 
+
+----
+
+Additionalinfo:
+
+1997
+
+(link: https://glas-arch.com text: GLAS architects)
+
+----
+
+Introtext: 
+
+----
+
+Layout: [{"attrs":[],"columns":[{"blocks":[{"content":{"level":"h3","text":"The left-hand panel<br>","heading-style":""},"id":"b9cc94df-29d3-4f77-a21b-aba9862de4e4","isHidden":false,"type":"heading"}],"id":"e58b5e93-59d3-4864-a66f-5e79938fd1d8","width":"1\/1"}],"id":"d92d78aa-22d3-485e-94bc-58f8d02857cc"},{"attrs":[],"columns":[{"blocks":[{"content":{"location":"kirby","image":["file:\/\/AeeblHYgF6WKkEHJ"],"src":"","alt":"Window with a green sea turtle, an image from a Chinese map, the moon, a Portuguese Man-o-War, some coral and a school of fish","width":1068,"height":768,"caption":"","citation":"","link":"","figclass":"","imgclass":"","spanwidth":null,"inlinefigurestyle":"","imginlinestyle":"","testfield":""},"id":"f1fbb3c1-1713-42f2-bbde-d80c9e0d7a0a","isHidden":false,"type":"image"}],"id":"5957d56c-1547-464f-8536-f2cded919440","width":"7\/12"},{"blocks":[{"content":{"text":"<div class=\"blocks-text\">\n\nThe ship is an image adapted from an old Chinese map.\n\nWith the children in mind, there is a school of fish with one swimming in the other direction.\n<\/div>"},"id":"c5c22e88-0fd0-43f7-b7c3-3540bd281974","isHidden":false,"type":"markdown"}],"id":"5578b3aa-66e6-40a0-991c-412df6fc305e","width":"5\/12"}],"id":"cb6dfd7a-72cd-413e-84a6-984bdfc12e19"},{"attrs":[],"columns":[{"blocks":[{"content":{"level":"h3","text":"The right-hand panel","heading-style":""},"id":"eadaddf9-360b-4062-b7ef-ba38a4c9f633","isHidden":false,"type":"heading"}],"id":"2ca69890-c62a-4d2c-9908-54d0ced0054a","width":"1\/1"}],"id":"6346abc5-69fa-4f84-989a-1b1c72a57f27"},{"attrs":[],"columns":[{"blocks":[{"content":{"text":"I did the valley trees as a sort of color wheel.\n\nThere is a monarch butterfly caterpillar."},"id":"5158ec09-1004-4cab-8936-0899f1894303","isHidden":false,"type":"markdown"}],"id":"af650690-14a6-4e48-8fcd-f10aea0b0189","width":"5\/12"},{"blocks":[{"content":{"location":"kirby","image":["file:\/\/rVRyt2gqhwdZI5Y3"],"src":"","alt":"Inages of conifer trees in mountains and deciduous trees in a valley, a monarch butterfly caterpillar, a bird and a comet","width":1054,"height":768,"caption":"","citation":"","link":"","figclass":"","imgclass":"","spanwidth":null,"inlinefigurestyle":"","imginlinestyle":"","testfield":""},"id":"e526392b-8954-46fa-8faa-b96314930448","isHidden":false,"type":"image"}],"id":"c739b619-16ce-49bc-ace9-9684d1773bb2","width":"7\/12"}],"id":"04e27854-30a2-45b9-940d-4569fc7f083e"},{"attrs":[],"columns":[{"blocks":[{"content":{"text":"<h3 class=\"center\">A second project for the complex: Glass at the administration office<\/h3>"},"id":"a20ae709-c8fa-4cd0-a1e1-6d00a17db689","isHidden":false,"type":"markdown"}],"id":"3967ea2c-8c5b-4aa9-910f-7c8e0592463d","width":"1\/1"}],"id":"d4cba11b-9df9-4310-9200-3212937eac0a"},{"attrs":[],"columns":[{"blocks":[{"content":{"location":"kirby","image":["file:\/\/q2P6NJQLmyYjTaN2"],"src":"","alt":"The full width of the administration lobby with quilt-like patterns crowning the full expanse of glass","width":1780,"height":768,"caption":"For the visiting students I thought of quilt patterns as comforting.","citation":"Unfortunately, this project was taken down and no one seems to have tracked why or when.","link":"","figclass":"","imgclass":"","spanwidth":null,"inlinefigurestyle":"","imginlinestyle":"","testfield":""},"id":"21271001-cecd-4262-b1db-08a593a5ac12","isHidden":false,"type":"image"}],"id":"02126ea6-ea72-4277-9d18-3a2acf8b824a","width":"1\/1"}],"id":"b3f41359-3d55-4875-8c5a-9d9bf9ab5a05"},{"attrs":[],"columns":[{"blocks":[{"content":{"images":["file:\/\/4vs8aJSQiAtyEjJl","file:\/\/5wfblZqPQbiRyemo"],"caption":"","ratio":"","crop":"false"},"id":"bf2a4671-e94c-4216-9333-5e1764b509b6","isHidden":false,"type":"gallery"}],"id":"35b90304-1383-417a-a695-6a98ea3e8421","width":"1\/1"}],"id":"38afe812-4f6c-482b-8f6e-226522133b7c"},{"attrs":[],"columns":[{"blocks":[{"content":{"images":["file:\/\/5nojKpSJYou4sk2v","file:\/\/IFs5wO6EUFOpMsGS"],"caption":"","ratio":"","crop":"false"},"id":"842e956d-86dd-4481-9ff9-6374b2cafe20","isHidden":false,"type":"gallery"}],"id":"786d7182-bb0f-4a3b-81e3-8819b5bd19f2","width":"1\/1"}],"id":"4f9c56be-11a5-4008-b5af-84e81df81a38"}]
+
+----
+
+Projectlayout: 
+
+----
+
+Cover: - file://KzdzAdodNIjYoVbp
+
+----
+
+Author: - user://ICmgA52Z
+
+----
+
+Tags: 
+
+----
+
+Images:
+
+- file://AeeblHYgF6WKkEHJ
+- file://rVRyt2gqhwdZI5Y3
+
+----
+
+Galleryimages:
+
+- file://q2P6NJQLmyYjTaN2
+- file://5wfblZqPQbiRyemo
+- file://IFs5wO6EUFOpMsGS
+- file://5nojKpSJYou4sk2v
+- file://4vs8aJSQiAtyEjJl
+
+----
+
+Svg: 
+
+----
+
+Pdf: 
+
+----
+
+Intro: 
+
+----
+
+Text: 
+
+----
+
+Date: 1997
+
+----
+
+Uuid: nYzWlWc28qQLPv1S

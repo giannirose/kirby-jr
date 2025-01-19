@@ -1,0 +1,53 @@
+Src: 
+
+----
+
+Alt: A detail featuring spots of colored dichroic glass on a purple field
+
+----
+
+Width: 751
+
+----
+
+Height: 512
+
+----
+
+Caption: <p>Detail featuring dichroic glass circles</p>
+
+----
+
+Citation: 
+
+----
+
+Testfield: 
+
+----
+
+Spanwidth: 6
+
+----
+
+Imgclass: 
+
+----
+
+Link: 
+
+----
+
+Ratio: 
+
+----
+
+Crop: false
+
+----
+
+Uuid: 5nojKpSJYou4sk2v
+
+----
+
+Template: image

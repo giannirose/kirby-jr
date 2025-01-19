@@ -1,0 +1,53 @@
+Src: 
+
+----
+
+Alt: The left side of the administration panels comprise three separate panels at each of the floor-to-ceiling windows
+
+----
+
+Width: 2265
+
+----
+
+Height: 512
+
+----
+
+Caption: <p>The left side of the administration building panels</p>
+
+----
+
+Citation: 
+
+----
+
+Testfield: 
+
+----
+
+Spanwidth: 18
+
+----
+
+Imgclass: 
+
+----
+
+Link: 
+
+----
+
+Ratio: 
+
+----
+
+Crop: false
+
+----
+
+Uuid: IFs5wO6EUFOpMsGS
+
+----
+
+Template: image

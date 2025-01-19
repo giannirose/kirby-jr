@@ -1,0 +1,57 @@
+Src: 
+
+----
+
+Alt: Inages of conifer trees in mountains and deciduous trees in a valley, a monarch butterfly caterpillar, a bird and a comet
+
+----
+
+Width: 1054
+
+----
+
+Height: 768
+
+----
+
+Caption: 
+
+----
+
+Citation: 
+
+----
+
+Testfield: 
+
+----
+
+Imgclass: 
+
+----
+
+Inlinefigurestyle: 
+
+----
+
+Imginlinestyle: 
+
+----
+
+Link: 
+
+----
+
+Ratio: 
+
+----
+
+Crop: false
+
+----
+
+Uuid: rVRyt2gqhwdZI5Y3
+
+----
+
+Template: image

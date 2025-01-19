@@ -1,0 +1,59 @@
+Src: 
+
+----
+
+Alt: Four panels of images from the sea to the mountains with images of famous spots around the world such as the Eiffel Tower, the Greek temple at Paestum, the Taj Mahal, and a pyramid
+
+----
+
+Caption: Childcare center window at the housing complex
+
+----
+
+Citation: The project is 26' wide and about 5' tall
+
+----
+
+Figclass: 
+
+----
+
+Imgclass: 
+
+----
+
+Coverintro:
+
+Spencer View is a housing complex at the University of Oregon for international students.
+
+There are two projects at the complex—a window at the childcare center, shown above, and windows spanning the administration office entry area.
+
+The childcare center project has elements of places around the world, and travels from the sea in the left-hand panel to the mountains in the right-hand panel. I was engaged with and loving the work of Paul Klee at the time and note a bit of his influence
+
+----
+
+Width: 1920
+
+----
+
+Height: 480
+
+----
+
+Link: 
+
+----
+
+Ratio: 
+
+----
+
+Crop: false
+
+----
+
+Uuid: KzdzAdodNIjYoVbp
+
+----
+
+Template: cover

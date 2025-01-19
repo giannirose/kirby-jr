@@ -1,0 +1,53 @@
+Src: 
+
+----
+
+Alt: Detail featuring the colored fields with spons and a fused glass tree motif
+
+----
+
+Width: 1631
+
+----
+
+Height: 768
+
+----
+
+Caption: <p>Detail as installed—a fancy fusing technique was used to get the concentric colors in the leaf shapes</p>
+
+----
+
+Citation: 
+
+----
+
+Testfield: 
+
+----
+
+Spanwidth: 10
+
+----
+
+Imgclass: 
+
+----
+
+Link: 
+
+----
+
+Ratio: 
+
+----
+
+Crop: false
+
+----
+
+Uuid: 5wfblZqPQbiRyemo
+
+----
+
+Template: image

@@ -1,0 +1,53 @@
+Src: 
+
+----
+
+Alt: The presentation panel has the details that are re-used across the full expanse of the project
+
+----
+
+Width: 1798
+
+----
+
+Height: 768
+
+----
+
+Caption: <p>The presentation panel for the project</p>
+
+----
+
+Citation: 
+
+----
+
+Testfield: 
+
+----
+
+Spanwidth: 14
+
+----
+
+Imgclass: 
+
+----
+
+Link: 
+
+----
+
+Ratio: 
+
+----
+
+Crop: false
+
+----
+
+Uuid: 4vs8aJSQiAtyEjJl
+
+----
+
+Template: image
